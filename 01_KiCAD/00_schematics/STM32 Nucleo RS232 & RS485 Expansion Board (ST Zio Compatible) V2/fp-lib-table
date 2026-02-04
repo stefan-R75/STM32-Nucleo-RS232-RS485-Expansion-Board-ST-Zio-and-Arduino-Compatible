@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "THVD4431RHAR")(type "KiCad")(uri "/Users/stefanvanrozendaal/Library/Mobile Documents/com~apple~CloudDocs/00_Projects/STM32 Nucleo RS232 & RS485 Expansion Board (ST Zio Compatible) V2/04-Github/STM32-Nucleo-RS232---RS485-Expansion-Board--ST-Zio-Compatible--V2/01_KiCAD/02_custom_libraries/01_footprints/THVD4431RHAR.pretty")(options "")(descr ""))
+  (lib (name "PH1190299")(type "KiCad")(uri "/Users/stefanvanrozendaal/Library/Mobile Documents/com~apple~CloudDocs/00_Projects/STM32 Nucleo RS232 & RS485 Expansion Board (ST Zio Compatible) V2/04-Github/STM32-Nucleo-RS232---RS485-Expansion-Board--ST-Zio-Compatible--V2/01_KiCAD/02_custom_libraries/01_footprints/PH1190299.pretty")(options "")(descr ""))
+)

@@ -1,0 +1,16 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "a42961ac-cba9-4d77-8b95-4f5cdbdf29cf")
+	(paper "A4")
+	(title_block
+		(title "STM32 Nucleo RS232 & RS485 Expansion Board V2")
+		(date "2026-02-10")
+		(rev "1.0.0238")
+		(comment 1 "Licensed under GNU GPL v3.0 or later")
+		(comment 2 "PROVIDED \"AS IS\" WITHOUT WARRANTY. USE AT YOUR OWN RISK. NO LIABILITY ASSUMED.")
+		(comment 3 "Initial revision")
+	)
+	(lib_symbols)
+)

@@ -1,0 +1,265 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "080f83b7-8913-48e8-ab8e-79cb12295542")
+	(paper "A4")
+	(title_block
+		(title "STM32 Nucleo RS232 & RS485 Expansion Board V2")
+		(date "2026-02-10")
+		(rev "1.0.0238")
+		(comment 1 "Licensed under GNU GPL v3.0 or later")
+		(comment 2 "PROVIDED \"AS IS\" WITHOUT WARRANTY. USE AT YOUR OWN RISK. NO LIABILITY ASSUMED.")
+		(comment 3 "Initial revision")
+	)
+	(lib_symbols)
+	(text "DE-9 pin	Signaal	Richting bij DCE (5T3R)	Omschrijving\n1	DCD		OUT		Data Carrier Detect\n2	RXD		IN		Receive Data (naar transceiver)\n3	TXD		OUT		Transmit Data (van transceiver)\n4	DTR		IN		Data Terminal Ready\n5	GND		n.v.t.	Signaal ground\n6	DSR		OUT		Data Set Ready\n7	RTS		IN		Request To Send\n8	CTS		OUT		Clear To Send\n9	RI		OUT		Ring Indicator"
+		(exclude_from_sim no)
+		(at 20.828 91.186 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "1aa43eb6-f58a-4f3a-b0dc-425e6588449a")
+	)
+	(sheet
+		(at 224.79 27.94)
+		(size 44.45 31.75)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "067a36dd-1222-49fa-b4c7-0b289d0be8ff")
+		(property "Sheetname" "ZIO_Compatible_connector"
+			(at 224.79 26.543 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ZIO_Compatible_Connector.kicad_sch"
+			(at 224.79 60.2746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "STM32 Nucleo RS232 & RS485 Expansion Board (ST Zio Compatible) V2"
+				(path "/080f83b7-8913-48e8-ab8e-79cb12295542"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 123.19 27.94)
+		(size 44.45 31.75)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "486090d1-223c-4361-8c2c-169c4ca9272f")
+		(property "Sheetname" "Multiple Input Configuration Logic"
+			(at 123.19 27.2284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Multiple_IO_Input.kicad_sch"
+			(at 123.19 60.2746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "STM32 Nucleo RS232 & RS485 Expansion Board (ST Zio Compatible) V2"
+				(path "/080f83b7-8913-48e8-ab8e-79cb12295542"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 173.99 27.94)
+		(size 44.45 31.75)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "5716f836-4f02-485e-9294-ac752db4367c")
+		(property "Sheetname" "Jumper Selection (Hardware)"
+			(at 173.99 27.2284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "HW_Jumper_Selection.kicad_sch"
+			(at 173.99 60.2746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "STM32 Nucleo RS232 & RS485 Expansion Board (ST Zio Compatible) V2"
+				(path "/080f83b7-8913-48e8-ab8e-79cb12295542"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 72.39 27.94)
+		(size 44.45 31.75)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "d1bb9d55-41f4-4fc3-ae06-1adc98dc5d39")
+		(property "Sheetname" "Rx & Tx LED"
+			(at 72.39 27.2284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "RX_TX_LED.kicad_sch"
+			(at 72.39 60.2746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "STM32 Nucleo RS232 & RS485 Expansion Board (ST Zio Compatible) V2"
+				(path "/080f83b7-8913-48e8-ab8e-79cb12295542"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 21.59 27.94)
+		(size 44.45 31.75)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "eb278bca-04f9-4d71-99cd-ac1b982e4a86")
+		(property "Sheetname" "RS232 & RS485 Tranceiver"
+			(at 21.59 27.2284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "RS232_RS485.kicad_sch"
+			(at 21.59 60.2746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "STM32 Nucleo RS232 & RS485 Expansion Board (ST Zio Compatible) V2"
+				(path "/080f83b7-8913-48e8-ab8e-79cb12295542"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+	(embedded_files
+		(file
+			(name "Custom_Default.kicad_wks")
+			(type worksheet)
+			(data |KLUv/WD5DeUZALYhaidQdRsws87MzAz1OaRZUVeNXmdpurgeQwmIVPqE8VKT9t6qdsyUMWtfAFkA
+				ZAChZXUF0ftezSD8jzUh/B2OzdH7Wk6moMxvKliYfsXu/GdJ9VqwMC/verLhl+oTAIBASPQ1jNdm
+				ZayM3341A4aszvhprrdyCIBAQXN3TEbZF9sw1xEBEAg/pMxHPfshBH+r16aN/VDkmbJdYZKzo0aj
+				iY4BAn/xxnvKDnHIcqu/VF/zM2JTdpymUvaufVpDNed6M/Ye7NjR+ngY1HQF337Xzvd3RTjTtvpv
+				BYGwJ1v2d2uGdXTvz/QDV+YcxOKwgG8t7u6f7a+10wkMKcHnsPopKONN5xqilApHUVBOtvtArOlM
+				OjBcZVQrmmb1I8bDhfUWXTJxdBUOk2EoFo4HahCv2dE9xuw6NEJLcRYFI8Ndus6BGnSiPmXknE25
+				BoECNqVrWuVc2vH64pBqmd1iR4nI3LVtHrB5ZQCQ0u/WE670paO+dFO/64OMslUrjzJ6H+SUm7Zd
+				m4ZlctMw11xacTEvlz0vt0i4SGSymNfWsCgoFo5rdAiEZ0H6tmWAt6BRSYZIZEQKkhSk0BpwRKTG
+				qnMQr/kB8pEtcUmvxPyN6qXIkxC7rvHeFWCLtRDVkmCIfG5wMMnwWgvHf7u0x1abL6CdGeQ2ct+3
+				J3H2NxggLiFdTVTgNye4A7H0CUe87wvgJbEKPgNJwBPSg74buXsQrf5ODk8Jl5TJe5ApVxzyFyHe
+				meXeV54J2HdOHgCeZtjqyKhCmtCMFUamazU4S9ZPCla1wyKpxa3jwoWNyQUBhDvpfjb5LhwWace0
+				bRaPAGk696J9SejoKe3XhhL0KmEBPkF1QE9OETFOH3r6iWIgA0BdAz/oDm9x1CBoxbEAZiF30Pk0
+				gYQlLtlTxELaIsiMB2Ay6U1a3CXqTh6KP6TEx8PeciuYlenwKfsJJkSnk+h9G3SEA06ZNuXbeVFC
+				Hjn8EpyTGco+nHH2ItkFA8yxhqMMI4AdqsyjQHaYqIWBBREOhEV4hdA49sJAd5fDQHNzdOgSTL89
+				YM3f1zqHmNTX3bYR2putMfrY5c7PWJqv1RKwRKIJ+glyu2oRs/Fhqg==|
+			)
+			(checksum "79F34BD5D74B68055EE396B1A7AAA21F")
+		)
+	)
+)

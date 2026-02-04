@@ -24,6 +24,17 @@
 		)
 		(uuid "1aa43eb6-f58a-4f3a-b0dc-425e6588449a")
 	)
+	(text "THVD4431RHAR\nPin#	Function	I/O		GPIO	ZIO Connector\n09		VIO			Output	N/A		N/A\n14		MODE0		Input	PF13	CN07 - #20\n15		MODE1		Input	PC3		CN09 - #05\n13		MODE2		Input	PC2		CN09 - #09\n11		SLR			Input	PA5		CN07 - #10\n12		DIR			Input	PG12	CN10 - #02\n17		TERM_TX		Input	PB1		CN09 - #07\n18		TERM_RX		Input	PA3		CB09 - #01\n"
+		(exclude_from_sim no)
+		(at 20.574 116.332 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left top)
+		)
+		(uuid "b68d7cdd-1019-4140-b4af-77c4828b157c")
+	)
 	(sheet
 		(at 224.79 27.94)
 		(size 44.45 31.75)

@@ -469,6 +469,393 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "PCM_SparkFun-Capacitor:0.1uF_0603_25V_20%"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0.254)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "C"
+				(at 0.635 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "0.1uF"
+				(at 0.635 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" "PCM_SparkFun-Capacitor:C_0603_1608Metric"
+				(at 0 -11.43 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://cdn.sparkfun.com/assets/8/a/4/a/5/Kemet_Capacitor_Datasheet.pdf"
+				(at 0 -13.97 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Unpolarized capacitor"
+				(at 0 -19.05 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "PROD_ID" "CAP-00810"
+				(at 0 -16.51 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Voltage" "25V"
+				(at 0 -6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Tolerance" "20%"
+				(at 0 -8.89 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "SparkFun cap capacitor 100nF"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "C_*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "0.1uF_0603_25V_20%_0_1"
+				(polyline
+					(pts
+						(xy -1.524 0.508) (xy 1.524 0.508)
+					)
+					(stroke
+						(width 0.3048)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.524 -0.508) (xy 1.524 -0.508)
+					)
+					(stroke
+						(width 0.3302)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "0.1uF_0603_25V_20%_1_1"
+				(pin passive line
+					(at 0 2.54 270)
+					(length 2.032)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -2.54 90)
+					(length 2.032)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "PCM_SparkFun-PowerSymbol:GND"
+			(power)
+			(pin_names
+				(offset 0)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#PWR"
+				(at 0 -6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "GND"
+				(at 0 -3.81 0)
+				(do_not_autoplace)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+				(at 0 -8.89 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "SparkFun global power"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "GND_0_1"
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 -1.27) (xy 1.27 -1.27) (xy 0 -2.54) (xy -1.27 -1.27) (xy 0 -1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "GND_1_1"
+				(pin power_in line
+					(at 0 0 270)
+					(length 0)
+					(hide yes)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "PCM_fab:R_0603"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "R"
+				(at 2.54 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "R_0603"
+				(at -2.54 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "PCM_fab:R_0603"
+				(at 0 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Resistor"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "R res resistor RC0603FR-101KL RC0603FR-074K99L RC0603FR-0710KL RC0603FR-101ML"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "*R*1206*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "R_0603_0_1"
+				(rectangle
+					(start -1.016 -2.54)
+					(end 1.016 2.54)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+			)
+			(symbol "R_0603_1_1"
+				(pin passive line
+					(at 0 5.08 270)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -5.08 90)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "PH1190299:1190299"
 			(pin_names
 				(offset 1.016)
@@ -1786,6 +2173,807 @@
 			(embedded_fonts no)
 		)
 	)
+	(junction
+		(at 224.79 100.33)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1dc86e61-aa55-439b-b040-cd6858ee3398")
+	)
+	(junction
+		(at 234.95 105.41)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5475a69a-5a38-42b3-b5f1-18056a2ff570")
+	)
+	(junction
+		(at 204.47 90.17)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8bb1d699-b024-4756-b499-38f6946c3b2f")
+	)
+	(junction
+		(at 214.63 95.25)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a6e4bd75-1d80-416b-901a-788281636b5c")
+	)
+	(wire
+		(pts
+			(xy 246.38 110.49) (xy 248.92 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "03e5feee-a6f8-46d0-bdfd-4e861ba00ffa")
+	)
+	(wire
+		(pts
+			(xy 224.79 100.33) (xy 248.92 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "07188ac3-6980-44e2-bd9b-5eb1d9f4cdb2")
+	)
+	(wire
+		(pts
+			(xy 171.45 90.17) (xy 204.47 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0aee37b8-bf1e-48f3-8ae1-c4a5c8784610")
+	)
+	(wire
+		(pts
+			(xy 214.63 95.25) (xy 248.92 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "14663567-8ac3-4b41-b7cf-0530f6cac644")
+	)
+	(wire
+		(pts
+			(xy 163.83 139.7) (xy 177.8 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "24dd4f23-d1a3-465c-a6d8-824dfa69c18d")
+	)
+	(wire
+		(pts
+			(xy 171.45 95.25) (xy 214.63 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "266b6a53-416a-4a7a-ba98-542f7a7869df")
+	)
+	(wire
+		(pts
+			(xy 204.47 90.17) (xy 248.92 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "30eff614-5397-40c6-a7a1-ba5c1df3dc0e")
+	)
+	(wire
+		(pts
+			(xy 234.95 105.41) (xy 248.92 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "368307ad-f3c4-4984-b308-298c576cc7a2")
+	)
+	(wire
+		(pts
+			(xy 171.45 64.77) (xy 173.99 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3c069f1f-1f7a-4a65-88f0-e81d75e3988a")
+	)
+	(wire
+		(pts
+			(xy 177.8 125.73) (xy 177.8 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "403667f9-0fee-4063-849f-edbb5188e467")
+	)
+	(wire
+		(pts
+			(xy 234.95 59.69) (xy 234.95 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "41927906-642f-446f-9f67-7f5b17273f29")
+	)
+	(wire
+		(pts
+			(xy 214.63 44.45) (xy 245.11 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "41ca5780-94e8-4e3e-badb-6e18784af12b")
+	)
+	(wire
+		(pts
+			(xy 177.8 118.11) (xy 177.8 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "422d79e5-9866-430a-9ca8-b40917a2459e")
+	)
+	(wire
+		(pts
+			(xy 196.85 125.73) (xy 196.85 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "45d39bdd-d17b-4153-98d1-5b8488c59881")
+	)
+	(wire
+		(pts
+			(xy 204.47 72.39) (xy 204.47 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4f44901a-62c2-4579-9401-3bbb87e8d078")
+	)
+	(wire
+		(pts
+			(xy 214.63 72.39) (xy 214.63 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5607471f-3832-4194-8cc8-3e069b694732")
+	)
+	(wire
+		(pts
+			(xy 171.45 69.85) (xy 173.99 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "56378bd6-ff71-47d6-8720-73006a89cbf0")
+	)
+	(wire
+		(pts
+			(xy 171.45 82.55) (xy 173.99 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5f55974f-f68e-4d38-b789-95442e3f0848")
+	)
+	(wire
+		(pts
+			(xy 171.45 107.95) (xy 248.92 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "62740ae5-61ff-4355-b6dc-e4856489c6fb")
+	)
+	(wire
+		(pts
+			(xy 224.79 52.07) (xy 245.11 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "66b75b08-9827-45ce-bbfa-a771246e1f25")
+	)
+	(wire
+		(pts
+			(xy 161.29 142.24) (xy 196.85 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6957fb3f-2458-4abf-892d-4eac508f251c")
+	)
+	(wire
+		(pts
+			(xy 171.45 102.87) (xy 248.92 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6d9c8c98-5d3f-4f54-b436-3cd672b49870")
+	)
+	(wire
+		(pts
+			(xy 214.63 44.45) (xy 214.63 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "77fc3a29-5c6f-41e9-a12e-a5a369a2fffb")
+	)
+	(wire
+		(pts
+			(xy 224.79 52.07) (xy 224.79 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7a57c83e-908e-4a67-a783-be9e00747d90")
+	)
+	(wire
+		(pts
+			(xy 204.47 36.83) (xy 204.47 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7cc6c520-a066-4562-829f-ae17a5160a2c")
+	)
+	(wire
+		(pts
+			(xy 171.45 115.57) (xy 196.85 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "83df2e58-2986-4363-b9ab-4eac7da1fc58")
+	)
+	(wire
+		(pts
+			(xy 171.45 97.79) (xy 248.92 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8bca36ab-0c22-4c68-bd2c-834a009d15a3")
+	)
+	(wire
+		(pts
+			(xy 171.45 105.41) (xy 234.95 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8f4ccc90-6255-416d-9f72-ae2a6e6a7e38")
+	)
+	(wire
+		(pts
+			(xy 171.45 77.47) (xy 186.69 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8fb52b1d-dd4c-480b-b883-6f4c8e6008c2")
+	)
+	(wire
+		(pts
+			(xy 196.85 115.57) (xy 196.85 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "98969a04-799d-4064-ad8c-ae71bd57b77a")
+	)
+	(wire
+		(pts
+			(xy 171.45 59.69) (xy 173.99 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a4b78a70-4763-44f9-9abb-b4f102c894d5")
+	)
+	(wire
+		(pts
+			(xy 224.79 72.39) (xy 224.79 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a9bee013-f129-489a-9dee-d1fde63e8d86")
+	)
+	(wire
+		(pts
+			(xy 161.29 137.16) (xy 161.29 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aeb53a0f-e29b-4a49-99f8-2d61661f7eb6")
+	)
+	(wire
+		(pts
+			(xy 204.47 36.83) (xy 245.11 36.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cacadc06-c83e-4866-b1ab-f3e17f64a3c3")
+	)
+	(wire
+		(pts
+			(xy 171.45 92.71) (xy 248.92 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d7d77ef6-cc86-4b6c-b01b-5b321319ae15")
+	)
+	(wire
+		(pts
+			(xy 163.83 137.16) (xy 163.83 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dd4257ad-7b6f-4444-97b5-4756728b66fa")
+	)
+	(wire
+		(pts
+			(xy 171.45 118.11) (xy 177.8 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dec4a894-7311-47b8-be4e-1b686aca0cae")
+	)
+	(wire
+		(pts
+			(xy 234.95 59.69) (xy 245.11 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e28e4e96-4b93-4621-a79f-d55f091f4ed2")
+	)
+	(wire
+		(pts
+			(xy 171.45 67.31) (xy 186.69 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e4552e50-efed-463e-9276-1ef60e18c5c7")
+	)
+	(wire
+		(pts
+			(xy 234.95 72.39) (xy 234.95 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e897f434-3dbd-4024-8623-4b25e31b08b8")
+	)
+	(wire
+		(pts
+			(xy 246.38 110.49) (xy 246.38 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ea1a6129-8864-47e6-b0e6-2218a2574262")
+	)
+	(wire
+		(pts
+			(xy 171.45 74.93) (xy 173.99 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ed1ae757-f8b9-4244-b3cf-231e5e929bd8")
+	)
+	(wire
+		(pts
+			(xy 171.45 100.33) (xy 224.79 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f6c51cbe-cd9f-4baa-8e28-e4f1d081a205")
+	)
+	(wire
+		(pts
+			(xy 171.45 85.09) (xy 186.69 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fe8e02ed-b09a-46fb-833d-ac0e344c3078")
+	)
+	(global_label "MODE2"
+		(shape input)
+		(at 173.99 69.85 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "1106c77b-6176-4ae7-acca-9ed2f25625c2")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 183.3856 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "TERM_TX"
+		(shape input)
+		(at 173.99 82.55 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "218aaa5b-9a4e-4295-986b-5034dc7196b2")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 184.9579 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DIR"
+		(shape input)
+		(at 173.99 74.93 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "568a80d4-f418-4cb7-b1fe-cc6bf14d5691")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 180.12 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "TERM_RX"
+		(shape input)
+		(at 186.69 85.09 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "5cd8460d-9b5e-4548-a0da-3c9dcb4ae2e6")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 197.9603 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "MODE0"
+		(shape input)
+		(at 173.99 64.77 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "8094cb18-a179-4dd2-877c-f7ee7965fc82")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 183.3856 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "VIO"
+		(shape output)
+		(at 173.99 59.69 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "a598aaf4-a9aa-4165-bf03-99ffb5d02f1d")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 179.9991 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "MODE1"
+		(shape input)
+		(at 186.69 67.31 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d995446a-6920-4c1e-8af8-34682b863a78")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 196.0856 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SLR"
+		(shape input)
+		(at 186.69 77.47 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "f36dfcbd-ce50-485c-863b-07a3672f501d")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 193.1828 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(symbol
+		(lib_id "PCM_fab:R_0603")
+		(at 214.63 67.31 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1e6b8d99-047e-4e73-9127-2cb4d5c08ed4")
+		(property "Reference" "R2"
+			(at 217.17 64.7699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "0R"
+			(at 217.17 67.3099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(color 72 0 72 1)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "PCM_fab:R_0603"
+			(at 214.63 67.31 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C253507.pdf"
+			(at 214.63 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "250mW 0Ω Thick Film Resistor 0603 Chip Resistor - Surface Mount RoHS"
+			(at 214.63 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "ROHM"
+			(at 214.63 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "PMR03EZPJ000"
+			(at 214.63 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" ""
+			(at 214.63 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SPN" ""
+			(at 214.63 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C253507"
+			(at 214.63 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0603"
+			(at 214.63 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "SMD"
+			(at 214.63 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 214.63 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Dielectric" ""
+			(at 214.63 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage Rating" "250mW"
+			(at 217.17 69.8499 0)
+			(effects
+				(font
+					(size 1.016 1.016)
+					(color 221 133 0 1)
+				)
+				(justify left)
+			)
+		)
+		(pin "1"
+			(uuid "05721e25-65e8-43f3-ad3d-7ff56048cf05")
+		)
+		(pin "2"
+			(uuid "7e07c306-78d7-4de7-97a8-322e627ac904")
+		)
+		(instances
+			(project "STM32 Nucleo RS232 & RS485 Expansion Board (ST Zio Compatible) V2"
+				(path "/080f83b7-8913-48e8-ab8e-79cb12295542/eb278bca-04f9-4d71-99cd-ac1b982e4a86"
+					(reference "R2")
+					(unit 1)
+				)
+			)
+		)
+	)
 	(symbol
 		(lib_id "THVD4431RHAR:THVD4431RHAR")
 		(at 130.81 60.96 0)
@@ -1832,13 +3020,101 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Transceiver 3V~5.5V 1Mbps VQFN-40-EP(6x6) Drivers, Receivers, Transceivers RoHS"
 			(at 130.81 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Manufacturer" "TI"
+			(at 130.81 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "THVD4431RHAR"
+			(at 130.81 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" ""
+			(at 130.81 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SPN" ""
+			(at 130.81 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C22445427"
+			(at 130.81 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "VQFN-40-EP(6x6)"
+			(at 130.81 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "SMD"
+			(at 130.81 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 130.81 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Dielectric" ""
+			(at 130.81 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage Rating" ""
+			(at 130.81 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "22"
@@ -1974,8 +3250,75 @@
 		)
 	)
 	(symbol
+		(lib_id "PCM_SparkFun-PowerSymbol:GND")
+		(at 246.38 116.84 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7bb85b9e-9100-4408-9414-5584b63c2199")
+		(property "Reference" "#PWR01"
+			(at 246.38 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 246.38 120.65 0)
+			(do_not_autoplace yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 246.38 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 246.38 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 246.38 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e59aa447-0a5f-4cfb-afc9-e5eb94ec8203")
+		)
+		(instances
+			(project ""
+				(path "/080f83b7-8913-48e8-ab8e-79cb12295542/eb278bca-04f9-4d71-99cd-ac1b982e4a86"
+					(reference "#PWR01")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "PH1190299:1190299")
-		(at 267.97 43.18 0)
+		(at 255.27 49.53 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1984,7 +3327,7 @@
 		(fields_autoplaced yes)
 		(uuid "8edadf58-5803-4502-9a04-7c7a0bcde3ab")
 		(property "Reference" "J1"
-			(at 275.59 41.9099 0)
+			(at 262.89 48.2599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1993,7 +3336,7 @@
 			)
 		)
 		(property "Value" "1190299"
-			(at 275.59 44.4499 0)
+			(at 262.89 50.7999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2002,7 +3345,7 @@
 			)
 		)
 		(property "Footprint" "PH1190299:PHOENIX_1190299"
-			(at 267.97 43.18 0)
+			(at 255.27 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2011,8 +3354,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
-			(at 267.97 43.18 0)
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C3309834.pdf"
+			(at 255.27 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2020,8 +3363,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
-			(at 267.97 43.18 0)
+		(property "Description" "4 Position Wire to Board Terminal Block 5mm Through Hole"
+			(at 255.27 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2030,7 +3373,7 @@
 			)
 		)
 		(property "MF" "Phoenix Contact"
-			(at 267.97 43.18 0)
+			(at 255.27 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2040,7 +3383,7 @@
 			)
 		)
 		(property "Description_1" "LPT 2,5/ 4-5,0 | Phoenix Contact 1190299"
-			(at 267.97 43.18 0)
+			(at 255.27 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2050,7 +3393,7 @@
 			)
 		)
 		(property "Package" "None"
-			(at 267.97 43.18 0)
+			(at 255.27 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2060,7 +3403,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 267.97 43.18 0)
+			(at 255.27 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2070,7 +3413,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/1190299/Phoenix+Contact/view-part/?ref=eda"
-			(at 267.97 43.18 0)
+			(at 255.27 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2080,7 +3423,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/1190299/Phoenix+Contact/view-part/?ref=snap"
-			(at 267.97 43.18 0)
+			(at 255.27 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2090,7 +3433,7 @@
 			)
 		)
 		(property "MP" "1190299"
-			(at 267.97 43.18 0)
+			(at 255.27 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2100,7 +3443,7 @@
 			)
 		)
 		(property "Availability" "In Stock"
-			(at 267.97 43.18 0)
+			(at 255.27 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2110,13 +3453,92 @@
 			)
 		)
 		(property "MANUFACTURER" "PHOENIX"
-			(at 267.97 43.18 0)
+			(at 255.27 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify bottom)
 				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Phoenix Contact"
+			(at 255.27 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "1190299"
+			(at 255.27 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" ""
+			(at 255.27 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SPN" ""
+			(at 255.27 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C3309834"
+			(at 255.27 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "THT"
+			(at 255.27 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 255.27 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Dielectric" ""
+			(at 255.27 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage Rating" ""
+			(at 255.27 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1_1"
@@ -2154,7 +3576,7 @@
 	)
 	(symbol
 		(lib_id "Connector:DE9_Pins")
-		(at 264.16 92.71 0)
+		(at 256.54 100.33 0)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -2163,7 +3585,7 @@
 		(dnp no)
 		(uuid "91900fa2-f97c-4d04-9daf-d7d14deb0588")
 		(property "Reference" "J2"
-			(at 269.24 93.9801 0)
+			(at 251.968 82.296 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2171,8 +3593,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "DE9_Pins"
-			(at 269.24 91.4401 0)
+		(property "Value" "CONN D-SUB PLUG 9POS TH"
+			(at 252.476 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2181,7 +3603,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 264.16 92.71 0)
+			(at 256.54 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2189,8 +3611,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
-			(at 264.16 92.71 0)
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C591554.pdf"
+			(at 256.54 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2198,13 +3620,101 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "9-pin D-SUB connector, pins (male)"
-			(at 264.16 92.71 0)
+		(property "Description" "Connector D-Sub, Male 9 Position 2 Row Through Hole"
+			(at 256.54 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Manufacturer" "TE Connectivity"
+			(at 256.54 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "2301843-2"
+			(at 256.54 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" ""
+			(at 256.54 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SPN" ""
+			(at 256.54 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C591554"
+			(at 256.54 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "Through Hole"
+			(at 256.54 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "THT"
+			(at 256.54 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 256.54 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Dielectric" ""
+			(at 256.54 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage Rating" ""
+			(at 256.54 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "4"
@@ -2238,6 +3748,809 @@
 			(project ""
 				(path "/080f83b7-8913-48e8-ab8e-79cb12295542/eb278bca-04f9-4d71-99cd-ac1b982e4a86"
 					(reference "J2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "PCM_SparkFun-Capacitor:0.1uF_0603_25V_20%")
+		(at 196.85 123.19 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a7821cf1-83f5-486d-bd8f-014a2d6258a7")
+		(property "Reference" "C2"
+			(at 199.39 119.3862 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100nF"
+			(at 199.39 121.9262 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(color 72 0 72 1)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "PCM_SparkFun-Capacitor:C_0603_1608Metric"
+			(at 196.85 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C91183.pdf"
+			(at 196.85 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "100nF ±5% 50V Ceramic Capacitor X7R 0603"
+			(at 196.85 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 196.85 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CC0603JRX7R9BB104"
+			(at 196.85 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" ""
+			(at 196.85 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SPN" ""
+			(at 196.85 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C91183"
+			(at 196.85 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0603"
+			(at 196.85 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "SMD"
+			(at 196.85 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 196.85 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Dielectric" "X7R 5%"
+			(at 202.692 123.952 0)
+			(effects
+				(font
+					(size 1.016 1.016)
+					(color 221 133 0 1)
+				)
+			)
+		)
+		(property "Voltage Rating" "50V"
+			(at 207.772 123.952 0)
+			(effects
+				(font
+					(size 1.016 1.016)
+					(color 221 133 0 1)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "1020c655-83f9-41a4-b892-b5ac0484d8c1")
+		)
+		(pin "2"
+			(uuid "561d971e-9337-4056-a20d-f3a13742610a")
+		)
+		(instances
+			(project "STM32 Nucleo RS232 & RS485 Expansion Board (ST Zio Compatible) V2"
+				(path "/080f83b7-8913-48e8-ab8e-79cb12295542/eb278bca-04f9-4d71-99cd-ac1b982e4a86"
+					(reference "C2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "PCM_SparkFun-Capacitor:0.1uF_0603_25V_20%")
+		(at 177.8 123.19 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "b5b96f95-0712-49cc-98c6-1993853a9385")
+		(property "Reference" "C1"
+			(at 180.34 119.3862 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100nF"
+			(at 180.34 121.9262 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(color 72 0 72 1)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "PCM_SparkFun-Capacitor:C_0603_1608Metric"
+			(at 177.8 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C91183.pdf"
+			(at 177.8 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "100nF ±5% 50V Ceramic Capacitor X7R 0603"
+			(at 177.8 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 177.8 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CC0603JRX7R9BB104"
+			(at 177.8 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" ""
+			(at 177.8 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SPN" ""
+			(at 177.8 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C91183"
+			(at 177.8 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0603"
+			(at 177.8 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "SMD"
+			(at 177.8 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 177.8 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Dielectric" "X7R 5%"
+			(at 183.642 123.952 0)
+			(effects
+				(font
+					(size 1.016 1.016)
+					(color 221 133 0 1)
+				)
+			)
+		)
+		(property "Voltage Rating" "50V"
+			(at 188.722 123.952 0)
+			(effects
+				(font
+					(size 1.016 1.016)
+					(color 221 133 0 1)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "935b3262-a5f2-4f0d-b7c8-7bb821c8fc78")
+		)
+		(pin "2"
+			(uuid "8e5e44ae-144c-4175-88b9-9742a96089a2")
+		)
+		(instances
+			(project ""
+				(path "/080f83b7-8913-48e8-ab8e-79cb12295542/eb278bca-04f9-4d71-99cd-ac1b982e4a86"
+					(reference "C1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "PCM_fab:R_0603")
+		(at 234.95 67.31 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b92d9f17-5310-41ef-b8a3-f392a8ef78f9")
+		(property "Reference" "R4"
+			(at 237.49 64.7699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "0R"
+			(at 237.49 67.3099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(color 72 0 72 1)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "PCM_fab:R_0603"
+			(at 234.95 67.31 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C253507.pdf"
+			(at 234.95 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "250mW 0Ω Thick Film Resistor 0603 Chip Resistor - Surface Mount RoHS"
+			(at 234.95 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "ROHM"
+			(at 234.95 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "PMR03EZPJ000"
+			(at 234.95 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" ""
+			(at 234.95 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SPN" ""
+			(at 234.95 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C253507"
+			(at 234.95 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0603"
+			(at 234.95 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "SMD"
+			(at 234.95 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 234.95 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Dielectric" ""
+			(at 234.95 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage Rating" "250mW"
+			(at 237.49 69.8499 0)
+			(effects
+				(font
+					(size 1.016 1.016)
+					(color 221 133 0 1)
+				)
+				(justify left)
+			)
+		)
+		(pin "1"
+			(uuid "4020d933-761c-412d-912c-f79601bea708")
+		)
+		(pin "2"
+			(uuid "a5b6db1d-7e09-4afc-96f7-839ddf05c9c0")
+		)
+		(instances
+			(project "STM32 Nucleo RS232 & RS485 Expansion Board (ST Zio Compatible) V2"
+				(path "/080f83b7-8913-48e8-ab8e-79cb12295542/eb278bca-04f9-4d71-99cd-ac1b982e4a86"
+					(reference "R4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "PCM_fab:R_0603")
+		(at 204.47 67.31 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "cf230551-6f57-40ef-a1fc-c501a7008294")
+		(property "Reference" "R1"
+			(at 207.01 64.7699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "0R"
+			(at 207.01 67.3099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(color 72 0 72 1)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "PCM_fab:R_0603"
+			(at 204.47 67.31 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C253507.pdf"
+			(at 204.47 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "250mW 0Ω Thick Film Resistor 0603 Chip Resistor - Surface Mount RoHS"
+			(at 204.47 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "ROHM"
+			(at 204.47 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "PMR03EZPJ000"
+			(at 204.47 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" ""
+			(at 204.47 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SPN" ""
+			(at 204.47 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C253507"
+			(at 204.47 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0603"
+			(at 204.47 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "SMD"
+			(at 204.47 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 204.47 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Dielectric" ""
+			(at 204.47 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage Rating" "250mW"
+			(at 207.01 69.8499 0)
+			(effects
+				(font
+					(size 1.016 1.016)
+					(color 221 133 0 1)
+				)
+				(justify left)
+			)
+		)
+		(pin "1"
+			(uuid "a1c12012-e3b6-44bf-aaa3-df37c46cac9c")
+		)
+		(pin "2"
+			(uuid "41eb7f46-8ab5-4fb2-b186-3d81ddaff112")
+		)
+		(instances
+			(project ""
+				(path "/080f83b7-8913-48e8-ab8e-79cb12295542/eb278bca-04f9-4d71-99cd-ac1b982e4a86"
+					(reference "R1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "PCM_fab:R_0603")
+		(at 224.79 67.31 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "cfbf3560-efb2-41da-97a2-b26d28f8a21b")
+		(property "Reference" "R3"
+			(at 227.33 64.7699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "0R"
+			(at 227.33 67.3099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(color 72 0 72 1)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "PCM_fab:R_0603"
+			(at 224.79 67.31 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C253507.pdf"
+			(at 224.79 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "250mW 0Ω Thick Film Resistor 0603 Chip Resistor - Surface Mount RoHS"
+			(at 224.79 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "ROHM"
+			(at 224.79 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "PMR03EZPJ000"
+			(at 224.79 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" ""
+			(at 224.79 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SPN" ""
+			(at 224.79 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C253507"
+			(at 224.79 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0603"
+			(at 224.79 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "SMD"
+			(at 224.79 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 224.79 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Dielectric" ""
+			(at 224.79 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage Rating" "250mW"
+			(at 227.33 69.8499 0)
+			(effects
+				(font
+					(size 1.016 1.016)
+					(color 221 133 0 1)
+				)
+				(justify left)
+			)
+		)
+		(pin "1"
+			(uuid "af4521b7-eda3-48b2-948c-03367128fa61")
+		)
+		(pin "2"
+			(uuid "d218e434-5a19-49d6-9f49-46eebf0824a5")
+		)
+		(instances
+			(project "STM32 Nucleo RS232 & RS485 Expansion Board (ST Zio Compatible) V2"
+				(path "/080f83b7-8913-48e8-ab8e-79cb12295542/eb278bca-04f9-4d71-99cd-ac1b982e4a86"
+					(reference "R3")
 					(unit 1)
 				)
 			)

@@ -13,7 +13,7 @@
 		(comment 3 "Initial revision")
 	)
 	(lib_symbols)
-	(text "DE-9 pin	Signaal	Richting bij DCE (5T3R)	Omschrijving\n1	DCD		OUT		Data Carrier Detect\n2	RXD		IN		Receive Data (naar transceiver)\n3	TXD		OUT		Transmit Data (van transceiver)\n4	DTR		IN		Data Terminal Ready\n5	GND		n.v.t.	Signaal ground\n6	DSR		OUT		Data Set Ready\n7	RTS		IN		Request To Send\n8	CTS		OUT		Clear To Send\n9	RI		OUT		Ring Indicator"
+	(text "Pin#	Signal	I/O		Omschrijving\n1		DCD		OUT		Data Carrier Detect\n2		RXD		IN		Receive Data (naar transceiver)\n3		TXD		OUT		Transmit Data (van transceiver)\n4		DTR		IN		Data Terminal Ready\n5		GND		n.v.t.	Signaal ground\n6		DSR		OUT		Data Set Ready\n7		RTS		IN		Request To Send\n8		CTS		OUT		Clear To Send\n9		RI		OUT		Ring Indicator"
 		(exclude_from_sim no)
 		(at 20.828 91.186 0)
 		(effects
@@ -24,9 +24,20 @@
 		)
 		(uuid "1aa43eb6-f58a-4f3a-b0dc-425e6588449a")
 	)
-	(text "THVD4431RHAR\nPin#	Function	I/O		GPIO	ZIO Connector\n09		VIO			Output	N/A		N/A\n14		MODE0		Input	PF13	CN07 - #20\n15		MODE1		Input	PC3		CN09 - #05\n13		MODE2		Input	PC2		CN09 - #09\n11		SLR			Input	PA5		CN07 - #10\n12		DIR			Input	PG12	CN10 - #02\n17		TERM_TX		Input	PB1		CN09 - #07\n18		TERM_RX		Input	PA3		CB09 - #01\n"
+	(text "Pin#	Signal	I/O		Omschrijving\n1		Z(TX-)	OUT		Data Carrier Detect\n2		Y(TX+)	IN		Receive Data (naar transceiver)\n3		A(RX+)	OUT		Transmit Data (van transceiver)\n4		B(RX-)	IN		Data Terminal Ready\n"
 		(exclude_from_sim no)
-		(at 20.574 116.332 0)
+		(at 20.574 111.76 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "96730bcc-1a23-4455-b0a8-ef28c6a07161")
+	)
+	(text "THVD4431RHAR\nPin#	Function	I/O		GPIO	ZIO Connector\n09		VIO			Output	N/A		N/A\n14		MODE0		Input	PF13	CN07 - #20\n15		MODE1		Input	PC3		CN09 - #05\n13		MODE2		Input	PC2		CN09 - #09\n11		SLR			Input	PA5		CN07 - #10\n12		DIR			Input	PG12	CN10 - #02\n17		TERM_TX		Input	PB1		CN09 - #07\n18		TERM_RX		Input	PA3		CB09 - #01\n\n01		L1-DCD		Output	PB5		CN07 - #14\n05		L5-DSR		Output	PB9		CN07 - #04\n02		L2-RXD		Output	PB7		CN10 - #16\n06		L6-RTS		Input	PG14	CN10 - #12\n03		L3-TXD		Input	PB6		CN10 - #14\n07		L7-CTS		Output	PE13	CN10 - #08\n04		L4-DTR		Input	PA6		CN07 - #12\n08		L8-RI		Output	PB8		CN07 - #02"
+		(exclude_from_sim no)
+		(at 20.574 123.952 0)
 		(effects
 			(font
 				(size 1.27 1.27)

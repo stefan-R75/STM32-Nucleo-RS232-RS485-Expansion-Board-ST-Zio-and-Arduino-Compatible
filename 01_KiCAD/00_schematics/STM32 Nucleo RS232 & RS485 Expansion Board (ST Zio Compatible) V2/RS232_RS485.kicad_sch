@@ -2570,12 +2570,6 @@
 		(uuid "5df68c6d-ca17-4de1-a8b9-70a1b176a9b0")
 	)
 	(junction
-		(at 54.61 66.04)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "6c50f1d1-46f2-4767-9466-564c7a4d02d3")
-	)
-	(junction
 		(at 143.51 144.78)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2616,6 +2610,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "aacd916d-7d99-4608-84b6-7da7bc9a7355")
+	)
+	(junction
+		(at 54.61 66.04)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b5b6fe8b-5095-42d4-857f-8cf29a6ee0c6")
 	)
 	(junction
 		(at 146.05 144.78)
@@ -2949,6 +2949,16 @@
 	)
 	(wire
 		(pts
+			(xy 35.56 66.04) (xy 54.61 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3c261e41-4dec-4800-9aa2-d5889783f2cc")
+	)
+	(wire
+		(pts
 			(xy 102.87 76.2) (xy 102.87 82.55)
 		)
 		(stroke
@@ -3166,16 +3176,6 @@
 			(type default)
 		)
 		(uuid "675e6a53-a029-48e3-9cc3-b28929196174")
-	)
-	(wire
-		(pts
-			(xy 33.02 68.58) (xy 40.64 68.58)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "67793074-13ff-4ed0-be44-53874cbb98ae")
 	)
 	(wire
 		(pts
@@ -3489,16 +3489,6 @@
 	)
 	(wire
 		(pts
-			(xy 33.02 63.5) (xy 40.64 63.5)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b36ba659-f4aa-41ff-88bf-1a57df14a3a8")
-	)
-	(wire
-		(pts
 			(xy 54.61 66.04) (xy 69.85 66.04)
 		)
 		(stroke
@@ -3739,16 +3729,6 @@
 	)
 	(wire
 		(pts
-			(xy 33.02 66.04) (xy 54.61 66.04)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f16684d6-b560-40be-9513-c257c2d0dd51")
-	)
-	(wire
-		(pts
 			(xy 124.46 71.12) (xy 128.27 71.12)
 		)
 		(stroke
@@ -3852,17 +3832,6 @@
 			(justify right bottom)
 		)
 		(uuid "3a067269-ef70-4531-a0fc-03e754a2e61f")
-	)
-	(label "VIN_VCC"
-		(at 33.02 66.04 0)
-		(effects
-			(font
-				(size 1.016 1.016)
-				(color 221 133 0 1)
-			)
-			(justify left bottom)
-		)
-		(uuid "3ae72272-064a-481d-95d8-338dda9aa3e7")
 	)
 	(label "L3-TXD"
 		(at 128.27 106.68 180)
@@ -4050,6 +4019,17 @@
 			(justify right bottom)
 		)
 		(uuid "940ec889-c2ce-4430-b787-89b82f563a18")
+	)
+	(label "3V3_SYS"
+		(at 123.19 66.04 180)
+		(effects
+			(font
+				(size 1.016 1.016)
+				(color 221 133 0 1)
+			)
+			(justify right bottom)
+		)
+		(uuid "9c69c6ae-81a3-4a29-890b-3e8fe323c466")
 	)
 	(label "CTS"
 		(at 168.91 109.22 0)
@@ -4568,28 +4548,6 @@
 			)
 		)
 	)
-	(global_label "3V3"
-		(shape input)
-		(at 40.64 63.5 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "e6ed7195-2035-49b1-9f2f-7b6e7a83a0b9")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 47.1328 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "L1-DCD"
 		(shape output)
 		(at 102.87 96.52 180)
@@ -4634,24 +4592,24 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "3V3_SYS"
 		(shape input)
-		(at 40.64 68.58 0)
+		(at 35.56 66.04 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
-		(uuid "f71f4e2a-493a-47c1-b2b7-d266288c121d")
+		(uuid "f724992f-22e3-4046-a9ae-e0cf89cf5423")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 45.9233 68.58 0)
+			(at 24.592 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -5581,7 +5539,7 @@
 			(effects
 				(font
 					(size 1.016 1.016)
-					(color 221 133 0 1)
+					(color 194 0 0 1)
 				)
 			)
 		)
@@ -5590,7 +5548,7 @@
 			(effects
 				(font
 					(size 1.016 1.016)
-					(color 221 133 0 1)
+					(color 194 0 0 1)
 				)
 			)
 		)
@@ -6507,7 +6465,7 @@
 			(effects
 				(font
 					(size 1.016 1.016)
-					(color 221 133 0 1)
+					(color 194 0 0 1)
 				)
 			)
 		)
@@ -6516,7 +6474,7 @@
 			(effects
 				(font
 					(size 1.016 1.016)
-					(color 221 133 0 1)
+					(color 194 0 0 1)
 				)
 			)
 		)
@@ -7237,7 +7195,7 @@
 			(effects
 				(font
 					(size 1.016 1.016)
-					(color 221 133 0 1)
+					(color 194 0 0 1)
 				)
 			)
 		)
@@ -7246,7 +7204,7 @@
 			(effects
 				(font
 					(size 1.016 1.016)
-					(color 221 133 0 1)
+					(color 194 0 0 1)
 				)
 			)
 		)
@@ -7397,7 +7355,7 @@
 			(effects
 				(font
 					(size 1.016 1.016)
-					(color 221 133 0 1)
+					(color 194 0 0 1)
 				)
 			)
 		)
@@ -7406,7 +7364,7 @@
 			(effects
 				(font
 					(size 1.016 1.016)
-					(color 221 133 0 1)
+					(color 194 0 0 1)
 				)
 			)
 		)
@@ -7720,7 +7678,7 @@
 			(effects
 				(font
 					(size 1.016 1.016)
-					(color 221 133 0 1)
+					(color 194 0 0 1)
 				)
 			)
 		)
@@ -7729,7 +7687,7 @@
 			(effects
 				(font
 					(size 1.016 1.016)
-					(color 221 133 0 1)
+					(color 194 0 0 1)
 				)
 			)
 		)
@@ -8040,7 +7998,7 @@
 			(effects
 				(font
 					(size 1.016 1.016)
-					(color 221 133 0 1)
+					(color 194 0 0 1)
 				)
 			)
 		)
@@ -8049,7 +8007,7 @@
 			(effects
 				(font
 					(size 1.016 1.016)
-					(color 221 133 0 1)
+					(color 194 0 0 1)
 				)
 			)
 		)
@@ -8520,7 +8478,7 @@
 			(effects
 				(font
 					(size 1.016 1.016)
-					(color 221 133 0 1)
+					(color 194 0 0 1)
 				)
 			)
 		)
@@ -8529,7 +8487,7 @@
 			(effects
 				(font
 					(size 1.016 1.016)
-					(color 221 133 0 1)
+					(color 194 0 0 1)
 				)
 			)
 		)
@@ -8680,7 +8638,7 @@
 			(effects
 				(font
 					(size 1.016 1.016)
-					(color 221 133 0 1)
+					(color 194 0 0 1)
 				)
 			)
 		)
@@ -8689,7 +8647,7 @@
 			(effects
 				(font
 					(size 1.016 1.016)
-					(color 221 133 0 1)
+					(color 194 0 0 1)
 				)
 			)
 		)
@@ -8703,169 +8661,6 @@
 			(project "STM32 Nucleo RS232 & RS485 Expansion Board (ST Zio Compatible) V2"
 				(path "/080f83b7-8913-48e8-ab8e-79cb12295542/eb278bca-04f9-4d71-99cd-ac1b982e4a86"
 					(reference "C4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector_Generic:Conn_01x03")
-		(at 27.94 66.04 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "f975ea54-be17-47b5-b427-30716ae85465")
-		(property "Reference" "J2"
-			(at 27.686 57.912 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "HEADER 3POS 2.54mm"
-			(at 26.67 60.452 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(color 72 0 72 1)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 27.94 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C6631883.pdf"
-			(at 27.94 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Pin Header 3 Position 2.54mm Pitch Single Row Through Hole -55℃~+125℃"
-			(at 27.94 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Samtec"
-			(at 27.94 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "HTSW-103-07-F-S"
-			(at 27.94 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier" ""
-			(at 27.94 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SPN" ""
-			(at 27.94 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C6631883"
-			(at 27.94 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Package" "Through Hole,P=2.54mm"
-			(at 27.94 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Type" "THT"
-			(at 27.94 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "DNP" ""
-			(at 27.94 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Dielectric" ""
-			(at 27.94 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Voltage Rating" "Jumper Default= 1-2"
-			(at 27.432 72.39 0)
-			(effects
-				(font
-					(size 1.016 1.016)
-					(color 194 0 0 1)
-				)
-				(justify right)
-			)
-		)
-		(pin "1"
-			(uuid "2d70dc6f-d058-4074-9529-6ca6f927f386")
-		)
-		(pin "2"
-			(uuid "b2f5302d-31fd-4ab8-ba6b-c5207ac7e5f9")
-		)
-		(pin "3"
-			(uuid "f2604228-689a-4f6d-a952-78b1548b4ce4")
-		)
-		(instances
-			(project ""
-				(path "/080f83b7-8913-48e8-ab8e-79cb12295542/eb278bca-04f9-4d71-99cd-ac1b982e4a86"
-					(reference "J2")
 					(unit 1)
 				)
 			)

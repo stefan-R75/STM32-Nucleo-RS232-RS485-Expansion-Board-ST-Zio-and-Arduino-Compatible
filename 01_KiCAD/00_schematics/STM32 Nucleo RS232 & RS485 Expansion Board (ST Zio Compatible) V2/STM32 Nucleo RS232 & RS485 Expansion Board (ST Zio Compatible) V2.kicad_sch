@@ -46,9 +46,19 @@
 		)
 		(uuid "b68d7cdd-1019-4140-b4af-77c4828b157c")
 	)
+	(polyline
+		(pts
+			(xy 62.23 87.63) (xy 62.23 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "77099de0-3468-4ac2-84dd-b44517090b42")
+	)
 	(sheet
-		(at 224.79 27.94)
-		(size 44.45 31.75)
+		(at 229.87 22.86)
+		(size 35.56 25.4)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -62,7 +72,7 @@
 		)
 		(uuid "067a36dd-1222-49fa-b4c7-0b289d0be8ff")
 		(property "Sheetname" "ZIO_Compatible_connector"
-			(at 224.79 26.543 0)
+			(at 229.87 21.463 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -71,7 +81,7 @@
 			)
 		)
 		(property "Sheetfile" "ZIO_Compatible_Connector.kicad_sch"
-			(at 224.79 60.2746 0)
+			(at 230.124 49.022 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -82,14 +92,14 @@
 		(instances
 			(project "STM32 Nucleo RS232 & RS485 Expansion Board (ST Zio Compatible) V2"
 				(path "/080f83b7-8913-48e8-ab8e-79cb12295542"
-					(page "6")
+					(page "7")
 				)
 			)
 		)
 	)
 	(sheet
-		(at 123.19 27.94)
-		(size 44.45 31.75)
+		(at 146.05 22.86)
+		(size 35.56 25.4)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -104,7 +114,7 @@
 		)
 		(uuid "486090d1-223c-4361-8c2c-169c4ca9272f")
 		(property "Sheetname" "Multiple Input Configuration Logic"
-			(at 123.19 27.2284 0)
+			(at 146.05 22.1484 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -113,49 +123,7 @@
 			)
 		)
 		(property "Sheetfile" "Multiple_IO_Input.kicad_sch"
-			(at 123.19 60.2746 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "STM32 Nucleo RS232 & RS485 Expansion Board (ST Zio Compatible) V2"
-				(path "/080f83b7-8913-48e8-ab8e-79cb12295542"
-					(page "4")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 173.99 27.94)
-		(size 44.45 31.75)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0.0000)
-		)
-		(uuid "5716f836-4f02-485e-9294-ac752db4367c")
-		(property "Sheetname" "Jumper Selection (Hardware)"
-			(at 173.99 27.2284 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "HW_Jumper_Selection.kicad_sch"
-			(at 173.99 60.2746 0)
+			(at 146.05 48.8446 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -172,8 +140,92 @@
 		)
 	)
 	(sheet
-		(at 72.39 27.94)
-		(size 44.45 31.75)
+		(at 187.96 22.86)
+		(size 35.56 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "5716f836-4f02-485e-9294-ac752db4367c")
+		(property "Sheetname" "Jumper Selection (Hardware)"
+			(at 187.96 22.1484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "HW_Jumper_Selection.kicad_sch"
+			(at 187.96 48.8446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "STM32 Nucleo RS232 & RS485 Expansion Board (ST Zio Compatible) V2"
+				(path "/080f83b7-8913-48e8-ab8e-79cb12295542"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 20.32 22.86)
+		(size 35.56 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "83cf4712-deaa-472a-9432-343a24d007ba")
+		(property "Sheetname" "Dual Voltage Auto Select Input"
+			(at 20.32 22.1484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "dual_voltage.kicad_sch"
+			(at 20.32 48.8446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "STM32 Nucleo RS232 & RS485 Expansion Board (ST Zio Compatible) V2"
+				(path "/080f83b7-8913-48e8-ab8e-79cb12295542"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 104.14 22.86)
+		(size 35.56 25.4)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -188,7 +240,7 @@
 		)
 		(uuid "d1bb9d55-41f4-4fc3-ae06-1adc98dc5d39")
 		(property "Sheetname" "Rx & Tx LED"
-			(at 72.39 27.2284 0)
+			(at 104.14 22.1484 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -197,7 +249,7 @@
 			)
 		)
 		(property "Sheetfile" "RX_TX_LED.kicad_sch"
-			(at 72.39 60.2746 0)
+			(at 104.14 48.8446 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -208,14 +260,14 @@
 		(instances
 			(project "STM32 Nucleo RS232 & RS485 Expansion Board (ST Zio Compatible) V2"
 				(path "/080f83b7-8913-48e8-ab8e-79cb12295542"
-					(page "3")
+					(page "4")
 				)
 			)
 		)
 	)
 	(sheet
-		(at 21.59 27.94)
-		(size 44.45 31.75)
+		(at 62.23 22.86)
+		(size 35.56 25.4)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -230,7 +282,7 @@
 		)
 		(uuid "eb278bca-04f9-4d71-99cd-ac1b982e4a86")
 		(property "Sheetname" "RS232 & RS485 Tranceiver"
-			(at 21.59 27.2284 0)
+			(at 62.23 22.1484 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -239,7 +291,7 @@
 			)
 		)
 		(property "Sheetfile" "RS232_RS485.kicad_sch"
-			(at 21.59 60.2746 0)
+			(at 62.23 48.8446 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -250,7 +302,7 @@
 		(instances
 			(project "STM32 Nucleo RS232 & RS485 Expansion Board (ST Zio Compatible) V2"
 				(path "/080f83b7-8913-48e8-ab8e-79cb12295542"
-					(page "2")
+					(page "3")
 				)
 			)
 		)

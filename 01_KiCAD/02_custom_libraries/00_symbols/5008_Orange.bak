@@ -2,7 +2,7 @@
 	(version 20241209)
 	(generator "kicad_symbol_editor")
 	(generator_version "9.0")
-	(symbol "5009"
+	(symbol "5008"
 		(pin_names
 			(offset 1.016)
 		)
@@ -18,7 +18,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "5009"
+		(property "Value" "5008"
 			(at -2.55 -5.0866 0)
 			(effects
 				(font
@@ -27,7 +27,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "5009:KEYSTONE_5009"
+		(property "Footprint" "5008:KEYSTONE_5008"
 			(at 0 0 0)
 			(effects
 				(font
@@ -55,8 +55,8 @@
 				(hide yes)
 			)
 		)
-		(property "MF" "Keystone Electronics Corp."
-			(at 0 0.254 0)
+		(property "MF" "Keystone Electronics"
+			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -95,7 +95,7 @@
 				(hide yes)
 			)
 		)
-		(property "Check_prices" "https://www.snapeda.com/parts/5009/Keystone/view-part/?ref=eda"
+		(property "Check_prices" "https://www.snapeda.com/parts/5008/Keystone/view-part/?ref=eda"
 			(at 0 0 0)
 			(effects
 				(font
@@ -125,7 +125,7 @@
 				(hide yes)
 			)
 		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/5009/Keystone/view-part/?ref=snap"
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/5008/Keystone/view-part/?ref=snap"
 			(at 0 0 0)
 			(effects
 				(font
@@ -135,7 +135,7 @@
 				(hide yes)
 			)
 		)
-		(property "MP" "5009"
+		(property "MP" "5008"
 			(at 0 0 0)
 			(effects
 				(font
@@ -145,7 +145,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "Test Point Compact THM H .350 Nylon46 Insulated Yellow PhosBronze/Silver | Keystone Electronics 5009"
+		(property "Description_1" "Compact THM Test Point -Orange"
 			(at 0 0 0)
 			(effects
 				(font
@@ -185,14 +185,14 @@
 				(hide yes)
 			)
 		)
-		(symbol "5009_0_0"
+		(symbol "5008_0_0"
 			(circle
 				(center 0 0)
 				(radius 0.635)
 				(stroke
 					(width 1.27)
 					(type default)
-					(color 255 255 0 1)
+					(color 221 133 0 1)
 				)
 				(fill
 					(type none)
@@ -214,19 +214,6 @@
 							(size 1.016 1.016)
 						)
 					)
-				)
-			)
-		)
-		(symbol "5009_0_1"
-			(circle
-				(center 0 0)
-				(radius 1.4199)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
 				)
 			)
 		)

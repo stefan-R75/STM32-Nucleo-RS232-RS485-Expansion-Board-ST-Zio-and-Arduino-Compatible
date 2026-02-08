@@ -56,7 +56,7 @@
 			)
 		)
 		(property "MF" "Keystone Electronics Corp."
-			(at 0 0 0)
+			(at 0 0.254 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -214,6 +214,19 @@
 							(size 1.016 1.016)
 						)
 					)
+				)
+			)
+		)
+		(symbol "5009_0_1"
+			(circle
+				(center 0 0)
+				(radius 1.4199)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
 				)
 			)
 		)

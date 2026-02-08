@@ -46,15 +46,16 @@
 		)
 		(uuid "b68d7cdd-1019-4140-b4af-77c4828b157c")
 	)
-	(polyline
-		(pts
-			(xy 91.44 91.44) (xy 91.44 59.69)
+	(text "STANDAARD CONFIGURATIE:\n\nRS232, \nsoftware disabled\nJumper Hardware selection\nRS485 Termination on R1+R2 and R3+R4 both disabled (gnd)\nSlew Rate Control (SLR) set to slow speed"
+		(exclude_from_sim no)
+		(at 126.238 88.392 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
 		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "77099de0-3468-4ac2-84dd-b44517090b42")
+		(uuid "d92e8730-006a-4cbe-ba72-9b71cffdd639")
 	)
 	(sheet
 		(at 229.87 22.86)

@@ -27,7 +27,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "5005:KEYSTONE_5005"
+		(property "Footprint" "5005_Red:KEYSTONE_5005"
 			(at 0 0 0)
 			(effects
 				(font
@@ -202,6 +202,19 @@
 							(size 1.016 1.016)
 						)
 					)
+				)
+			)
+		)
+		(symbol "5005_0_1"
+			(circle
+				(center 0 0)
+				(radius 1.27)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
 				)
 			)
 		)

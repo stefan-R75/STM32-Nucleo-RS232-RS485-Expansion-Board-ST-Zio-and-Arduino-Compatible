@@ -13,246 +13,6 @@
 		(comment 3 "Initial revision")
 	)
 	(lib_symbols
-		(symbol "5006_1"
-			(pin_names
-				(offset 1.016)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "TP"
-				(at -2.5444 2.5415 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Value" "5006"
-				(at -2.55 -5.0866 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Footprint" "5006:KEYSTONE_5006"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "MF" "Keystone Electronics Corp."
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "MAXIMUM_PACKAGE_HEIGHT" "5.59 mm"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Package" "NON STANDARD-1 Keystone"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Price" "None"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Check_prices" "https://www.snapeda.com/parts/5006/Keystone/view-part/?ref=eda"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "STANDARD" "Manufacturer Recommendations"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "PARTREV" "F"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "SnapEDA_Link" "https://www.snapeda.com/parts/5006/Keystone/view-part/?ref=snap"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "MP" "5006"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=4479071&manufacturer=Keystone Electronics Corp.&part_name=5006&search_term=keystone 5006"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Description_1" "Test Point Compact THM PC .350 L .125 OD Heat Resistant Nylon 46 Black | Keystone Electronics 5006"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "MANUFACTURER" "Keystone Electronics"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Availability" "In Stock"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "SNAPEDA_PN" "5006"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(symbol "5006_1_0_0"
-				(circle
-					(center 0 0)
-					(radius 0.635)
-					(stroke
-						(width 1.27)
-						(type default)
-						(color 0 0 0 1)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at -6.35 0 0)
-					(length 5.08)
-					(name "~"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "TP"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-			)
-			(symbol "5006_1_0_1"
-				(circle
-					(center 0 0)
-					(radius 1.4199)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "5006_Black:5006"
 			(pin_names
 				(offset 1.016)
@@ -278,7 +38,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Footprint" "5006:KEYSTONE_5006"
+			(property "Footprint" "5006_Black:KEYSTONE_5006"
 				(at 0 0 0)
 				(effects
 					(font
@@ -518,7 +278,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Footprint" "5008:KEYSTONE_5008"
+			(property "Footprint" "5008_Orange:KEYSTONE_5008"
 				(at 0 0 0)
 				(effects
 					(font
@@ -748,7 +508,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Footprint" "5008:KEYSTONE_5008"
+			(property "Footprint" "5008_Orange:KEYSTONE_5008"
 				(at 0 0 0)
 				(effects
 					(font
@@ -978,7 +738,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Footprint" "5008:KEYSTONE_5008"
+			(property "Footprint" "5008_Orange:KEYSTONE_5008"
 				(at 0 0 0)
 				(effects
 					(font
@@ -1208,7 +968,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Footprint" "5008:KEYSTONE_5008"
+			(property "Footprint" "5008_Orange:KEYSTONE_5008"
 				(at 0 0 0)
 				(effects
 					(font
@@ -1438,7 +1198,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Footprint" "5008:KEYSTONE_5008"
+			(property "Footprint" "5008_Orange:KEYSTONE_5008"
 				(at 0 0 0)
 				(effects
 					(font
@@ -1668,7 +1428,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Footprint" "5008:KEYSTONE_5008"
+			(property "Footprint" "5008_Orange:KEYSTONE_5008"
 				(at 0 0 0)
 				(effects
 					(font
@@ -1898,7 +1658,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Footprint" "5008:KEYSTONE_5008"
+			(property "Footprint" "5008_Orange:KEYSTONE_5008"
 				(at 0 0 0)
 				(effects
 					(font
@@ -2128,7 +1888,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Footprint" "5008:KEYSTONE_5008"
+			(property "Footprint" "5008_Orange:KEYSTONE_5008"
 				(at 0 0 0)
 				(effects
 					(font
@@ -2333,1616 +2093,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "5009_1"
-			(pin_names
-				(offset 1.016)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "TP"
-				(at -2.5444 2.5415 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Value" "5009"
-				(at -2.55 -5.0866 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Footprint" "5009:KEYSTONE_5009"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "MF" "Keystone Electronics Corp."
-				(at 0 0.254 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "MAXIMUM_PACKAGE_HEIGHT" "5.59 mm"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Package" "NON STANDARD-1 Keystone"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Price" "None"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Check_prices" "https://www.snapeda.com/parts/5009/Keystone/view-part/?ref=eda"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "STANDARD" "Manufacturer Recommendations"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "PARTREV" "F"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "SnapEDA_Link" "https://www.snapeda.com/parts/5009/Keystone/view-part/?ref=snap"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "MP" "5009"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Description_1" "Test Point Compact THM H .350 Nylon46 Insulated Yellow PhosBronze/Silver | Keystone Electronics 5009"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "MANUFACTURER" "Keystone Electronics"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Availability" "In Stock"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "SNAPEDA_PN" "5006"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(symbol "5009_1_0_0"
-				(circle
-					(center 0 0)
-					(radius 0.635)
-					(stroke
-						(width 1.27)
-						(type default)
-						(color 255 255 0 1)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at -6.35 0 0)
-					(length 5.08)
-					(name "~"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "TP"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-			)
-			(symbol "5009_1_0_1"
-				(circle
-					(center 0 0)
-					(radius 1.4199)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "5009_2"
-			(pin_names
-				(offset 1.016)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "TP"
-				(at -2.5444 2.5415 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Value" "5009"
-				(at -2.55 -5.0866 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Footprint" "5009:KEYSTONE_5009"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "MF" "Keystone Electronics Corp."
-				(at 0 0.254 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "MAXIMUM_PACKAGE_HEIGHT" "5.59 mm"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Package" "NON STANDARD-1 Keystone"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Price" "None"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Check_prices" "https://www.snapeda.com/parts/5009/Keystone/view-part/?ref=eda"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "STANDARD" "Manufacturer Recommendations"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "PARTREV" "F"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "SnapEDA_Link" "https://www.snapeda.com/parts/5009/Keystone/view-part/?ref=snap"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "MP" "5009"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Description_1" "Test Point Compact THM H .350 Nylon46 Insulated Yellow PhosBronze/Silver | Keystone Electronics 5009"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "MANUFACTURER" "Keystone Electronics"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Availability" "In Stock"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "SNAPEDA_PN" "5006"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(symbol "5009_2_0_0"
-				(circle
-					(center 0 0)
-					(radius 0.635)
-					(stroke
-						(width 1.27)
-						(type default)
-						(color 255 255 0 1)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at -6.35 0 0)
-					(length 5.08)
-					(name "~"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "TP"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-			)
-			(symbol "5009_2_0_1"
-				(circle
-					(center 0 0)
-					(radius 1.4199)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "5009_3"
-			(pin_names
-				(offset 1.016)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "TP"
-				(at -2.5444 2.5415 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Value" "5009"
-				(at -2.55 -5.0866 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Footprint" "5009:KEYSTONE_5009"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "MF" "Keystone Electronics Corp."
-				(at 0 0.254 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "MAXIMUM_PACKAGE_HEIGHT" "5.59 mm"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Package" "NON STANDARD-1 Keystone"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Price" "None"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Check_prices" "https://www.snapeda.com/parts/5009/Keystone/view-part/?ref=eda"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "STANDARD" "Manufacturer Recommendations"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "PARTREV" "F"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "SnapEDA_Link" "https://www.snapeda.com/parts/5009/Keystone/view-part/?ref=snap"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "MP" "5009"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Description_1" "Test Point Compact THM H .350 Nylon46 Insulated Yellow PhosBronze/Silver | Keystone Electronics 5009"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "MANUFACTURER" "Keystone Electronics"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Availability" "In Stock"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "SNAPEDA_PN" "5006"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(symbol "5009_3_0_0"
-				(circle
-					(center 0 0)
-					(radius 0.635)
-					(stroke
-						(width 1.27)
-						(type default)
-						(color 255 255 0 1)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at -6.35 0 0)
-					(length 5.08)
-					(name "~"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "TP"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-			)
-			(symbol "5009_3_0_1"
-				(circle
-					(center 0 0)
-					(radius 1.4199)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "5009_4"
-			(pin_names
-				(offset 1.016)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "TP"
-				(at -2.5444 2.5415 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Value" "5009"
-				(at -2.55 -5.0866 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Footprint" "5009:KEYSTONE_5009"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "MF" "Keystone Electronics Corp."
-				(at 0 0.254 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "MAXIMUM_PACKAGE_HEIGHT" "5.59 mm"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Package" "NON STANDARD-1 Keystone"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Price" "None"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Check_prices" "https://www.snapeda.com/parts/5009/Keystone/view-part/?ref=eda"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "STANDARD" "Manufacturer Recommendations"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "PARTREV" "F"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "SnapEDA_Link" "https://www.snapeda.com/parts/5009/Keystone/view-part/?ref=snap"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "MP" "5009"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Description_1" "Test Point Compact THM H .350 Nylon46 Insulated Yellow PhosBronze/Silver | Keystone Electronics 5009"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "MANUFACTURER" "Keystone Electronics"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Availability" "In Stock"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "SNAPEDA_PN" "5006"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(symbol "5009_4_0_0"
-				(circle
-					(center 0 0)
-					(radius 0.635)
-					(stroke
-						(width 1.27)
-						(type default)
-						(color 255 255 0 1)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at -6.35 0 0)
-					(length 5.08)
-					(name "~"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "TP"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-			)
-			(symbol "5009_4_0_1"
-				(circle
-					(center 0 0)
-					(radius 1.4199)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "5009_5"
-			(pin_names
-				(offset 1.016)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "TP"
-				(at -2.5444 2.5415 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Value" "5009"
-				(at -2.55 -5.0866 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Footprint" "5009:KEYSTONE_5009"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "MF" "Keystone Electronics Corp."
-				(at 0 0.254 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "MAXIMUM_PACKAGE_HEIGHT" "5.59 mm"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Package" "NON STANDARD-1 Keystone"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Price" "None"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Check_prices" "https://www.snapeda.com/parts/5009/Keystone/view-part/?ref=eda"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "STANDARD" "Manufacturer Recommendations"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "PARTREV" "F"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "SnapEDA_Link" "https://www.snapeda.com/parts/5009/Keystone/view-part/?ref=snap"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "MP" "5009"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Description_1" "Test Point Compact THM H .350 Nylon46 Insulated Yellow PhosBronze/Silver | Keystone Electronics 5009"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "MANUFACTURER" "Keystone Electronics"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Availability" "In Stock"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "SNAPEDA_PN" "5006"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(symbol "5009_5_0_0"
-				(circle
-					(center 0 0)
-					(radius 0.635)
-					(stroke
-						(width 1.27)
-						(type default)
-						(color 255 255 0 1)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at -6.35 0 0)
-					(length 5.08)
-					(name "~"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "TP"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-			)
-			(symbol "5009_5_0_1"
-				(circle
-					(center 0 0)
-					(radius 1.4199)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "5009_6"
-			(pin_names
-				(offset 1.016)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "TP"
-				(at -2.5444 2.5415 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Value" "5009"
-				(at -2.55 -5.0866 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Footprint" "5009:KEYSTONE_5009"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "MF" "Keystone Electronics Corp."
-				(at 0 0.254 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "MAXIMUM_PACKAGE_HEIGHT" "5.59 mm"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Package" "NON STANDARD-1 Keystone"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Price" "None"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Check_prices" "https://www.snapeda.com/parts/5009/Keystone/view-part/?ref=eda"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "STANDARD" "Manufacturer Recommendations"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "PARTREV" "F"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "SnapEDA_Link" "https://www.snapeda.com/parts/5009/Keystone/view-part/?ref=snap"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "MP" "5009"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Description_1" "Test Point Compact THM H .350 Nylon46 Insulated Yellow PhosBronze/Silver | Keystone Electronics 5009"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "MANUFACTURER" "Keystone Electronics"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Availability" "In Stock"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "SNAPEDA_PN" "5006"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(symbol "5009_6_0_0"
-				(circle
-					(center 0 0)
-					(radius 0.635)
-					(stroke
-						(width 1.27)
-						(type default)
-						(color 255 255 0 1)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at -6.35 0 0)
-					(length 5.08)
-					(name "~"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "TP"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-			)
-			(symbol "5009_6_0_1"
-				(circle
-					(center 0 0)
-					(radius 1.4199)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "5009_7"
-			(pin_names
-				(offset 1.016)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "TP"
-				(at -2.5444 2.5415 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Value" "5009"
-				(at -2.55 -5.0866 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Footprint" "5009:KEYSTONE_5009"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "MF" "Keystone Electronics Corp."
-				(at 0 0.254 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "MAXIMUM_PACKAGE_HEIGHT" "5.59 mm"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Package" "NON STANDARD-1 Keystone"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Price" "None"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Check_prices" "https://www.snapeda.com/parts/5009/Keystone/view-part/?ref=eda"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "STANDARD" "Manufacturer Recommendations"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "PARTREV" "F"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "SnapEDA_Link" "https://www.snapeda.com/parts/5009/Keystone/view-part/?ref=snap"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "MP" "5009"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Description_1" "Test Point Compact THM H .350 Nylon46 Insulated Yellow PhosBronze/Silver | Keystone Electronics 5009"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "MANUFACTURER" "Keystone Electronics"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Availability" "In Stock"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "SNAPEDA_PN" "5006"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(symbol "5009_7_0_0"
-				(circle
-					(center 0 0)
-					(radius 0.635)
-					(stroke
-						(width 1.27)
-						(type default)
-						(color 255 255 0 1)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at -6.35 0 0)
-					(length 5.08)
-					(name "~"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "TP"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-			)
-			(symbol "5009_7_0_1"
-				(circle
-					(center 0 0)
-					(radius 1.4199)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "5009_Yellow:5009"
 			(pin_names
 				(offset 1.016)
@@ -3968,7 +2118,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Footprint" "5009:KEYSTONE_5009"
+			(property "Footprint" "5009_Yellow:KEYSTONE_5009"
 				(at 0 0 0)
 				(effects
 					(font
@@ -4197,7 +2347,7 @@
 					)
 				)
 			)
-			(property "Footprint" ""
+			(property "Footprint" "SubD-M-2301843-2:CONN9_2301843-2_TEC"
 				(at 0 0 0)
 				(effects
 					(font
@@ -4653,7 +2803,7 @@
 					)
 				)
 			)
-			(property "Footprint" ""
+			(property "Footprint" "HTSW-103-07-F-S:CON3_1X3_TU_TSW"
 				(at 0 0 0)
 				(effects
 					(font
@@ -8502,7 +6652,7 @@
 			)
 		)
 	)
-	(global_label "MCU_SHDN_N_1"
+	(global_label "MCU_SHDN"
 		(shape input)
 		(at 44.45 121.92 180)
 		(fields_autoplaced yes)
@@ -8514,7 +6664,7 @@
 		)
 		(uuid "2011e6f7-4d29-4b2d-9c74-451dc9def1ee")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 26.8296 121.92 0)
+			(at 31.3048 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9069,7 +7219,6 @@
 		(uuid "f2d7fb63-3936-43e0-abf5-a477cc34b097")
 	)
 	(symbol
-		(lib_name "5006_1")
 		(lib_id "5006_Black:5006")
 		(at 177.8 53.34 0)
 		(mirror y)
@@ -9097,7 +7246,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "5006:KEYSTONE_5006"
+		(property "Footprint" "5006_Black:KEYSTONE_5006"
 			(at 177.8 53.34 0)
 			(effects
 				(font
@@ -9278,7 +7427,6 @@
 		)
 	)
 	(symbol
-		(lib_name "5009_5")
 		(lib_id "5009_Yellow:5009")
 		(at 118.11 38.1 0)
 		(unit 1)
@@ -9305,7 +7453,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "5009:KEYSTONE_5009"
+		(property "Footprint" "5009_Yellow:KEYSTONE_5009"
 			(at 118.11 38.1 0)
 			(effects
 				(font
@@ -9658,7 +7806,7 @@
 				)
 			)
 		)
-		(property "Footprint" "5008:KEYSTONE_5008"
+		(property "Footprint" "5008_Orange:KEYSTONE_5008"
 			(at 177.8 45.72 0)
 			(effects
 				(font
@@ -9854,7 +8002,7 @@
 				)
 			)
 		)
-		(property "Footprint" "5008:KEYSTONE_5008"
+		(property "Footprint" "5008_Orange:KEYSTONE_5008"
 			(at 177.8 38.1 0)
 			(effects
 				(font
@@ -10035,7 +8183,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1b622b0f-c27d-43ec-9ede-0fcb593007a1")
-		(property "Reference" "#PWR067"
+		(property "Reference" "#PWR018"
 			(at 187.96 59.69 0)
 			(effects
 				(font
@@ -10086,7 +8234,7 @@
 		(instances
 			(project "STM32 Nucleo RS232 & RS485 Expansion Board (ST Zio Compatible) V2"
 				(path "/080f83b7-8913-48e8-ab8e-79cb12295542/eb278bca-04f9-4d71-99cd-ac1b982e4a86"
-					(reference "#PWR067")
+					(reference "#PWR018")
 					(unit 1)
 				)
 			)
@@ -10262,7 +8410,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "20df8a09-f902-4d3f-a351-42309c12f18c")
-		(property "Reference" "#PWR021"
+		(property "Reference" "#PWR023"
 			(at 119.38 95.25 0)
 			(effects
 				(font
@@ -10313,7 +8461,7 @@
 		(instances
 			(project "STM32 Nucleo RS232 & RS485 Expansion Board (ST Zio Compatible) V2"
 				(path "/080f83b7-8913-48e8-ab8e-79cb12295542/eb278bca-04f9-4d71-99cd-ac1b982e4a86"
-					(reference "#PWR021")
+					(reference "#PWR023")
 					(unit 1)
 				)
 			)
@@ -10345,7 +8493,7 @@
 				)
 			)
 		)
-		(property "Footprint" "5008:KEYSTONE_5008"
+		(property "Footprint" "5008_Orange:KEYSTONE_5008"
 			(at 177.8 41.91 0)
 			(effects
 				(font
@@ -10800,7 +8948,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2625b83c-538e-4a0a-8894-1f86756df876")
-		(property "Reference" "#PWR024"
+		(property "Reference" "#PWR026"
 			(at 118.11 152.4 0)
 			(effects
 				(font
@@ -10851,14 +8999,13 @@
 		(instances
 			(project "STM32 Nucleo RS232 & RS485 Expansion Board (ST Zio Compatible) V2"
 				(path "/080f83b7-8913-48e8-ab8e-79cb12295542/eb278bca-04f9-4d71-99cd-ac1b982e4a86"
-					(reference "#PWR024")
+					(reference "#PWR026")
 					(unit 1)
 				)
 			)
 		)
 	)
 	(symbol
-		(lib_name "5009_1")
 		(lib_id "5009_Yellow:5009")
 		(at 118.11 22.86 0)
 		(unit 1)
@@ -10885,7 +9032,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "5009:KEYSTONE_5009"
+		(property "Footprint" "5009_Yellow:KEYSTONE_5009"
 			(at 118.11 22.86 0)
 			(effects
 				(font
@@ -11082,7 +9229,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "5006:KEYSTONE_5006"
+		(property "Footprint" "5006_Black:KEYSTONE_5006"
 			(at 118.11 53.34 0)
 			(effects
 				(font
@@ -11272,7 +9419,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3843de81-6f9b-48ee-a385-90f1f9444392")
-		(property "Reference" "#PWR019"
+		(property "Reference" "#PWR021"
 			(at 85.09 95.25 0)
 			(effects
 				(font
@@ -11323,7 +9470,7 @@
 		(instances
 			(project "STM32 Nucleo RS232 & RS485 Expansion Board (ST Zio Compatible) V2"
 				(path "/080f83b7-8913-48e8-ab8e-79cb12295542/eb278bca-04f9-4d71-99cd-ac1b982e4a86"
-					(reference "#PWR019")
+					(reference "#PWR021")
 					(unit 1)
 				)
 			)
@@ -11339,7 +9486,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3880156f-011a-4515-9205-533735873d95")
-		(property "Reference" "#PWR066"
+		(property "Reference" "#PWR017"
 			(at 107.95 59.69 0)
 			(effects
 				(font
@@ -11390,14 +9537,13 @@
 		(instances
 			(project "STM32 Nucleo RS232 & RS485 Expansion Board (ST Zio Compatible) V2"
 				(path "/080f83b7-8913-48e8-ab8e-79cb12295542/eb278bca-04f9-4d71-99cd-ac1b982e4a86"
-					(reference "#PWR066")
+					(reference "#PWR017")
 					(unit 1)
 				)
 			)
 		)
 	)
 	(symbol
-		(lib_name "5009_4")
 		(lib_id "5009_Yellow:5009")
 		(at 118.11 34.29 0)
 		(unit 1)
@@ -11424,7 +9570,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "5009:KEYSTONE_5009"
+		(property "Footprint" "5009_Yellow:KEYSTONE_5009"
 			(at 118.11 34.29 0)
 			(effects
 				(font
@@ -11924,7 +10070,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "53874803-5052-4c28-bb18-8070c915730c")
-		(property "Reference" "#PWR020"
+		(property "Reference" "#PWR022"
 			(at 102.87 95.25 0)
 			(effects
 				(font
@@ -11975,7 +10121,7 @@
 		(instances
 			(project "STM32 Nucleo RS232 & RS485 Expansion Board (ST Zio Compatible) V2"
 				(path "/080f83b7-8913-48e8-ab8e-79cb12295542/eb278bca-04f9-4d71-99cd-ac1b982e4a86"
-					(reference "#PWR020")
+					(reference "#PWR022")
 					(unit 1)
 				)
 			)
@@ -11991,7 +10137,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "57dad5ba-642d-4ed1-94f1-0127767860c0")
-		(property "Reference" "#PWR023"
+		(property "Reference" "#PWR025"
 			(at 93.98 152.4 0)
 			(effects
 				(font
@@ -12042,7 +10188,7 @@
 		(instances
 			(project "STM32 Nucleo RS232 & RS485 Expansion Board (ST Zio Compatible) V2"
 				(path "/080f83b7-8913-48e8-ab8e-79cb12295542/eb278bca-04f9-4d71-99cd-ac1b982e4a86"
-					(reference "#PWR023")
+					(reference "#PWR025")
 					(unit 1)
 				)
 			)
@@ -12396,7 +10542,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "653f71a0-e76f-47d3-90c5-99a14d7a0d0a")
-		(property "Reference" "#PWR026"
+		(property "Reference" "#PWR028"
 			(at 213.36 152.4 0)
 			(effects
 				(font
@@ -12447,14 +10593,13 @@
 		(instances
 			(project "STM32 Nucleo RS232 & RS485 Expansion Board (ST Zio Compatible) V2"
 				(path "/080f83b7-8913-48e8-ab8e-79cb12295542/eb278bca-04f9-4d71-99cd-ac1b982e4a86"
-					(reference "#PWR026")
+					(reference "#PWR028")
 					(unit 1)
 				)
 			)
 		)
 	)
 	(symbol
-		(lib_name "5009_7")
 		(lib_id "5009_Yellow:5009")
 		(at 118.11 45.72 0)
 		(unit 1)
@@ -12481,7 +10626,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "5009:KEYSTONE_5009"
+		(property "Footprint" "5009_Yellow:KEYSTONE_5009"
 			(at 118.11 45.72 0)
 			(effects
 				(font
@@ -12661,7 +10806,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6c62a16d-969e-4495-96d5-afad03ddcf49")
-		(property "Reference" "#PWR025"
+		(property "Reference" "#PWR027"
 			(at 138.43 152.4 0)
 			(effects
 				(font
@@ -12712,7 +10857,7 @@
 		(instances
 			(project "STM32 Nucleo RS232 & RS485 Expansion Board (ST Zio Compatible) V2"
 				(path "/080f83b7-8913-48e8-ab8e-79cb12295542/eb278bca-04f9-4d71-99cd-ac1b982e4a86"
-					(reference "#PWR025")
+					(reference "#PWR027")
 					(unit 1)
 				)
 			)
@@ -12745,7 +10890,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "5009:KEYSTONE_5009"
+		(property "Footprint" "5009_Yellow:KEYSTONE_5009"
 			(at 118.11 49.53 0)
 			(effects
 				(font
@@ -13085,7 +11230,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7bb85b9e-9100-4408-9414-5584b63c2199")
-		(property "Reference" "#PWR022"
+		(property "Reference" "#PWR024"
 			(at 262.89 129.54 0)
 			(effects
 				(font
@@ -13136,7 +11281,7 @@
 		(instances
 			(project ""
 				(path "/080f83b7-8913-48e8-ab8e-79cb12295542/eb278bca-04f9-4d71-99cd-ac1b982e4a86"
-					(reference "#PWR022")
+					(reference "#PWR024")
 					(unit 1)
 				)
 			)
@@ -13168,7 +11313,7 @@
 				)
 			)
 		)
-		(property "Footprint" "5008:KEYSTONE_5008"
+		(property "Footprint" "5008_Orange:KEYSTONE_5008"
 			(at 177.8 26.67 0)
 			(effects
 				(font
@@ -13623,7 +11768,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "SubD-M-2301843-2:CONN9_2301843-2_TEC"
 			(at 273.05 106.68 0)
 			(effects
 				(font
@@ -13632,7 +11777,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C591554.pdf"
+		(property "Datasheet" "~"
 			(at 273.05 106.68 0)
 			(effects
 				(font
@@ -13641,7 +11786,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Connector D-Sub, Male 9 Position 2 Row Through Hole"
+		(property "Description" "9-pin D-SUB connector, pins (male)"
 			(at 273.05 106.68 0)
 			(effects
 				(font
@@ -13784,7 +11929,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "983d088f-d1e8-4801-b09e-30cbb3a0a358")
-		(property "Reference" "#PWR018"
+		(property "Reference" "#PWR020"
 			(at 69.85 95.25 0)
 			(effects
 				(font
@@ -13835,7 +11980,7 @@
 		(instances
 			(project "STM32 Nucleo RS232 & RS485 Expansion Board (ST Zio Compatible) V2"
 				(path "/080f83b7-8913-48e8-ab8e-79cb12295542/eb278bca-04f9-4d71-99cd-ac1b982e4a86"
-					(reference "#PWR018")
+					(reference "#PWR020")
 					(unit 1)
 				)
 			)
@@ -13867,7 +12012,7 @@
 				)
 			)
 		)
-		(property "Footprint" "5008:KEYSTONE_5008"
+		(property "Footprint" "5008_Orange:KEYSTONE_5008"
 			(at 177.8 22.86 0)
 			(effects
 				(font
@@ -14374,8 +12519,8 @@
 				)
 			)
 		)
-		(property "Value" "HEADER 3POS 2.54mm"
-			(at 41.656 135.89 90)
+		(property "Value" "TCVR_PWR"
+			(at 54.102 136.144 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14384,7 +12529,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "HTSW-103-07-F-S:CON3_1X3_TU_TSW"
 			(at 68.58 135.89 0)
 			(effects
 				(font
@@ -14393,7 +12538,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C6631883.pdf"
+		(property "Datasheet" "~"
 			(at 68.58 135.89 0)
 			(effects
 				(font
@@ -14402,7 +12547,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Pin Header 3 Position 2.54mm Pitch Single Row Through Hole -55℃~+125℃"
+		(property "Description" "Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
 			(at 68.58 135.89 0)
 			(effects
 				(font
@@ -14705,7 +12850,7 @@
 				)
 			)
 		)
-		(property "Footprint" "5008:KEYSTONE_5008"
+		(property "Footprint" "5008_Orange:KEYSTONE_5008"
 			(at 177.8 30.48 0)
 			(effects
 				(font
@@ -15036,7 +13181,6 @@
 		)
 	)
 	(symbol
-		(lib_name "5009_6")
 		(lib_id "5009_Yellow:5009")
 		(at 118.11 41.91 0)
 		(unit 1)
@@ -15063,7 +13207,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "5009:KEYSTONE_5009"
+		(property "Footprint" "5009_Yellow:KEYSTONE_5009"
 			(at 118.11 41.91 0)
 			(effects
 				(font
@@ -15899,7 +14043,7 @@
 				)
 			)
 		)
-		(property "Footprint" "5008:KEYSTONE_5008"
+		(property "Footprint" "5008_Orange:KEYSTONE_5008"
 			(at 177.8 34.29 0)
 			(effects
 				(font
@@ -16230,7 +14374,6 @@
 		)
 	)
 	(symbol
-		(lib_name "5009_3")
 		(lib_id "5009_Yellow:5009")
 		(at 118.11 30.48 0)
 		(unit 1)
@@ -16257,7 +14400,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "5009:KEYSTONE_5009"
+		(property "Footprint" "5009_Yellow:KEYSTONE_5009"
 			(at 118.11 30.48 0)
 			(effects
 				(font
@@ -16452,7 +14595,7 @@
 				)
 			)
 		)
-		(property "Footprint" "5008:KEYSTONE_5008"
+		(property "Footprint" "5008_Orange:KEYSTONE_5008"
 			(at 177.8 49.53 0)
 			(effects
 				(font
@@ -16623,7 +14766,6 @@
 		)
 	)
 	(symbol
-		(lib_name "5009_2")
 		(lib_id "5009_Yellow:5009")
 		(at 118.11 26.67 0)
 		(unit 1)
@@ -16650,7 +14792,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "5009:KEYSTONE_5009"
+		(property "Footprint" "5009_Yellow:KEYSTONE_5009"
 			(at 118.11 26.67 0)
 			(effects
 				(font
@@ -16830,7 +14972,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fae1f22a-f7cd-4864-a5ce-2cab6a417fea")
-		(property "Reference" "#PWR017"
+		(property "Reference" "#PWR019"
 			(at 54.61 95.25 0)
 			(effects
 				(font
@@ -16881,7 +15023,7 @@
 		(instances
 			(project "STM32 Nucleo RS232 & RS485 Expansion Board (ST Zio Compatible) V2"
 				(path "/080f83b7-8913-48e8-ab8e-79cb12295542/eb278bca-04f9-4d71-99cd-ac1b982e4a86"
-					(reference "#PWR017")
+					(reference "#PWR019")
 					(unit 1)
 				)
 			)

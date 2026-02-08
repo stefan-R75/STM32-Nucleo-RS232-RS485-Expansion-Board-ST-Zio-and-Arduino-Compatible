@@ -37,7 +37,7 @@
 					)
 				)
 			)
-			(property "Footprint" ""
+			(property "Footprint" "HTSW-103-07-F-S:CON3_1X3_TU_TSW"
 				(at 0 0 0)
 				(effects
 					(font
@@ -2454,7 +2454,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "04919767-51f4-43fe-b3e3-0b08df795cee")
-		(property "Reference" "#PWR040"
+		(property "Reference" "#PWR042"
 			(at 144.78 121.92 0)
 			(effects
 				(font
@@ -2505,7 +2505,7 @@
 		(instances
 			(project "STM32 Nucleo RS232 & RS485 Expansion Board (ST Zio Compatible) V2"
 				(path "/080f83b7-8913-48e8-ab8e-79cb12295542/486090d1-223c-4361-8c2c-169c4ca9272f"
-					(reference "#PWR040")
+					(reference "#PWR042")
 					(unit 1)
 				)
 			)
@@ -2522,7 +2522,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "075aaa87-6bde-45ee-b972-ab7c01e9614f")
-		(property "Reference" "#PWR043"
+		(property "Reference" "#PWR045"
 			(at 85.09 130.81 0)
 			(effects
 				(font
@@ -2573,7 +2573,7 @@
 		(instances
 			(project "STM32 Nucleo RS232 & RS485 Expansion Board (ST Zio Compatible) V2"
 				(path "/080f83b7-8913-48e8-ab8e-79cb12295542/486090d1-223c-4361-8c2c-169c4ca9272f"
-					(reference "#PWR043")
+					(reference "#PWR045")
 					(unit 1)
 				)
 			)
@@ -2589,7 +2589,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "11f17706-2345-4ffa-83f2-e12b6787237e")
-		(property "Reference" "#PWR042"
+		(property "Reference" "#PWR044"
 			(at 220.98 121.92 0)
 			(effects
 				(font
@@ -2640,7 +2640,7 @@
 		(instances
 			(project "STM32 Nucleo RS232 & RS485 Expansion Board (ST Zio Compatible) V2"
 				(path "/080f83b7-8913-48e8-ab8e-79cb12295542/486090d1-223c-4361-8c2c-169c4ca9272f"
-					(reference "#PWR042")
+					(reference "#PWR044")
 					(unit 1)
 				)
 			)
@@ -3664,7 +3664,7 @@
 				)
 			)
 		)
-		(property "Value" "HEADER 3POS 2.54mm"
+		(property "Value" "SW_ENA"
 			(at 76.708 101.6 0)
 			(effects
 				(font
@@ -3674,7 +3674,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "HTSW-103-07-F-S:CON3_1X3_TU_TSW"
 			(at 74.93 96.52 0)
 			(effects
 				(font
@@ -3683,7 +3683,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C6631883.pdf"
+		(property "Datasheet" "~"
 			(at 74.93 96.52 0)
 			(effects
 				(font
@@ -3692,7 +3692,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Pin Header 3 Position 2.54mm Pitch Single Row Through Hole -55℃~+125℃"
+		(property "Description" "Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
 			(at 74.93 96.52 0)
 			(effects
 				(font
@@ -3820,7 +3820,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "90c4dc79-df74-4580-a3b7-b4d61a3ca09a")
-		(property "Reference" "#PWR041"
+		(property "Reference" "#PWR043"
 			(at 182.88 121.92 0)
 			(effects
 				(font
@@ -3871,7 +3871,7 @@
 		(instances
 			(project "STM32 Nucleo RS232 & RS485 Expansion Board (ST Zio Compatible) V2"
 				(path "/080f83b7-8913-48e8-ab8e-79cb12295542/486090d1-223c-4361-8c2c-169c4ca9272f"
-					(reference "#PWR041")
+					(reference "#PWR043")
 					(unit 1)
 				)
 			)
@@ -3887,7 +3887,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c2a552ce-1600-4682-b8f1-5e75d0d8e9c1")
-		(property "Reference" "#PWR037"
+		(property "Reference" "#PWR039"
 			(at 173.99 63.5 0)
 			(effects
 				(font
@@ -3938,7 +3938,7 @@
 		(instances
 			(project "STM32 Nucleo RS232 & RS485 Expansion Board (ST Zio Compatible) V2"
 				(path "/080f83b7-8913-48e8-ab8e-79cb12295542/486090d1-223c-4361-8c2c-169c4ca9272f"
-					(reference "#PWR037")
+					(reference "#PWR039")
 					(unit 1)
 				)
 			)
@@ -4449,7 +4449,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d942860d-6739-4853-a059-6f3c25845530")
-		(property "Reference" "#PWR038"
+		(property "Reference" "#PWR040"
 			(at -34.29 102.87 0)
 			(effects
 				(font
@@ -4500,7 +4500,7 @@
 		(instances
 			(project "STM32 Nucleo RS232 & RS485 Expansion Board (ST Zio Compatible) V2"
 				(path "/080f83b7-8913-48e8-ab8e-79cb12295542/486090d1-223c-4361-8c2c-169c4ca9272f"
-					(reference "#PWR038")
+					(reference "#PWR040")
 					(unit 1)
 				)
 			)
@@ -4678,7 +4678,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dd79446b-e87e-4d94-adeb-95ceb9dbc1da")
-		(property "Reference" "#PWR039"
+		(property "Reference" "#PWR041"
 			(at 132.08 121.92 0)
 			(effects
 				(font
@@ -4729,7 +4729,7 @@
 		(instances
 			(project "STM32 Nucleo RS232 & RS485 Expansion Board (ST Zio Compatible) V2"
 				(path "/080f83b7-8913-48e8-ab8e-79cb12295542/486090d1-223c-4361-8c2c-169c4ca9272f"
-					(reference "#PWR039")
+					(reference "#PWR041")
 					(unit 1)
 				)
 			)

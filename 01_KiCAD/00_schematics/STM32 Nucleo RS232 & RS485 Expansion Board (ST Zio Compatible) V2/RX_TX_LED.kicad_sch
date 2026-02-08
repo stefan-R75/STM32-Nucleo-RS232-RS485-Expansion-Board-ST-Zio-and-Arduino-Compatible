@@ -345,6 +345,177 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Conn_01x03_1"
+			(pin_names
+				(offset 1.016)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "J"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "Conn_01x03"
+				(at 0 -5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "HTSW-103-07-F-S:CON3_1X3_TU_TSW"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "connector"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "Connector*:*_1x??_*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "Conn_01x03_1_1_1"
+				(rectangle
+					(start -1.27 3.81)
+					(end 1.27 -3.81)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start -1.27 2.667)
+					(end 0 2.413)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -1.27 0.127)
+					(end 0 -0.127)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -1.27 -2.413)
+					(end 0 -2.667)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -5.08 2.54 0)
+					(length 3.81)
+					(name "Pin_1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 0 0)
+					(length 3.81)
+					(name "Pin_2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 -2.54 0)
+					(length 3.81)
+					(name "Pin_3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Connector_Generic:Conn_01x03"
 			(pin_names
 				(offset 1.016)
@@ -369,7 +540,7 @@
 					)
 				)
 			)
-			(property "Footprint" ""
+			(property "Footprint" "HTSW-103-07-F-S:CON3_1X3_TU_TSW"
 				(at 0 0 0)
 				(effects
 					(font
@@ -3066,7 +3237,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "32206304-8b6f-41e1-a2d3-315f7b4c422b")
-		(property "Reference" "#PWR028"
+		(property "Reference" "#PWR030"
 			(at 73.66 78.74 0)
 			(effects
 				(font
@@ -3117,7 +3288,7 @@
 		(instances
 			(project "STM32 Nucleo RS232 & RS485 Expansion Board (ST Zio Compatible) V2"
 				(path "/080f83b7-8913-48e8-ab8e-79cb12295542/d1bb9d55-41f4-4fc3-ae06-1adc98dc5d39"
-					(reference "#PWR028")
+					(reference "#PWR030")
 					(unit 1)
 				)
 			)
@@ -3629,7 +3800,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5082440d-957e-40f6-9338-090bd722fb73")
-		(property "Reference" "#PWR035"
+		(property "Reference" "#PWR037"
 			(at 73.66 134.62 0)
 			(effects
 				(font
@@ -3680,13 +3851,14 @@
 		(instances
 			(project "STM32 Nucleo RS232 & RS485 Expansion Board (ST Zio Compatible) V2"
 				(path "/080f83b7-8913-48e8-ab8e-79cb12295542/d1bb9d55-41f4-4fc3-ae06-1adc98dc5d39"
-					(reference "#PWR035")
+					(reference "#PWR037")
 					(unit 1)
 				)
 			)
 		)
 	)
 	(symbol
+		(lib_name "Conn_01x03_1")
 		(lib_id "Connector_Generic:Conn_01x03")
 		(at 173.99 35.56 90)
 		(unit 1)
@@ -3703,8 +3875,8 @@
 				)
 			)
 		)
-		(property "Value" "HEADER 3POS 2.54mm"
-			(at 200.406 35.56 90)
+		(property "Value" "TX_LED"
+			(at 185.42 35.56 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3713,7 +3885,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "HTSW-103-07-F-S:CON3_1X3_TU_TSW"
 			(at 173.99 35.56 0)
 			(effects
 				(font
@@ -3722,7 +3894,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C6631883.pdf"
+		(property "Datasheet" "~"
 			(at 173.99 35.56 0)
 			(effects
 				(font
@@ -3731,7 +3903,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Pin Header 3 Position 2.54mm Pitch Single Row Through Hole -55℃~+125℃"
+		(property "Description" "Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
 			(at 173.99 35.56 0)
 			(effects
 				(font
@@ -3858,7 +4030,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "625ccc0c-1027-401a-9ff4-378915bc3bbe")
-		(property "Reference" "#PWR033"
+		(property "Reference" "#PWR035"
 			(at 201.93 100.33 0)
 			(effects
 				(font
@@ -3909,7 +4081,7 @@
 		(instances
 			(project "STM32 Nucleo RS232 & RS485 Expansion Board (ST Zio Compatible) V2"
 				(path "/080f83b7-8913-48e8-ab8e-79cb12295542/d1bb9d55-41f4-4fc3-ae06-1adc98dc5d39"
-					(reference "#PWR033")
+					(reference "#PWR035")
 					(unit 1)
 				)
 			)
@@ -3925,7 +4097,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "65d1fbdf-54ea-4101-acc3-2631fa8b17de")
-		(property "Reference" "#PWR030"
+		(property "Reference" "#PWR032"
 			(at 173.99 86.36 0)
 			(effects
 				(font
@@ -3976,7 +4148,7 @@
 		(instances
 			(project "STM32 Nucleo RS232 & RS485 Expansion Board (ST Zio Compatible) V2"
 				(path "/080f83b7-8913-48e8-ab8e-79cb12295542/d1bb9d55-41f4-4fc3-ae06-1adc98dc5d39"
-					(reference "#PWR030")
+					(reference "#PWR032")
 					(unit 1)
 				)
 			)
@@ -4169,7 +4341,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "82ffd74e-c149-4ad3-a1fc-681a52ff6a4c")
-		(property "Reference" "#PWR031"
+		(property "Reference" "#PWR033"
 			(at 180.34 86.36 0)
 			(effects
 				(font
@@ -4220,7 +4392,7 @@
 		(instances
 			(project "STM32 Nucleo RS232 & RS485 Expansion Board (ST Zio Compatible) V2"
 				(path "/080f83b7-8913-48e8-ab8e-79cb12295542/d1bb9d55-41f4-4fc3-ae06-1adc98dc5d39"
-					(reference "#PWR031")
+					(reference "#PWR033")
 					(unit 1)
 				)
 			)
@@ -4638,7 +4810,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "98bd8676-c49b-4481-b63d-12a2c7251307")
-		(property "Reference" "#PWR029"
+		(property "Reference" "#PWR031"
 			(at 90.17 78.74 0)
 			(effects
 				(font
@@ -4689,7 +4861,7 @@
 		(instances
 			(project "STM32 Nucleo RS232 & RS485 Expansion Board (ST Zio Compatible) V2"
 				(path "/080f83b7-8913-48e8-ab8e-79cb12295542/d1bb9d55-41f4-4fc3-ae06-1adc98dc5d39"
-					(reference "#PWR029")
+					(reference "#PWR031")
 					(unit 1)
 				)
 			)
@@ -4705,7 +4877,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ac708a64-931f-406d-b8c7-18b97a1d4ce8")
-		(property "Reference" "#PWR036"
+		(property "Reference" "#PWR038"
 			(at 90.17 134.62 0)
 			(effects
 				(font
@@ -4756,7 +4928,7 @@
 		(instances
 			(project "STM32 Nucleo RS232 & RS485 Expansion Board (ST Zio Compatible) V2"
 				(path "/080f83b7-8913-48e8-ab8e-79cb12295542/d1bb9d55-41f4-4fc3-ae06-1adc98dc5d39"
-					(reference "#PWR036")
+					(reference "#PWR038")
 					(unit 1)
 				)
 			)
@@ -4772,7 +4944,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b72729bd-967a-4427-8dab-d020a11069d6")
-		(property "Reference" "#PWR034"
+		(property "Reference" "#PWR036"
 			(at 140.97 106.68 0)
 			(effects
 				(font
@@ -4823,7 +4995,7 @@
 		(instances
 			(project "STM32 Nucleo RS232 & RS485 Expansion Board (ST Zio Compatible) V2"
 				(path "/080f83b7-8913-48e8-ab8e-79cb12295542/d1bb9d55-41f4-4fc3-ae06-1adc98dc5d39"
-					(reference "#PWR034")
+					(reference "#PWR036")
 					(unit 1)
 				)
 			)
@@ -5324,7 +5496,7 @@
 				)
 			)
 		)
-		(property "Value" "HEADER 3POS 2.54mm"
+		(property "Value" "RX_LED"
 			(at 166.878 134.874 90)
 			(effects
 				(font
@@ -5334,7 +5506,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "HTSW-103-07-F-S:CON3_1X3_TU_TSW"
 			(at 173.99 134.62 0)
 			(effects
 				(font
@@ -5343,7 +5515,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C6631883.pdf"
+		(property "Datasheet" "~"
 			(at 173.99 134.62 0)
 			(effects
 				(font
@@ -5352,7 +5524,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Pin Header 3 Position 2.54mm Pitch Single Row Through Hole -55℃~+125℃"
+		(property "Description" "Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
 			(at 173.99 134.62 0)
 			(effects
 				(font
@@ -5639,7 +5811,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d3a86e33-bf35-483a-94ce-7f42ce46ca8c")
-		(property "Reference" "#PWR032"
+		(property "Reference" "#PWR034"
 			(at 168.91 100.33 0)
 			(effects
 				(font
@@ -5690,7 +5862,7 @@
 		(instances
 			(project "STM32 Nucleo RS232 & RS485 Expansion Board (ST Zio Compatible) V2"
 				(path "/080f83b7-8913-48e8-ab8e-79cb12295542/d1bb9d55-41f4-4fc3-ae06-1adc98dc5d39"
-					(reference "#PWR032")
+					(reference "#PWR034")
 					(unit 1)
 				)
 			)
@@ -6844,7 +7016,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f32f72fb-fdc4-4dba-9685-66b129532d45")
-		(property "Reference" "#PWR027"
+		(property "Reference" "#PWR029"
 			(at 133.35 76.2 0)
 			(effects
 				(font
@@ -6895,7 +7067,7 @@
 		(instances
 			(project "STM32 Nucleo RS232 & RS485 Expansion Board (ST Zio Compatible) V2"
 				(path "/080f83b7-8913-48e8-ab8e-79cb12295542/d1bb9d55-41f4-4fc3-ae06-1adc98dc5d39"
-					(reference "#PWR027")
+					(reference "#PWR029")
 					(unit 1)
 				)
 			)

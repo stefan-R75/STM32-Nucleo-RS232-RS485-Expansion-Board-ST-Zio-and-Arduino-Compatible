@@ -3848,6 +3848,18 @@
 		)
 		(uuid "03e7233f-4a75-4a76-95a3-332c5ea94426")
 	)
+	(text "(VREF)"
+		(exclude_from_sim no)
+		(at 192.278 59.944 0)
+		(effects
+			(font
+				(size 1.016 1.016)
+				(thickness 0.2032)
+				(bold yes)
+			)
+		)
+		(uuid "17fd8c03-a1f1-4ca4-ab39-5ecb8ada858c")
+	)
 	(text "(*)"
 		(exclude_from_sim no)
 		(at 113.538 105.664 0)
@@ -5027,7 +5039,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "35e7c1a3-55e4-465e-90b8-c81831a063dc")
-		(property "Reference" "R25"
+		(property "Reference" "R37"
 			(at 82.55 96.52 90)
 			(effects
 				(font
@@ -5169,7 +5181,7 @@
 		(instances
 			(project "STM32 Nucleo RS232 & RS485 Expansion Board (ST Zio Compatible) V2"
 				(path "/080f83b7-8913-48e8-ab8e-79cb12295542/067a36dd-1222-49fa-b4c7-0b289d0be8ff"
-					(reference "R25")
+					(reference "R37")
 					(unit 1)
 				)
 			)
@@ -5184,7 +5196,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "45e4d6a8-96e3-4741-9127-117222b500aa")
-		(property "Reference" "R26"
+		(property "Reference" "R38"
 			(at 66.04 101.6 90)
 			(effects
 				(font
@@ -5326,7 +5338,7 @@
 		(instances
 			(project "STM32 Nucleo RS232 & RS485 Expansion Board (ST Zio Compatible) V2"
 				(path "/080f83b7-8913-48e8-ab8e-79cb12295542/067a36dd-1222-49fa-b4c7-0b289d0be8ff"
-					(reference "R26")
+					(reference "R38")
 					(unit 1)
 				)
 			)
@@ -5341,7 +5353,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "560c27f7-e605-475d-bba9-a5716e265638")
-		(property "Reference" "R14"
+		(property "Reference" "R43"
 			(at 147.574 255.27 90)
 			(effects
 				(font
@@ -5486,7 +5498,7 @@
 		(instances
 			(project "STM32 Nucleo RS232 & RS485 Expansion Board (ST Zio Compatible) V2"
 				(path "/080f83b7-8913-48e8-ab8e-79cb12295542/067a36dd-1222-49fa-b4c7-0b289d0be8ff"
-					(reference "R14")
+					(reference "R43")
 					(unit 1)
 				)
 			)
@@ -5741,7 +5753,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "684fc680-33c2-41d7-bc88-a8afe0116ce9")
-		(property "Reference" "Q1"
+		(property "Reference" "Q2"
 			(at 110.236 229.87 0)
 			(effects
 				(font
@@ -5891,7 +5903,7 @@
 		(instances
 			(project "STM32 Nucleo RS232 & RS485 Expansion Board (ST Zio Compatible) V2"
 				(path "/080f83b7-8913-48e8-ab8e-79cb12295542/067a36dd-1222-49fa-b4c7-0b289d0be8ff"
-					(reference "Q1")
+					(reference "Q2")
 					(unit 1)
 				)
 			)
@@ -5906,7 +5918,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "6c84471e-6a2e-403b-91a5-ac173908af86")
-		(property "Reference" "R30"
+		(property "Reference" "R35"
 			(at 193.04 76.2 90)
 			(effects
 				(font
@@ -6048,7 +6060,7 @@
 		(instances
 			(project "STM32 Nucleo RS232 & RS485 Expansion Board (ST Zio Compatible) V2"
 				(path "/080f83b7-8913-48e8-ab8e-79cb12295542/067a36dd-1222-49fa-b4c7-0b289d0be8ff"
-					(reference "R30")
+					(reference "R35")
 					(unit 1)
 				)
 			)
@@ -6063,7 +6075,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "6fef7439-fc41-4a22-96bc-ad61d1c4debf")
-		(property "Reference" "R27"
+		(property "Reference" "R39"
 			(at 82.55 104.14 90)
 			(effects
 				(font
@@ -6205,7 +6217,7 @@
 		(instances
 			(project "STM32 Nucleo RS232 & RS485 Expansion Board (ST Zio Compatible) V2"
 				(path "/080f83b7-8913-48e8-ab8e-79cb12295542/067a36dd-1222-49fa-b4c7-0b289d0be8ff"
-					(reference "R27")
+					(reference "R39")
 					(unit 1)
 				)
 			)
@@ -6220,7 +6232,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "819d828d-8036-48a5-88c8-932f5658da25")
-		(property "Reference" "R28"
+		(property "Reference" "R40"
 			(at 76.2 109.22 90)
 			(effects
 				(font
@@ -6362,7 +6374,7 @@
 		(instances
 			(project "STM32 Nucleo RS232 & RS485 Expansion Board (ST Zio Compatible) V2"
 				(path "/080f83b7-8913-48e8-ab8e-79cb12295542/067a36dd-1222-49fa-b4c7-0b289d0be8ff"
-					(reference "R28")
+					(reference "R40")
 					(unit 1)
 				)
 			)
@@ -6377,7 +6389,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8c15e375-f174-4c8b-ba3e-6f014c1e6f64")
-		(property "Reference" "R31"
+		(property "Reference" "R34"
 			(at 193.04 63.5 90)
 			(effects
 				(font
@@ -6519,7 +6531,7 @@
 		(instances
 			(project "STM32 Nucleo RS232 & RS485 Expansion Board (ST Zio Compatible) V2"
 				(path "/080f83b7-8913-48e8-ab8e-79cb12295542/067a36dd-1222-49fa-b4c7-0b289d0be8ff"
-					(reference "R31")
+					(reference "R34")
 					(unit 1)
 				)
 			)
@@ -6535,7 +6547,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a5310082-1145-45f1-b5d0-f58f91364dfb")
-		(property "Reference" "R12"
+		(property "Reference" "R41"
 			(at 139.7 228.5999 0)
 			(effects
 				(font
@@ -6680,7 +6692,7 @@
 		(instances
 			(project "STM32 Nucleo RS232 & RS485 Expansion Board (ST Zio Compatible) V2"
 				(path "/080f83b7-8913-48e8-ab8e-79cb12295542/067a36dd-1222-49fa-b4c7-0b289d0be8ff"
-					(reference "R12")
+					(reference "R41")
 					(unit 1)
 				)
 			)
@@ -7102,7 +7114,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d2b4bc11-c868-4a04-9b84-780ec1c5d234")
-		(property "Reference" "#PWR030"
+		(property "Reference" "#PWR047"
 			(at 92.71 88.9 0)
 			(effects
 				(font
@@ -7153,7 +7165,7 @@
 		(instances
 			(project ""
 				(path "/080f83b7-8913-48e8-ab8e-79cb12295542/067a36dd-1222-49fa-b4c7-0b289d0be8ff"
-					(reference "#PWR030")
+					(reference "#PWR047")
 					(unit 1)
 				)
 			)
@@ -7168,7 +7180,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d381e6ed-c013-4b41-b749-ce6801dba8cf")
-		(property "Reference" "R29"
+		(property "Reference" "R36"
 			(at 193.04 91.44 90)
 			(effects
 				(font
@@ -7310,7 +7322,7 @@
 		(instances
 			(project "STM32 Nucleo RS232 & RS485 Expansion Board (ST Zio Compatible) V2"
 				(path "/080f83b7-8913-48e8-ab8e-79cb12295542/067a36dd-1222-49fa-b4c7-0b289d0be8ff"
-					(reference "R29")
+					(reference "R36")
 					(unit 1)
 				)
 			)
@@ -7577,7 +7589,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fe1ff70a-c39a-4356-ad18-9f6a5ac3149a")
-		(property "Reference" "R13"
+		(property "Reference" "R42"
 			(at 162.56 228.5999 0)
 			(effects
 				(font
@@ -7722,7 +7734,7 @@
 		(instances
 			(project "STM32 Nucleo RS232 & RS485 Expansion Board (ST Zio Compatible) V2"
 				(path "/080f83b7-8913-48e8-ab8e-79cb12295542/067a36dd-1222-49fa-b4c7-0b289d0be8ff"
-					(reference "R13")
+					(reference "R42")
 					(unit 1)
 				)
 			)

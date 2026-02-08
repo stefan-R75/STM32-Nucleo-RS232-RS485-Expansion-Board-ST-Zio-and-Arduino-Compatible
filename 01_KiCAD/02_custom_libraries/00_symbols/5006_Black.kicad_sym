@@ -227,6 +227,19 @@
 				)
 			)
 		)
+		(symbol "5006_0_1"
+			(circle
+				(center 0 0)
+				(radius 1.4199)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+		)
 		(embedded_fonts no)
 	)
 )

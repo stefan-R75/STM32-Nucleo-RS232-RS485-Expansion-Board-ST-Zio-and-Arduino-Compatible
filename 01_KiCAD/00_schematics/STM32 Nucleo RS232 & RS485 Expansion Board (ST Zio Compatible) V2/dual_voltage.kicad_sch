@@ -4232,7 +4232,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Polarized")
-		(at 232.371 63.3459 0)
+		(at 232.41 63.5 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4241,7 +4241,7 @@
 		(fields_autoplaced yes)
 		(uuid "5aedbb9e-262c-483d-86f9-8a69007f6147")
 		(property "Reference" "C1"
-			(at 236.22 59.9168 0)
+			(at 236.259 60.0709 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4250,7 +4250,7 @@
 			)
 		)
 		(property "Value" "100µF"
-			(at 236.22 62.4568 0)
+			(at 236.259 62.6109 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4259,7 +4259,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 233.3362 67.1559 0)
+			(at 233.3752 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4268,7 +4268,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.lcsc.com/datasheet/C401850.pdf"
-			(at 232.371 63.3459 0)
+			(at 232.41 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4277,7 +4277,7 @@
 			)
 		)
 		(property "Description" "100uF ±20% 50V Aluminum Electrolytic Capacitors 5000hrs@105℃"
-			(at 232.371 63.3459 0)
+			(at 232.41 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4286,7 +4286,7 @@
 			)
 		)
 		(property "Manufacturer" "PANASONIC"
-			(at 232.371 63.3459 0)
+			(at 232.41 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4295,7 +4295,7 @@
 			)
 		)
 		(property "MPN" "EEEHD1H101P"
-			(at 232.371 63.3459 0)
+			(at 232.41 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4304,7 +4304,7 @@
 			)
 		)
 		(property "Supplier" ""
-			(at 232.371 63.3459 0)
+			(at 232.41 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4313,7 +4313,7 @@
 			)
 		)
 		(property "SPN" ""
-			(at 232.371 63.3459 0)
+			(at 232.41 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4322,7 +4322,7 @@
 			)
 		)
 		(property "LCSC" "C401850"
-			(at 232.371 63.3459 0)
+			(at 232.41 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4331,7 +4331,7 @@
 			)
 		)
 		(property "Package" "SMD,D10xL10.2mm"
-			(at 232.371 63.3459 0)
+			(at 232.41 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4340,7 +4340,7 @@
 			)
 		)
 		(property "Type" "SMD"
-			(at 232.371 63.3459 0)
+			(at 232.41 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4349,7 +4349,7 @@
 			)
 		)
 		(property "DNP" ""
-			(at 232.371 63.3459 0)
+			(at 232.41 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4358,7 +4358,7 @@
 			)
 		)
 		(property "Dielectric" ""
-			(at 232.371 63.3459 0)
+			(at 232.41 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4366,7 +4366,7 @@
 			)
 		)
 		(property "Voltage Rating" "50V"
-			(at 236.22 64.9968 0)
+			(at 236.259 65.1509 0)
 			(effects
 				(font
 					(size 1.016 1.016)

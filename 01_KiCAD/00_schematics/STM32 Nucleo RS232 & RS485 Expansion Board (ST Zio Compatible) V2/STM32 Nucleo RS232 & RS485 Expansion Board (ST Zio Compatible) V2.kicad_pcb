@@ -29471,6 +29471,17 @@
 			(uuid "fea8314c-651e-4b5e-b010-d75d90a74ac4")
 		)
 		(embedded_fonts no)
+		(model "${KICAD9_3DMODEL_DIR}/Texas Instruments/THVD4431/THVD4431RHAR--3DModel-STEP-56544.STEP"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "PCM_fab:R_0603"
 		(layer "F.Cu")
@@ -44185,6 +44196,17 @@
 			(uuid "04740071-3aac-4780-a2b0-170ceaaf52f0")
 		)
 		(embedded_fonts no)
+		(model "${KICAD9_3DMODEL_DIR}/Texas Instruments/SN74LVC245ADBR/SN74LVC245ADBR.STEP"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "PCM_fab:R_0603"
 		(layer "F.Cu")

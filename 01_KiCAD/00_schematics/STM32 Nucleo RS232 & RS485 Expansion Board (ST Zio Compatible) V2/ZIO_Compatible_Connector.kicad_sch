@@ -4265,6 +4265,16 @@
 	)
 	(wire
 		(pts
+			(xy 111.76 82.55) (xy 118.11 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2c1fdfdc-1e31-4543-b2de-af3bb1d3daef")
+	)
+	(wire
+		(pts
 			(xy 217.17 64.77) (xy 203.2 64.77)
 		)
 		(stroke
@@ -4272,16 +4282,6 @@
 			(type default)
 		)
 		(uuid "2c68bfdd-e928-4286-940f-01f426c15074")
-	)
-	(wire
-		(pts
-			(xy 111.76 80.01) (xy 118.11 80.01)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "40aac636-a294-4039-9f75-fe9affc4e596")
 	)
 	(wire
 		(pts
@@ -4362,6 +4362,16 @@
 			(type default)
 		)
 		(uuid "84c19324-aa61-4d8e-b64e-f3851b24b4a1")
+	)
+	(wire
+		(pts
+			(xy 111.76 80.01) (xy 137.16 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "85747aee-3178-4d4b-923e-4daeef60b45c")
 	)
 	(wire
 		(pts
@@ -4532,16 +4542,6 @@
 			(type default)
 		)
 		(uuid "f78eb1cc-b235-47a0-b24b-a7bc19310e9e")
-	)
-	(wire
-		(pts
-			(xy 111.76 82.55) (xy 137.16 82.55)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fdefe6e2-c6b4-4223-b250-12444ff741c2")
 	)
 	(global_label "L3-TXD"
 		(shape output)
@@ -4788,7 +4788,7 @@
 	)
 	(global_label "MCU_RXLED_GPIO"
 		(shape output)
-		(at 137.16 82.55 0)
+		(at 137.16 80.01 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4799,7 +4799,7 @@
 		)
 		(uuid "81e8d3f4-b066-468d-8e00-e37ab13badb1")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 156.5342 82.55 0)
+			(at 156.5342 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4811,7 +4811,7 @@
 	)
 	(global_label "MCU_TXLED_GPIO"
 		(shape output)
-		(at 118.11 80.01 0)
+		(at 118.11 82.55 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4822,7 +4822,7 @@
 		)
 		(uuid "91a0f093-2551-4b16-b64b-8a6236555cfa")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 137.1818 80.01 0)
+			(at 137.1818 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5064,7 +5064,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C105881.pdf"
+		(property "Datasheet" "~"
 			(at 87.63 97.79 0)
 			(effects
 				(font
@@ -5073,7 +5073,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "100mW 330Ω 75V Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS"
+		(property "Description" "Resistor"
 			(at 87.63 97.79 0)
 			(effects
 				(font
@@ -5221,7 +5221,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C105881.pdf"
+		(property "Datasheet" "~"
 			(at 71.12 102.87 0)
 			(effects
 				(font
@@ -5230,7 +5230,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "100mW 330Ω 75V Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS"
+		(property "Description" "Resistor"
 			(at 71.12 102.87 0)
 			(effects
 				(font
@@ -5381,7 +5381,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C22548.pdf"
+		(property "Datasheet" "~"
 			(at 154.94 252.73 0)
 			(effects
 				(font
@@ -5390,7 +5390,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "100mW 1kΩ 75V Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS"
+		(property "Description" "Resistor"
 			(at 154.94 252.73 0)
 			(effects
 				(font
@@ -5782,7 +5782,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C82079.pdf"
+		(property "Datasheet" "http://assets.nexperia.com/documents/data-sheet/BSS84.pdf"
 			(at 110.49 228.6 0)
 			(effects
 				(font
@@ -5792,7 +5792,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "P-Channel 50V 130mA 225mW Surface Mount SOT-23"
+		(property "Description" "-0.13A Id, -50V Vds, P-Channel MOSFET, SOT-23"
 			(at 105.41 232.41 0)
 			(effects
 				(font
@@ -5943,7 +5943,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C105881.pdf"
+		(property "Datasheet" "~"
 			(at 198.12 77.47 0)
 			(effects
 				(font
@@ -5952,7 +5952,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "100mW 330Ω 75V Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS"
+		(property "Description" "Resistor"
 			(at 198.12 77.47 0)
 			(effects
 				(font
@@ -6100,7 +6100,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C105881.pdf"
+		(property "Datasheet" "~"
 			(at 87.63 105.41 0)
 			(effects
 				(font
@@ -6109,7 +6109,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "100mW 330Ω 75V Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS"
+		(property "Description" "Resistor"
 			(at 87.63 105.41 0)
 			(effects
 				(font
@@ -6257,7 +6257,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C105881.pdf"
+		(property "Datasheet" "~"
 			(at 71.12 107.95 0)
 			(effects
 				(font
@@ -6266,7 +6266,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "100mW 330Ω 75V Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS"
+		(property "Description" "Resistor"
 			(at 71.12 107.95 0)
 			(effects
 				(font
@@ -6414,7 +6414,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C105881.pdf"
+		(property "Datasheet" "~"
 			(at 198.12 64.77 0)
 			(effects
 				(font
@@ -6423,7 +6423,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "100mW 330Ω 75V Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS"
+		(property "Description" "Resistor"
 			(at 198.12 64.77 0)
 			(effects
 				(font
@@ -6575,7 +6575,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C98220.pdf"
+		(property "Datasheet" "~"
 			(at 137.16 231.14 0)
 			(effects
 				(font
@@ -6584,7 +6584,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "100mW 10kΩ 75V Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS"
+		(property "Description" "Resistor"
 			(at 137.16 231.14 0)
 			(effects
 				(font
@@ -7205,7 +7205,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C105881.pdf"
+		(property "Datasheet" "~"
 			(at 198.12 92.71 0)
 			(effects
 				(font
@@ -7214,7 +7214,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "100mW 330Ω 75V Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS"
+		(property "Description" "Resistor"
 			(at 198.12 92.71 0)
 			(effects
 				(font
@@ -7617,7 +7617,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C108078.pdf"
+		(property "Datasheet" "~"
 			(at 160.02 231.14 0)
 			(effects
 				(font
@@ -7626,7 +7626,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "100mW 3.3kΩ 75V Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS"
+		(property "Description" "Resistor"
 			(at 160.02 231.14 0)
 			(effects
 				(font

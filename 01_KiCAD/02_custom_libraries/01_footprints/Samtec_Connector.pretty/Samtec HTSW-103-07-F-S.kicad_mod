@@ -1,4 +1,4 @@
-(footprint "CON3_1X3_TU_TSW"
+(footprint "Samtec HTSW-103-07-F-S"
 	(version 20241229)
 	(generator "pcbnew")
 	(generator_version "9.0")
@@ -16,7 +16,7 @@
 			)
 		)
 	)
-	(property "Value" "CON3_1X3_TU_TSW"
+	(property "Value" "Samtec HTSW-103-07-F-S"
 		(at 0 0 0)
 		(unlocked yes)
 		(layer "F.Fab")

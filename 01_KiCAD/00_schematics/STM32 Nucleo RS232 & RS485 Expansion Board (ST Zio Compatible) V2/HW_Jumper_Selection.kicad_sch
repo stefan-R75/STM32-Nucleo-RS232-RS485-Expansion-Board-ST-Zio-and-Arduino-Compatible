@@ -345,1032 +345,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Conn_01x03_1"
-			(pin_names
-				(offset 1.016)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "J"
-				(at 0 5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "Conn_01x03"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" "HTSW-103-07-F-S:CON3_1X3_TU_TSW"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "connector"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "Connector*:*_1x??_*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "Conn_01x03_1_1_1"
-				(rectangle
-					(start -1.27 3.81)
-					(end 1.27 -3.81)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(rectangle
-					(start -1.27 2.667)
-					(end 0 2.413)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -1.27 0.127)
-					(end 0 -0.127)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -1.27 -2.413)
-					(end 0 -2.667)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at -5.08 2.54 0)
-					(length 3.81)
-					(name "Pin_1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 0 0)
-					(length 3.81)
-					(name "Pin_2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 -2.54 0)
-					(length 3.81)
-					(name "Pin_3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "Conn_01x03_2"
-			(pin_names
-				(offset 1.016)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "J"
-				(at 0 5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "Conn_01x03"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" "HTSW-103-07-F-S:CON3_1X3_TU_TSW"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "connector"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "Connector*:*_1x??_*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "Conn_01x03_2_1_1"
-				(rectangle
-					(start -1.27 3.81)
-					(end 1.27 -3.81)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(rectangle
-					(start -1.27 2.667)
-					(end 0 2.413)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -1.27 0.127)
-					(end 0 -0.127)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -1.27 -2.413)
-					(end 0 -2.667)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at -5.08 2.54 0)
-					(length 3.81)
-					(name "Pin_1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 0 0)
-					(length 3.81)
-					(name "Pin_2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 -2.54 0)
-					(length 3.81)
-					(name "Pin_3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "Conn_01x03_3"
-			(pin_names
-				(offset 1.016)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "J"
-				(at 0 5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "Conn_01x03"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" "HTSW-103-07-F-S:CON3_1X3_TU_TSW"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "connector"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "Connector*:*_1x??_*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "Conn_01x03_3_1_1"
-				(rectangle
-					(start -1.27 3.81)
-					(end 1.27 -3.81)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(rectangle
-					(start -1.27 2.667)
-					(end 0 2.413)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -1.27 0.127)
-					(end 0 -0.127)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -1.27 -2.413)
-					(end 0 -2.667)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at -5.08 2.54 0)
-					(length 3.81)
-					(name "Pin_1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 0 0)
-					(length 3.81)
-					(name "Pin_2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 -2.54 0)
-					(length 3.81)
-					(name "Pin_3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "Conn_01x03_4"
-			(pin_names
-				(offset 1.016)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "J"
-				(at 0 5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "Conn_01x03"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" "HTSW-103-07-F-S:CON3_1X3_TU_TSW"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "connector"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "Connector*:*_1x??_*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "Conn_01x03_4_1_1"
-				(rectangle
-					(start -1.27 3.81)
-					(end 1.27 -3.81)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(rectangle
-					(start -1.27 2.667)
-					(end 0 2.413)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -1.27 0.127)
-					(end 0 -0.127)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -1.27 -2.413)
-					(end 0 -2.667)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at -5.08 2.54 0)
-					(length 3.81)
-					(name "Pin_1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 0 0)
-					(length 3.81)
-					(name "Pin_2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 -2.54 0)
-					(length 3.81)
-					(name "Pin_3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "Conn_01x03_5"
-			(pin_names
-				(offset 1.016)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "J"
-				(at 0 5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "Conn_01x03"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" "HTSW-103-07-F-S:CON3_1X3_TU_TSW"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "connector"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "Connector*:*_1x??_*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "Conn_01x03_5_1_1"
-				(rectangle
-					(start -1.27 3.81)
-					(end 1.27 -3.81)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(rectangle
-					(start -1.27 2.667)
-					(end 0 2.413)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -1.27 0.127)
-					(end 0 -0.127)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -1.27 -2.413)
-					(end 0 -2.667)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at -5.08 2.54 0)
-					(length 3.81)
-					(name "Pin_1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 0 0)
-					(length 3.81)
-					(name "Pin_2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 -2.54 0)
-					(length 3.81)
-					(name "Pin_3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "Conn_01x03_6"
-			(pin_names
-				(offset 1.016)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "J"
-				(at 0 5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "Conn_01x03"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" "HTSW-103-07-F-S:CON3_1X3_TU_TSW"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "connector"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "Connector*:*_1x??_*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "Conn_01x03_6_1_1"
-				(rectangle
-					(start -1.27 3.81)
-					(end 1.27 -3.81)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(rectangle
-					(start -1.27 2.667)
-					(end 0 2.413)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -1.27 0.127)
-					(end 0 -0.127)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -1.27 -2.413)
-					(end 0 -2.667)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at -5.08 2.54 0)
-					(length 3.81)
-					(name "Pin_1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 0 0)
-					(length 3.81)
-					(name "Pin_2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 -2.54 0)
-					(length 3.81)
-					(name "Pin_3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "Connector_Generic:Conn_01x03"
 			(pin_names
 				(offset 1.016)
@@ -1395,7 +369,7 @@
 					)
 				)
 			)
-			(property "Footprint" "HTSW-103-07-F-S:CON3_1X3_TU_TSW"
+			(property "Footprint" "Samtec_Connector:Samtec HTSW-103-07-F-S"
 				(at 0 0 0)
 				(effects
 					(font
@@ -5531,7 +4505,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C227580.pdf"
+		(property "Datasheet" "~"
 			(at 105.41 43.18 0)
 			(effects
 				(font
@@ -5540,7 +4514,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "137Ω 100mW 75V Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS"
+		(property "Description" "Resistor"
 			(at 105.41 43.18 0)
 			(effects
 				(font
@@ -5691,7 +4665,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C22548.pdf"
+		(property "Datasheet" "~"
 			(at 356.87 43.18 0)
 			(effects
 				(font
@@ -5700,7 +4674,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "100mW 1kΩ 75V Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS"
+		(property "Description" "Resistor"
 			(at 356.87 43.18 0)
 			(effects
 				(font
@@ -5852,7 +4826,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C98220.pdf"
+		(property "Datasheet" "~"
 			(at 54.61 238.76 0)
 			(effects
 				(font
@@ -5861,7 +4835,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "100mW 10kΩ 75V Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS"
+		(property "Description" "Resistor"
 			(at 54.61 238.76 0)
 			(effects
 				(font
@@ -6010,7 +4984,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C105578.pdf"
+		(property "Datasheet" "~"
 			(at 297.18 36.83 0)
 			(effects
 				(font
@@ -6019,7 +4993,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "100mW 1MΩ 75V Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS"
+		(property "Description" "Resistor"
 			(at 297.18 36.83 0)
 			(effects
 				(font
@@ -6169,7 +5143,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C98220.pdf"
+		(property "Datasheet" "~"
 			(at 49.53 153.67 0)
 			(effects
 				(font
@@ -6178,7 +5152,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "100mW 10kΩ 75V Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS"
+		(property "Description" "Resistor"
 			(at 49.53 153.67 0)
 			(effects
 				(font
@@ -6293,7 +5267,6 @@
 		)
 	)
 	(symbol
-		(lib_name "Conn_01x03_3")
 		(lib_id "Connector_Generic:Conn_01x03")
 		(at 288.29 80.01 270)
 		(unit 1)
@@ -6321,7 +5294,7 @@
 				)
 			)
 		)
-		(property "Footprint" "HTSW-103-07-F-S:CON3_1X3_TU_TSW"
+		(property "Footprint" "Samtec_Connector:Samtec HTSW-103-07-F-S"
 			(at 288.29 80.01 0)
 			(effects
 				(font
@@ -6560,7 +5533,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C98220.pdf"
+		(property "Datasheet" "~"
 			(at 285.75 153.67 0)
 			(effects
 				(font
@@ -6569,7 +5542,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "100mW 10kΩ 75V Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS"
+		(property "Description" "Resistor"
 			(at 285.75 153.67 0)
 			(effects
 				(font
@@ -6718,7 +5691,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C105578.pdf"
+		(property "Datasheet" "~"
 			(at 179.07 36.83 0)
 			(effects
 				(font
@@ -6727,7 +5700,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "100mW 1MΩ 75V Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS"
+		(property "Description" "Resistor"
 			(at 179.07 36.83 0)
 			(effects
 				(font
@@ -6877,7 +5850,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C22548.pdf"
+		(property "Datasheet" "~"
 			(at 120.65 213.36 0)
 			(effects
 				(font
@@ -6886,7 +5859,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "100mW 1kΩ 75V Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS"
+		(property "Description" "Resistor"
 			(at 120.65 213.36 0)
 			(effects
 				(font
@@ -7118,7 +6091,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C22548.pdf"
+		(property "Datasheet" "~"
 			(at 120.65 128.27 0)
 			(effects
 				(font
@@ -7127,7 +6100,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "100mW 1kΩ 75V Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS"
+		(property "Description" "Resistor"
 			(at 120.65 128.27 0)
 			(effects
 				(font
@@ -7346,7 +6319,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C91183.pdf"
+		(property "Datasheet" "https://cdn.sparkfun.com/assets/8/a/4/a/5/Kemet_Capacitor_Datasheet.pdf"
 			(at 195.58 54.61 0)
 			(effects
 				(font
@@ -7355,7 +6328,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "100nF ±5% 50V Ceramic Capacitor X7R 0603"
+		(property "Description" "Unpolarized capacitor"
 			(at 195.58 59.69 0)
 			(effects
 				(font
@@ -7454,6 +6427,31 @@
 				)
 			)
 		)
+		(property "PROD_ID" "CAP-00810"
+			(at 195.58 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 195.58 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" "20%"
+			(at 195.58 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "0e0d127e-2336-4d17-9428-32861e50eaa1")
 		)
@@ -7506,7 +6504,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C22548.pdf"
+		(property "Datasheet" "~"
 			(at 120.65 43.18 0)
 			(effects
 				(font
@@ -7515,7 +6513,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "100mW 1kΩ 75V Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS"
+		(property "Description" "Resistor"
 			(at 120.65 43.18 0)
 			(effects
 				(font
@@ -7666,7 +6664,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C91183.pdf"
+		(property "Datasheet" "https://cdn.sparkfun.com/assets/8/a/4/a/5/Kemet_Capacitor_Datasheet.pdf"
 			(at 77.47 139.7 0)
 			(effects
 				(font
@@ -7675,7 +6673,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "100nF ±5% 50V Ceramic Capacitor X7R 0603"
+		(property "Description" "Unpolarized capacitor"
 			(at 77.47 144.78 0)
 			(effects
 				(font
@@ -7774,6 +6772,31 @@
 				)
 			)
 		)
+		(property "PROD_ID" "CAP-00810"
+			(at 77.47 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 77.47 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" "20%"
+			(at 77.47 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "12765b98-511f-4e63-b4f2-e5a76ee02d3e")
 		)
@@ -7827,7 +6850,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C98220.pdf"
+		(property "Datasheet" "~"
 			(at 172.72 153.67 0)
 			(effects
 				(font
@@ -7836,7 +6859,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "100mW 10kΩ 75V Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS"
+		(property "Description" "Resistor"
 			(at 172.72 153.67 0)
 			(effects
 				(font
@@ -8054,7 +7077,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C91183.pdf"
+		(property "Datasheet" "https://cdn.sparkfun.com/assets/8/a/4/a/5/Kemet_Capacitor_Datasheet.pdf"
 			(at 195.58 139.7 0)
 			(effects
 				(font
@@ -8063,7 +7086,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "100nF ±5% 50V Ceramic Capacitor X7R 0603"
+		(property "Description" "Unpolarized capacitor"
 			(at 195.58 144.78 0)
 			(effects
 				(font
@@ -8162,6 +7185,31 @@
 				)
 			)
 		)
+		(property "PROD_ID" "CAP-00810"
+			(at 195.58 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 195.58 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" "20%"
+			(at 195.58 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "1e003e6c-0eef-4574-a4e3-b3b561e1b281")
 		)
@@ -8246,7 +7294,6 @@
 		)
 	)
 	(symbol
-		(lib_name "Conn_01x03_1")
 		(lib_id "Connector_Generic:Conn_01x03")
 		(at 52.07 80.01 270)
 		(unit 1)
@@ -8274,7 +7321,7 @@
 				)
 			)
 		)
-		(property "Footprint" "HTSW-103-07-F-S:CON3_1X3_TU_TSW"
+		(property "Footprint" "Samtec_Connector:Samtec HTSW-103-07-F-S"
 			(at 52.07 80.01 0)
 			(effects
 				(font
@@ -8446,7 +7493,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C98220.pdf"
+		(property "Datasheet" "~"
 			(at 54.61 153.67 0)
 			(effects
 				(font
@@ -8455,7 +7502,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "100mW 10kΩ 75V Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS"
+		(property "Description" "Resistor"
 			(at 54.61 153.67 0)
 			(effects
 				(font
@@ -8570,7 +7617,6 @@
 		)
 	)
 	(symbol
-		(lib_name "Conn_01x03_5")
 		(lib_id "Connector_Generic:Conn_01x03")
 		(at 170.18 165.1 270)
 		(unit 1)
@@ -8598,7 +7644,7 @@
 				)
 			)
 		)
-		(property "Footprint" "HTSW-103-07-F-S:CON3_1X3_TU_TSW"
+		(property "Footprint" "Samtec_Connector:Samtec HTSW-103-07-F-S"
 			(at 170.18 165.1 0)
 			(effects
 				(font
@@ -8767,7 +7813,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C14675.pdf"
+		(property "Datasheet" "~"
 			(at 179.07 55.88 0)
 			(effects
 				(font
@@ -8776,7 +7822,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "100mW 100kΩ 75V Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS"
+		(property "Description" "Resistor"
 			(at 179.07 55.88 0)
 			(effects
 				(font
@@ -9005,7 +8051,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C105578.pdf"
+		(property "Datasheet" "~"
 			(at 60.96 36.83 0)
 			(effects
 				(font
@@ -9014,7 +8060,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "100mW 1MΩ 75V Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS"
+		(property "Description" "Resistor"
 			(at 60.96 36.83 0)
 			(effects
 				(font
@@ -9165,7 +8211,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C98220.pdf"
+		(property "Datasheet" "~"
 			(at 172.72 68.58 0)
 			(effects
 				(font
@@ -9174,7 +8220,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "100mW 10kΩ 75V Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS"
+		(property "Description" "Resistor"
 			(at 172.72 68.58 0)
 			(effects
 				(font
@@ -9325,7 +8371,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C98220.pdf"
+		(property "Datasheet" "~"
 			(at 167.64 68.58 0)
 			(effects
 				(font
@@ -9334,7 +8380,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "100mW 10kΩ 75V Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS"
+		(property "Description" "Resistor"
 			(at 167.64 68.58 0)
 			(effects
 				(font
@@ -9485,7 +8531,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C5656662.pdf"
+		(property "Datasheet" "~"
 			(at 246.38 137.16 0)
 			(effects
 				(font
@@ -9494,7 +8540,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Emerald Green 530nm LED Indication - Discrete 2.7V 0603"
+		(property "Description" "Light emitting diode"
 			(at 251.46 137.16 0)
 			(effects
 				(font
@@ -9662,7 +8708,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C5656657.pdf"
+		(property "Datasheet" "~"
 			(at 349.25 52.07 0)
 			(effects
 				(font
@@ -9671,7 +8717,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Amber 609nm LED Indication - Discrete 2V 0603"
+		(property "Description" "Light emitting diode"
 			(at 354.33 52.07 0)
 			(effects
 				(font
@@ -9803,7 +8849,6 @@
 		)
 	)
 	(symbol
-		(lib_name "Conn_01x03_4")
 		(lib_id "Connector_Generic:Conn_01x03")
 		(at 288.29 165.1 270)
 		(unit 1)
@@ -9831,7 +8876,7 @@
 				)
 			)
 		)
-		(property "Footprint" "HTSW-103-07-F-S:CON3_1X3_TU_TSW"
+		(property "Footprint" "Samtec_Connector:Samtec HTSW-103-07-F-S"
 			(at 288.29 165.1 0)
 			(effects
 				(font
@@ -10069,7 +9114,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C91183.pdf"
+		(property "Datasheet" "https://cdn.sparkfun.com/assets/8/a/4/a/5/Kemet_Capacitor_Datasheet.pdf"
 			(at 77.47 54.61 0)
 			(effects
 				(font
@@ -10078,7 +9123,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "100nF ±5% 50V Ceramic Capacitor X7R 0603"
+		(property "Description" "Unpolarized capacitor"
 			(at 77.47 59.69 0)
 			(effects
 				(font
@@ -10177,6 +9222,31 @@
 				)
 			)
 		)
+		(property "PROD_ID" "CAP-00810"
+			(at 77.47 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 77.47 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" "20%"
+			(at 77.47 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "edec0ea3-8e23-47a1-a674-d6f391fa0e38")
 		)
@@ -10227,7 +9297,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C105578.pdf"
+		(property "Datasheet" "~"
 			(at 179.07 121.92 0)
 			(effects
 				(font
@@ -10236,7 +9306,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "100mW 1MΩ 75V Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS"
+		(property "Description" "Resistor"
 			(at 179.07 121.92 0)
 			(effects
 				(font
@@ -10386,7 +9456,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C5656662.pdf"
+		(property "Datasheet" "~"
 			(at 128.27 222.25 0)
 			(effects
 				(font
@@ -10395,7 +9465,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Emerald Green 530nm LED Indication - Discrete 2.7V 0603"
+		(property "Description" "Light emitting diode"
 			(at 133.35 222.25 0)
 			(effects
 				(font
@@ -10699,7 +9769,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C5656657.pdf"
+		(property "Datasheet" "~"
 			(at 113.03 222.25 0)
 			(effects
 				(font
@@ -10708,7 +9778,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Amber 609nm LED Indication - Discrete 2V 0603"
+		(property "Description" "Light emitting diode"
 			(at 118.11 222.25 0)
 			(effects
 				(font
@@ -10874,7 +9944,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C14675.pdf"
+		(property "Datasheet" "~"
 			(at 297.18 140.97 0)
 			(effects
 				(font
@@ -10883,7 +9953,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "100mW 100kΩ 75V Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS"
+		(property "Description" "Resistor"
 			(at 297.18 140.97 0)
 			(effects
 				(font
@@ -11167,7 +10237,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C5656657.pdf"
+		(property "Datasheet" "~"
 			(at 231.14 137.16 0)
 			(effects
 				(font
@@ -11176,7 +10246,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Amber 609nm LED Indication - Discrete 2V 0603"
+		(property "Description" "Light emitting diode"
 			(at 236.22 137.16 0)
 			(effects
 				(font
@@ -11308,7 +10378,6 @@
 		)
 	)
 	(symbol
-		(lib_name "Conn_01x03_6")
 		(lib_id "Connector_Generic:Conn_01x03")
 		(at 52.07 165.1 270)
 		(unit 1)
@@ -11336,7 +10405,7 @@
 				)
 			)
 		)
-		(property "Footprint" "HTSW-103-07-F-S:CON3_1X3_TU_TSW"
+		(property "Footprint" "Samtec_Connector:Samtec HTSW-103-07-F-S"
 			(at 52.07 165.1 0)
 			(effects
 				(font
@@ -11505,7 +10574,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C14675.pdf"
+		(property "Datasheet" "~"
 			(at 60.96 226.06 0)
 			(effects
 				(font
@@ -11514,7 +10583,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "100mW 100kΩ 75V Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS"
+		(property "Description" "Resistor"
 			(at 60.96 226.06 0)
 			(effects
 				(font
@@ -11798,7 +10867,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C14675.pdf"
+		(property "Datasheet" "~"
 			(at 179.07 140.97 0)
 			(effects
 				(font
@@ -11807,7 +10876,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "100mW 100kΩ 75V Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS"
+		(property "Description" "Resistor"
 			(at 179.07 140.97 0)
 			(effects
 				(font
@@ -12038,7 +11107,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C227580.pdf"
+		(property "Datasheet" "~"
 			(at 105.41 213.36 0)
 			(effects
 				(font
@@ -12047,7 +11116,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "137Ω 100mW 75V Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS"
+		(property "Description" "Resistor"
 			(at 105.41 213.36 0)
 			(effects
 				(font
@@ -12196,7 +11265,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C105578.pdf"
+		(property "Datasheet" "~"
 			(at 60.96 207.01 0)
 			(effects
 				(font
@@ -12205,7 +11274,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "100mW 1MΩ 75V Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS"
+		(property "Description" "Resistor"
 			(at 60.96 207.01 0)
 			(effects
 				(font
@@ -12355,7 +11424,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C5656657.pdf"
+		(property "Datasheet" "~"
 			(at 113.03 137.16 0)
 			(effects
 				(font
@@ -12364,7 +11433,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Amber 609nm LED Indication - Discrete 2V 0603"
+		(property "Description" "Light emitting diode"
 			(at 118.11 137.16 0)
 			(effects
 				(font
@@ -12496,7 +11565,6 @@
 		)
 	)
 	(symbol
-		(lib_name "Conn_01x03_2")
 		(lib_id "Connector_Generic:Conn_01x03")
 		(at 170.18 80.01 270)
 		(unit 1)
@@ -12524,7 +11592,7 @@
 				)
 			)
 		)
-		(property "Footprint" "HTSW-103-07-F-S:CON3_1X3_TU_TSW"
+		(property "Footprint" "Samtec_Connector:Samtec HTSW-103-07-F-S"
 			(at 170.18 80.01 0)
 			(effects
 				(font
@@ -12763,7 +11831,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C227580.pdf"
+		(property "Datasheet" "~"
 			(at 341.63 128.27 0)
 			(effects
 				(font
@@ -12772,7 +11840,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "137Ω 100mW 75V Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS"
+		(property "Description" "Resistor"
 			(at 341.63 128.27 0)
 			(effects
 				(font
@@ -12923,7 +11991,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C227580.pdf"
+		(property "Datasheet" "~"
 			(at 223.52 128.27 0)
 			(effects
 				(font
@@ -12932,7 +12000,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "137Ω 100mW 75V Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS"
+		(property "Description" "Resistor"
 			(at 223.52 128.27 0)
 			(effects
 				(font
@@ -13081,7 +12149,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C14675.pdf"
+		(property "Datasheet" "~"
 			(at 60.96 55.88 0)
 			(effects
 				(font
@@ -13090,7 +12158,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "100mW 100kΩ 75V Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS"
+		(property "Description" "Resistor"
 			(at 60.96 55.88 0)
 			(effects
 				(font
@@ -13241,7 +12309,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C98220.pdf"
+		(property "Datasheet" "~"
 			(at 290.83 68.58 0)
 			(effects
 				(font
@@ -13250,7 +12318,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "100mW 10kΩ 75V Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS"
+		(property "Description" "Resistor"
 			(at 290.83 68.58 0)
 			(effects
 				(font
@@ -13537,7 +12605,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C227580.pdf"
+		(property "Datasheet" "~"
 			(at 105.41 128.27 0)
 			(effects
 				(font
@@ -13546,7 +12614,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "137Ω 100mW 75V Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS"
+		(property "Description" "Resistor"
 			(at 105.41 128.27 0)
 			(effects
 				(font
@@ -13695,7 +12763,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C14675.pdf"
+		(property "Datasheet" "~"
 			(at 297.18 55.88 0)
 			(effects
 				(font
@@ -13704,7 +12772,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "100mW 100kΩ 75V Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS"
+		(property "Description" "Resistor"
 			(at 297.18 55.88 0)
 			(effects
 				(font
@@ -13921,7 +12989,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C22548.pdf"
+		(property "Datasheet" "~"
 			(at 238.76 43.18 0)
 			(effects
 				(font
@@ -13930,7 +12998,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "100mW 1kΩ 75V Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS"
+		(property "Description" "Resistor"
 			(at 238.76 43.18 0)
 			(effects
 				(font
@@ -14081,7 +13149,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C227580.pdf"
+		(property "Datasheet" "~"
 			(at 223.52 43.18 0)
 			(effects
 				(font
@@ -14090,7 +13158,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "137Ω 100mW 75V Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS"
+		(property "Description" "Resistor"
 			(at 223.52 43.18 0)
 			(effects
 				(font
@@ -14308,7 +13376,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C22548.pdf"
+		(property "Datasheet" "~"
 			(at 356.87 128.27 0)
 			(effects
 				(font
@@ -14317,7 +13385,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "100mW 1kΩ 75V Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS"
+		(property "Description" "Resistor"
 			(at 356.87 128.27 0)
 			(effects
 				(font
@@ -14468,7 +13536,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C98220.pdf"
+		(property "Datasheet" "~"
 			(at 167.64 153.67 0)
 			(effects
 				(font
@@ -14477,7 +13545,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "100mW 10kΩ 75V Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS"
+		(property "Description" "Resistor"
 			(at 167.64 153.67 0)
 			(effects
 				(font
@@ -14693,7 +13761,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C14675.pdf"
+		(property "Datasheet" "~"
 			(at 60.96 140.97 0)
 			(effects
 				(font
@@ -14702,7 +13770,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "100mW 100kΩ 75V Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS"
+		(property "Description" "Resistor"
 			(at 60.96 140.97 0)
 			(effects
 				(font
@@ -14852,7 +13920,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C98220.pdf"
+		(property "Datasheet" "~"
 			(at 49.53 68.58 0)
 			(effects
 				(font
@@ -14861,7 +13929,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "100mW 10kΩ 75V Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS"
+		(property "Description" "Resistor"
 			(at 49.53 68.58 0)
 			(effects
 				(font
@@ -15012,7 +14080,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C98220.pdf"
+		(property "Datasheet" "~"
 			(at 285.75 68.58 0)
 			(effects
 				(font
@@ -15021,7 +14089,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "100mW 10kΩ 75V Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS"
+		(property "Description" "Resistor"
 			(at 285.75 68.58 0)
 			(effects
 				(font
@@ -15240,7 +14308,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C91183.pdf"
+		(property "Datasheet" "https://cdn.sparkfun.com/assets/8/a/4/a/5/Kemet_Capacitor_Datasheet.pdf"
 			(at 313.69 54.61 0)
 			(effects
 				(font
@@ -15249,7 +14317,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "100nF ±5% 50V Ceramic Capacitor X7R 0603"
+		(property "Description" "Unpolarized capacitor"
 			(at 313.69 59.69 0)
 			(effects
 				(font
@@ -15348,6 +14416,31 @@
 				)
 			)
 		)
+		(property "PROD_ID" "CAP-00810"
+			(at 313.69 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 313.69 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" "20%"
+			(at 313.69 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "037b7140-5d55-45cc-8527-715ae056bacf")
 		)
@@ -15400,7 +14493,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C5656662.pdf"
+		(property "Datasheet" "~"
 			(at 364.49 137.16 0)
 			(effects
 				(font
@@ -15409,7 +14502,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Emerald Green 530nm LED Indication - Discrete 2.7V 0603"
+		(property "Description" "Light emitting diode"
 			(at 369.57 137.16 0)
 			(effects
 				(font
@@ -15577,7 +14670,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C5656657.pdf"
+		(property "Datasheet" "~"
 			(at 231.14 52.07 0)
 			(effects
 				(font
@@ -15586,7 +14679,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Amber 609nm LED Indication - Discrete 2V 0603"
+		(property "Description" "Light emitting diode"
 			(at 236.22 52.07 0)
 			(effects
 				(font
@@ -15754,7 +14847,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C5656662.pdf"
+		(property "Datasheet" "~"
 			(at 128.27 137.16 0)
 			(effects
 				(font
@@ -15763,7 +14856,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Emerald Green 530nm LED Indication - Discrete 2.7V 0603"
+		(property "Description" "Light emitting diode"
 			(at 133.35 137.16 0)
 			(effects
 				(font
@@ -15931,7 +15024,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C22548.pdf"
+		(property "Datasheet" "~"
 			(at 238.76 128.27 0)
 			(effects
 				(font
@@ -15940,7 +15033,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "100mW 1kΩ 75V Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS"
+		(property "Description" "Resistor"
 			(at 238.76 128.27 0)
 			(effects
 				(font
@@ -16091,7 +15184,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C5656662.pdf"
+		(property "Datasheet" "~"
 			(at 246.38 52.07 0)
 			(effects
 				(font
@@ -16100,7 +15193,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Emerald Green 530nm LED Indication - Discrete 2.7V 0603"
+		(property "Description" "Light emitting diode"
 			(at 251.46 52.07 0)
 			(effects
 				(font
@@ -16266,7 +15359,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C105578.pdf"
+		(property "Datasheet" "~"
 			(at 297.18 121.92 0)
 			(effects
 				(font
@@ -16275,7 +15368,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "100mW 1MΩ 75V Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS"
+		(property "Description" "Resistor"
 			(at 297.18 121.92 0)
 			(effects
 				(font
@@ -16506,7 +15599,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C91183.pdf"
+		(property "Datasheet" "https://cdn.sparkfun.com/assets/8/a/4/a/5/Kemet_Capacitor_Datasheet.pdf"
 			(at 313.69 139.7 0)
 			(effects
 				(font
@@ -16515,7 +15608,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "100nF ±5% 50V Ceramic Capacitor X7R 0603"
+		(property "Description" "Unpolarized capacitor"
 			(at 313.69 144.78 0)
 			(effects
 				(font
@@ -16614,6 +15707,31 @@
 				)
 			)
 		)
+		(property "PROD_ID" "CAP-00810"
+			(at 313.69 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 313.69 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" "20%"
+			(at 313.69 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "8fd66609-06f4-439f-a0d9-d4b61830c3d5")
 		)
@@ -16666,7 +15784,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C5656662.pdf"
+		(property "Datasheet" "~"
 			(at 364.49 52.07 0)
 			(effects
 				(font
@@ -16675,7 +15793,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Emerald Green 530nm LED Indication - Discrete 2.7V 0603"
+		(property "Description" "Light emitting diode"
 			(at 369.57 52.07 0)
 			(effects
 				(font
@@ -16844,7 +15962,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C98220.pdf"
+		(property "Datasheet" "~"
 			(at 290.83 153.67 0)
 			(effects
 				(font
@@ -16853,7 +15971,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "100mW 10kΩ 75V Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS"
+		(property "Description" "Resistor"
 			(at 290.83 153.67 0)
 			(effects
 				(font
@@ -17085,7 +16203,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C5656657.pdf"
+		(property "Datasheet" "~"
 			(at 349.25 137.16 0)
 			(effects
 				(font
@@ -17094,7 +16212,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Amber 609nm LED Indication - Discrete 2V 0603"
+		(property "Description" "Light emitting diode"
 			(at 354.33 137.16 0)
 			(effects
 				(font
@@ -17262,7 +16380,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C91183.pdf"
+		(property "Datasheet" "https://cdn.sparkfun.com/assets/8/a/4/a/5/Kemet_Capacitor_Datasheet.pdf"
 			(at 77.47 224.79 0)
 			(effects
 				(font
@@ -17271,7 +16389,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "100nF ±5% 50V Ceramic Capacitor X7R 0603"
+		(property "Description" "Unpolarized capacitor"
 			(at 77.47 229.87 0)
 			(effects
 				(font
@@ -17370,6 +16488,31 @@
 				)
 			)
 		)
+		(property "PROD_ID" "CAP-00810"
+			(at 77.47 227.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 77.47 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" "20%"
+			(at 77.47 219.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "b45599ce-76fb-428b-a27a-83ce955b5442")
 		)
@@ -17413,7 +16556,7 @@
 				)
 			)
 		)
-		(property "Footprint" "HTSW-103-07-F-S:CON3_1X3_TU_TSW"
+		(property "Footprint" "Samtec_Connector:Samtec HTSW-103-07-F-S"
 			(at 52.07 250.19 0)
 			(effects
 				(font
@@ -17665,7 +16808,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C5656657.pdf"
+		(property "Datasheet" "~"
 			(at 113.03 52.07 0)
 			(effects
 				(font
@@ -17674,7 +16817,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Amber 609nm LED Indication - Discrete 2V 0603"
+		(property "Description" "Light emitting diode"
 			(at 118.11 52.07 0)
 			(effects
 				(font
@@ -17910,7 +17053,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C98220.pdf"
+		(property "Datasheet" "~"
 			(at 49.53 238.76 0)
 			(effects
 				(font
@@ -17919,7 +17062,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "100mW 10kΩ 75V Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS"
+		(property "Description" "Resistor"
 			(at 49.53 238.76 0)
 			(effects
 				(font
@@ -18070,7 +17213,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C227580.pdf"
+		(property "Datasheet" "~"
 			(at 341.63 43.18 0)
 			(effects
 				(font
@@ -18079,7 +17222,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "137Ω 100mW 75V Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS"
+		(property "Description" "Resistor"
 			(at 341.63 43.18 0)
 			(effects
 				(font
@@ -18228,7 +17371,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C105578.pdf"
+		(property "Datasheet" "~"
 			(at 60.96 121.92 0)
 			(effects
 				(font
@@ -18237,7 +17380,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "100mW 1MΩ 75V Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS"
+		(property "Description" "Resistor"
 			(at 60.96 121.92 0)
 			(effects
 				(font
@@ -18387,7 +17530,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C5656662.pdf"
+		(property "Datasheet" "~"
 			(at 128.27 52.07 0)
 			(effects
 				(font
@@ -18396,7 +17539,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Emerald Green 530nm LED Indication - Discrete 2.7V 0603"
+		(property "Description" "Light emitting diode"
 			(at 133.35 52.07 0)
 			(effects
 				(font
@@ -18565,7 +17708,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C98220.pdf"
+		(property "Datasheet" "~"
 			(at 54.61 68.58 0)
 			(effects
 				(font
@@ -18574,7 +17717,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "100mW 10kΩ 75V Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS"
+		(property "Description" "Resistor"
 			(at 54.61 68.58 0)
 			(effects
 				(font

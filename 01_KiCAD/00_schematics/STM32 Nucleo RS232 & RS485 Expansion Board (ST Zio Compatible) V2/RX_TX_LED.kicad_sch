@@ -2061,6 +2061,17 @@
 		)
 		(uuid "d3f36239-631b-4c0d-9edb-9dd4e7c29ed4")
 	)
+	(label "RX_RC"
+		(at 91.44 113.03 0)
+		(effects
+			(font
+				(size 1.016 1.016)
+				(color 221 133 0 1)
+			)
+			(justify left bottom)
+		)
+		(uuid "f9f3d538-5576-4c5a-a3ed-e59a748d76f8")
+	)
 	(global_label "L3-TXD"
 		(shape input)
 		(at 67.31 30.48 180)

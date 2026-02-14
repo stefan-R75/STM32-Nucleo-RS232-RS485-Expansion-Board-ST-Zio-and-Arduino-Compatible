@@ -1,4 +1,4 @@
-28535420690342603
+28540733910519601
 5005_Red
 KEYSTONE_5005
 
@@ -61844,6 +61844,13 @@ One digit LED 7 segment SA39-11 SC39-11 SA39-12 SC39-12
 0
 10
 10
+EEEFT1H470AP
+CAP_EEEFT1H470AP
+
+
+0
+2
+2
 EEEHD1H101P
 CAP_EEEHD1H101P
 
@@ -62926,6 +62933,13 @@ Fuse
 GDT_Yageo_3RxxxxM-6
 Gas discharge tube, 3-electrode, SMD, 8.5x6.0mm, https://www.yageo.com/upload/media/product/app/datasheet/cpc/gdt/3r-6.pdf
 GDT 3R-6
+0
+3
+3
+HTSW-103
+HTSW-103-07-F-S
+translated Allegro footprint
+
 0
 3
 3
@@ -74325,6 +74339,13 @@ threaded screw
 0
 4
 1
+NUCLEO-H753ZI
+MODULE_NUCLEO-H753ZI
+
+
+0
+244
+244
 NetTie
 NetTie-2_SMD_Pad0.5mm
 Net tie, 2 pin, 0.5mm square SMD pads

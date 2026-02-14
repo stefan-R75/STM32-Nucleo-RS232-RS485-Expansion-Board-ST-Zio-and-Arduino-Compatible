@@ -1954,6 +1954,12 @@
 		(uuid "13982103-9ab6-48f1-981e-59ed601a4ca8")
 	)
 	(junction
+		(at 247.65 52.07)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2dcabf92-3663-491b-b5c7-368e691a8a5b")
+	)
+	(junction
 		(at 154.94 116.84)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2129,6 +2135,16 @@
 	)
 	(wire
 		(pts
+			(xy 247.65 52.07) (xy 247.65 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2911b5bb-9a54-405f-b926-51bec8729603")
+	)
+	(wire
+		(pts
 			(xy 134.62 63.5) (xy 147.32 63.5)
 		)
 		(stroke
@@ -2156,6 +2172,16 @@
 			(type default)
 		)
 		(uuid "2dd0cb93-3c87-461f-9164-fca558c8c418")
+	)
+	(wire
+		(pts
+			(xy 247.65 52.07) (xy 252.73 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "30cf2e88-621f-4d0b-86cc-e8d193b2c7d6")
 	)
 	(wire
 		(pts
@@ -2306,6 +2332,16 @@
 			(type default)
 		)
 		(uuid "818f63c3-ee5c-4b16-80a3-6417ca825c01")
+	)
+	(wire
+		(pts
+			(xy 247.65 67.31) (xy 247.65 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "819c6218-e2be-4cb8-9510-0b3f696d03b4")
 	)
 	(wire
 		(pts
@@ -2699,7 +2735,7 @@
 	)
 	(wire
 		(pts
-			(xy 232.41 52.07) (xy 252.73 52.07)
+			(xy 232.41 52.07) (xy 247.65 52.07)
 		)
 		(stroke
 			(width 0)
@@ -3164,6 +3200,73 @@
 			(project "STM32 Nucleo RS232 & RS485 Expansion Board (ST Zio Compatible) V2"
 				(path "/080f83b7-8913-48e8-ab8e-79cb12295542/83cf4712-deaa-472a-9432-343a24d007ba"
 					(reference "C3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "PCM_SparkFun-PowerSymbol:GND")
+		(at 247.65 78.74 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1c1f01b2-f428-430a-b3b2-481dc94187ab")
+		(property "Reference" "#PWR047"
+			(at 247.65 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 247.65 82.55 0)
+			(do_not_autoplace yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 247.65 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 247.65 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 247.65 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "cb329b24-5cd3-49e8-a072-7ba16bc58a9f")
+		)
+		(instances
+			(project "STM32 Nucleo RS232 & RS485 Expansion Board (ST Zio Compatible) V2"
+				(path "/080f83b7-8913-48e8-ab8e-79cb12295542/83cf4712-deaa-472a-9432-343a24d007ba"
+					(reference "#PWR047")
 					(unit 1)
 				)
 			)
@@ -4396,16 +4499,15 @@
 	)
 	(symbol
 		(lib_id "Device:C_Polarized")
-		(at 232.41 63.5 0)
+		(at 247.65 63.5 0)
 		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
+		(exclude_from_sim yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "5aedbb9e-262c-483d-86f9-8a69007f6147")
-		(property "Reference" "C7"
-			(at 236.259 60.0709 0)
+		(dnp yes)
+		(uuid "52101280-17f2-4e3e-9605-fe4ab01c74c6")
+		(property "Reference" "C23"
+			(at 251.46 58.8009 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4414,7 +4516,7 @@
 			)
 		)
 		(property "Value" "47µF"
-			(at 236.259 62.6109 0)
+			(at 251.46 61.3409 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4422,7 +4524,168 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "EEEHD1H101P:CAP_EEEHD1H101P"
+		(property "Footprint" "EEEFT1H470AP:CAP_EEEFT1H470AP"
+			(at 248.6152 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 247.65 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Polarized capacitor"
+			(at 247.65 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "PANASONIC"
+			(at 247.65 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "EEEFT1H470AP"
+			(at 247.65 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" ""
+			(at 247.65 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SPN" ""
+			(at 247.65 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C92059"
+			(at 247.65 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "SMD,D6.3xL5.8mm"
+			(at 247.65 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "SMD"
+			(at 247.65 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 247.65 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Dielectric" "20%"
+			(at 251.46 63.8809 0)
+			(effects
+				(font
+					(size 1.016 1.016)
+					(color 194 0 0 1)
+				)
+				(justify left)
+			)
+		)
+		(property "Voltage Rating" "50V"
+			(at 255.778 63.754 0)
+			(effects
+				(font
+					(size 1.016 1.016)
+					(color 194 0 0 1)
+				)
+				(justify left)
+			)
+		)
+		(pin "1"
+			(uuid "d34e974b-302f-4217-8153-75dd8bc6b90f")
+		)
+		(pin "2"
+			(uuid "67d0ff2c-f49e-42e9-8b2f-94e7695b52d3")
+		)
+		(instances
+			(project "STM32 Nucleo RS232 & RS485 Expansion Board (ST Zio Compatible) V2"
+				(path "/080f83b7-8913-48e8-ab8e-79cb12295542/83cf4712-deaa-472a-9432-343a24d007ba"
+					(reference "C23")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Polarized")
+		(at 232.41 63.5 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "5aedbb9e-262c-483d-86f9-8a69007f6147")
+		(property "Reference" "C7"
+			(at 236.22 58.8009 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "47µF"
+			(at 236.22 61.3409 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "EEEFT1H470AP:CAP_EEEFT1H470AP"
 			(at 233.3752 67.31 0)
 			(effects
 				(font
@@ -4521,16 +4784,18 @@
 				(hide yes)
 			)
 		)
-		(property "Dielectric" ""
-			(at 232.41 63.5 0)
+		(property "Dielectric" "20%"
+			(at 236.22 63.8809 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 1.016 1.016)
+					(color 194 0 0 1)
 				)
+				(justify left)
 			)
 		)
 		(property "Voltage Rating" "50V"
-			(at 236.259 65.1509 0)
+			(at 240.538 63.754 0)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -5110,7 +5375,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "727298bb-991b-4257-a933-c8b294796108")
-		(property "Reference" "TP3"
+		(property "Reference" "TP8"
 			(at 182.88 36.8299 0)
 			(effects
 				(font
@@ -5119,7 +5384,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "5006"
+		(property "Value" "GND"
 			(at 182.88 39.3699 0)
 			(effects
 				(font
@@ -5296,13 +5561,92 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" ""
+			(at 180.34 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" ""
+			(at 180.34 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" ""
+			(at 180.34 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SPN" ""
+			(at 180.34 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 180.34 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" ""
+			(at 180.34 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 180.34 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Dielectric" ""
+			(at 180.34 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage Rating" ""
+			(at 180.34 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "TP"
 			(uuid "322523c9-bf04-4a85-9376-9e04057821cd")
 		)
 		(instances
 			(project ""
 				(path "/080f83b7-8913-48e8-ab8e-79cb12295542/83cf4712-deaa-472a-9432-343a24d007ba"
-					(reference "TP3")
+					(reference "TP8")
 					(unit 1)
 				)
 			)
@@ -5318,7 +5662,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7ba2007b-536d-4d59-8d41-7035533edb73")
-		(property "Reference" "TP4"
+		(property "Reference" "TP5"
 			(at 121.92 41.9099 90)
 			(effects
 				(font
@@ -5579,7 +5923,7 @@
 		(instances
 			(project ""
 				(path "/080f83b7-8913-48e8-ab8e-79cb12295542/83cf4712-deaa-472a-9432-343a24d007ba"
-					(reference "TP4")
+					(reference "TP5")
 					(unit 1)
 				)
 			)
@@ -5847,7 +6191,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "81a985f0-ede4-4ca7-a045-21d793415530")
-		(property "Reference" "TP2"
+		(property "Reference" "TP1"
 			(at 68.58 36.8299 0)
 			(effects
 				(font
@@ -5856,7 +6200,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "5006"
+		(property "Value" "GND"
 			(at 68.58 39.3699 0)
 			(effects
 				(font
@@ -6118,7 +6462,7 @@
 		(instances
 			(project "STM32 Nucleo RS232 & RS485 Expansion Board (ST Zio Compatible) V2"
 				(path "/080f83b7-8913-48e8-ab8e-79cb12295542/83cf4712-deaa-472a-9432-343a24d007ba"
-					(reference "TP2")
+					(reference "TP1")
 					(unit 1)
 				)
 			)
@@ -6201,7 +6545,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9a3477fc-15cd-4aa1-b824-18991036a004")
-		(property "Reference" "TP6"
+		(property "Reference" "TP7"
 			(at 182.88 44.4499 90)
 			(effects
 				(font
@@ -6462,7 +6806,7 @@
 		(instances
 			(project ""
 				(path "/080f83b7-8913-48e8-ab8e-79cb12295542/83cf4712-deaa-472a-9432-343a24d007ba"
-					(reference "TP6")
+					(reference "TP7")
 					(unit 1)
 				)
 			)
@@ -6478,7 +6822,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a110e4d3-1a0e-4e80-af62-1b0d8150a6ce")
-		(property "Reference" "TP7"
+		(property "Reference" "TP2"
 			(at 54.61 55.8799 90)
 			(effects
 				(font
@@ -6487,7 +6831,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "5V0"
+		(property "Value" "5V0_IN"
 			(at 54.61 58.4199 90)
 			(effects
 				(font
@@ -6740,7 +7084,7 @@
 		(instances
 			(project ""
 				(path "/080f83b7-8913-48e8-ab8e-79cb12295542/83cf4712-deaa-472a-9432-343a24d007ba"
-					(reference "TP7")
+					(reference "TP2")
 					(unit 1)
 				)
 			)
@@ -6977,7 +7321,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c458a42e-6860-40b2-bea8-8b3df5d6b799")
-		(property "Reference" "TP8"
+		(property "Reference" "TP6"
 			(at 184.15 62.2299 0)
 			(effects
 				(font
@@ -7248,7 +7592,7 @@
 		(instances
 			(project ""
 				(path "/080f83b7-8913-48e8-ab8e-79cb12295542/83cf4712-deaa-472a-9432-343a24d007ba"
-					(reference "TP8")
+					(reference "TP6")
 					(unit 1)
 				)
 			)
@@ -7465,7 +7809,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d30e0d0b-d3fc-404a-b827-1e52523179ac")
-		(property "Reference" "TP1"
+		(property "Reference" "TP4"
 			(at 118.11 33.0199 90)
 			(effects
 				(font
@@ -7726,7 +8070,7 @@
 		(instances
 			(project ""
 				(path "/080f83b7-8913-48e8-ab8e-79cb12295542/83cf4712-deaa-472a-9432-343a24d007ba"
-					(reference "TP1")
+					(reference "TP4")
 					(unit 1)
 				)
 			)
@@ -7809,7 +8153,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e5a112c6-ae9b-472c-ac39-75d91a7bb984")
-		(property "Reference" "TP5"
+		(property "Reference" "TP3"
 			(at 68.58 44.4499 90)
 			(effects
 				(font
@@ -7818,7 +8162,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "3V0"
+		(property "Value" "3V3_IN"
 			(at 68.58 46.9899 90)
 			(effects
 				(font
@@ -7986,13 +8330,92 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" ""
+			(at 66.04 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" ""
+			(at 66.04 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" ""
+			(at 66.04 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SPN" ""
+			(at 66.04 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 66.04 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" ""
+			(at 66.04 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 66.04 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Dielectric" ""
+			(at 66.04 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage Rating" ""
+			(at 66.04 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "TP"
 			(uuid "c9b0c51d-e600-4e19-8bef-0a57da107cdd")
 		)
 		(instances
 			(project ""
 				(path "/080f83b7-8913-48e8-ab8e-79cb12295542/83cf4712-deaa-472a-9432-343a24d007ba"
-					(reference "TP5")
+					(reference "TP3")
 					(unit 1)
 				)
 			)

@@ -5742,7 +5742,7 @@
 		)
 		(uuid "1c9ed183-9657-4213-93e8-22e8101f29c6")
 	)
-	(hierarchical_label "CTS"
+	(hierarchical_label "CTSBus"
 		(shape input)
 		(at 199.39 52.07 0)
 		(effects
@@ -5753,7 +5753,7 @@
 		)
 		(uuid "2c951b26-38f9-4045-8b2a-82ff269ff78b")
 	)
-	(hierarchical_label "RTS"
+	(hierarchical_label "RTSBus"
 		(shape output)
 		(at 199.39 48.26 0)
 		(effects
@@ -5846,7 +5846,7 @@
 		)
 		(uuid "7fbbde54-3c81-438f-946f-6b52831b6e1c")
 	)
-	(hierarchical_label "DSR"
+	(hierarchical_label "DSRBus"
 		(shape input)
 		(at 195.58 44.45 0)
 		(effects
@@ -5857,7 +5857,7 @@
 		)
 		(uuid "8bfef924-42cd-49b3-b066-645812a15aa1")
 	)
-	(hierarchical_label "RI"
+	(hierarchical_label "RIBus"
 		(shape input)
 		(at 199.39 55.88 0)
 		(effects
@@ -7146,7 +7146,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "1b622b0f-c27d-43ec-9ede-0fcb593007a1")
 		(property "Reference" "#PWR018"
 			(at 204.47 46.99 0)
@@ -7158,7 +7157,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 204.47 44.45 0)
+			(at 206.756 41.148 0)
 			(do_not_autoplace yes)
 			(effects
 				(font

@@ -2237,7 +2237,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0c481521-a6d9-4407-88da-cdfdb4a9070f")
-		(property "Reference" "R10"
+		(property "Reference" "R12"
 			(at 92.71 35.5599 0)
 			(effects
 				(font
@@ -2373,6 +2373,51 @@
 				(justify left)
 			)
 		)
+		(property "DESCRIPTION" ""
+			(at 90.17 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "HEIGHT" ""
+			(at 90.17 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_NAME" ""
+			(at 90.17 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" ""
+			(at 90.17 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MOUSER_PART_NUMBER" ""
+			(at 90.17 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "7df81b8a-ceb5-4638-9c95-81174343063c")
 		)
@@ -2382,7 +2427,7 @@
 		(instances
 			(project "STM32 Nucleo RS232 & RS485 Expansion Board (ST Zio Compatible) V2"
 				(path "/080f83b7-8913-48e8-ab8e-79cb12295542/d1bb9d55-41f4-4fc3-ae06-1adc98dc5d39"
-					(reference "R10")
+					(reference "R12")
 					(unit 1)
 				)
 			)
@@ -2397,7 +2442,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "16b9532b-8cd6-472b-824e-4d486da97488")
-		(property "Reference" "R13"
+		(property "Reference" "R15"
 			(at 168.656 63.5 0)
 			(effects
 				(font
@@ -2533,6 +2578,51 @@
 				(justify left)
 			)
 		)
+		(property "DESCRIPTION" ""
+			(at 173.99 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "HEIGHT" ""
+			(at 173.99 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_NAME" ""
+			(at 173.99 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" ""
+			(at 173.99 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MOUSER_PART_NUMBER" ""
+			(at 173.99 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "f0c01087-5181-452e-afe0-51a4a92c1e21")
 		)
@@ -2542,7 +2632,7 @@
 		(instances
 			(project ""
 				(path "/080f83b7-8913-48e8-ab8e-79cb12295542/d1bb9d55-41f4-4fc3-ae06-1adc98dc5d39"
-					(reference "R13")
+					(reference "R15")
 					(unit 1)
 				)
 			)
@@ -2557,7 +2647,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "2664328f-d4be-4d43-9961-619c2b7332ae")
-		(property "Reference" "R19"
+		(property "Reference" "R21"
 			(at 192.024 114.554 90)
 			(effects
 				(font
@@ -2689,6 +2779,51 @@
 				)
 			)
 		)
+		(property "DESCRIPTION" ""
+			(at 194.31 116.84 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "HEIGHT" ""
+			(at 194.31 116.84 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_NAME" ""
+			(at 194.31 116.84 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" ""
+			(at 194.31 116.84 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MOUSER_PART_NUMBER" ""
+			(at 194.31 116.84 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "776c12f4-edd5-43eb-bc45-f8b17015ecb6")
 		)
@@ -2698,7 +2833,7 @@
 		(instances
 			(project "STM32 Nucleo RS232 & RS485 Expansion Board (ST Zio Compatible) V2"
 				(path "/080f83b7-8913-48e8-ab8e-79cb12295542/d1bb9d55-41f4-4fc3-ae06-1adc98dc5d39"
-					(reference "R19")
+					(reference "R21")
 					(unit 1)
 				)
 			)
@@ -2713,7 +2848,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "3187c43f-fa0a-43f8-8cd2-5da18b9538a8")
-		(property "Reference" "R15"
+		(property "Reference" "R17"
 			(at 92.71 91.4399 0)
 			(effects
 				(font
@@ -2849,6 +2984,51 @@
 				(justify left)
 			)
 		)
+		(property "DESCRIPTION" ""
+			(at 90.17 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "HEIGHT" ""
+			(at 90.17 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_NAME" ""
+			(at 90.17 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" ""
+			(at 90.17 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MOUSER_PART_NUMBER" ""
+			(at 90.17 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a14780d5-d84c-4041-80c7-a939bc4e427f")
 		)
@@ -2858,7 +3038,7 @@
 		(instances
 			(project "STM32 Nucleo RS232 & RS485 Expansion Board (ST Zio Compatible) V2"
 				(path "/080f83b7-8913-48e8-ab8e-79cb12295542/d1bb9d55-41f4-4fc3-ae06-1adc98dc5d39"
-					(reference "R15")
+					(reference "R17")
 					(unit 1)
 				)
 			)
@@ -2874,7 +3054,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "32206304-8b6f-41e1-a2d3-315f7b4c422b")
-		(property "Reference" "#PWR030"
+		(property "Reference" "#PWR032"
 			(at 73.66 78.74 0)
 			(effects
 				(font
@@ -2925,7 +3105,7 @@
 		(instances
 			(project "STM32 Nucleo RS232 & RS485 Expansion Board (ST Zio Compatible) V2"
 				(path "/080f83b7-8913-48e8-ab8e-79cb12295542/d1bb9d55-41f4-4fc3-ae06-1adc98dc5d39"
-					(reference "#PWR030")
+					(reference "#PWR032")
 					(unit 1)
 				)
 			)
@@ -2940,7 +3120,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "323637f0-0355-4b08-b1af-ce24feac5906")
-		(property "Reference" "R11"
+		(property "Reference" "R13"
 			(at 76.2 48.2599 0)
 			(effects
 				(font
@@ -3075,6 +3255,51 @@
 				)
 			)
 		)
+		(property "DESCRIPTION" ""
+			(at 73.66 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "HEIGHT" ""
+			(at 73.66 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_NAME" ""
+			(at 73.66 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" ""
+			(at 73.66 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MOUSER_PART_NUMBER" ""
+			(at 73.66 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a5c5d3e0-3b46-4653-91d9-68ccf55cfc52")
 		)
@@ -3084,7 +3309,7 @@
 		(instances
 			(project "STM32 Nucleo RS232 & RS485 Expansion Board (ST Zio Compatible) V2"
 				(path "/080f83b7-8913-48e8-ab8e-79cb12295542/d1bb9d55-41f4-4fc3-ae06-1adc98dc5d39"
-					(reference "R11")
+					(reference "R13")
 					(unit 1)
 				)
 			)
@@ -3099,7 +3324,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "34c1b3d9-edfa-41c7-b6a0-74c578e04237")
-		(property "Reference" "D5"
+		(property "Reference" "D4"
 			(at 183.134 93.726 90)
 			(effects
 				(font
@@ -3252,6 +3477,51 @@
 				)
 			)
 		)
+		(property "DESCRIPTION" ""
+			(at 180.34 96.52 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "HEIGHT" ""
+			(at 180.34 96.52 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_NAME" ""
+			(at 180.34 96.52 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" ""
+			(at 180.34 96.52 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MOUSER_PART_NUMBER" ""
+			(at 180.34 96.52 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f189daf7-4ad7-4193-b44a-9117fc394342")
 		)
@@ -3261,7 +3531,7 @@
 		(instances
 			(project "STM32 Nucleo RS232 & RS485 Expansion Board (ST Zio Compatible) V2"
 				(path "/080f83b7-8913-48e8-ab8e-79cb12295542/d1bb9d55-41f4-4fc3-ae06-1adc98dc5d39"
-					(reference "D5")
+					(reference "D4")
 					(unit 1)
 				)
 			)
@@ -3276,7 +3546,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "3bba7dbb-0b60-4489-befa-e7ffd27c1519")
-		(property "Reference" "C24"
+		(property "Reference" "C26"
 			(at 78.74 117.094 0)
 			(effects
 				(font
@@ -3439,6 +3709,51 @@
 				(hide yes)
 			)
 		)
+		(property "DESCRIPTION" ""
+			(at 73.66 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "HEIGHT" ""
+			(at 73.66 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_NAME" ""
+			(at 73.66 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" ""
+			(at 73.66 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MOUSER_PART_NUMBER" ""
+			(at 73.66 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3040d164-9dbe-4156-ad12-af0fbd2ddb8d")
 		)
@@ -3448,7 +3763,7 @@
 		(instances
 			(project "STM32 Nucleo RS232 & RS485 Expansion Board (ST Zio Compatible) V2"
 				(path "/080f83b7-8913-48e8-ab8e-79cb12295542/d1bb9d55-41f4-4fc3-ae06-1adc98dc5d39"
-					(reference "C24")
+					(reference "C26")
 					(unit 1)
 				)
 			)
@@ -3464,7 +3779,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5082440d-957e-40f6-9338-090bd722fb73")
-		(property "Reference" "#PWR037"
+		(property "Reference" "#PWR039"
 			(at 73.66 134.62 0)
 			(effects
 				(font
@@ -3515,7 +3830,7 @@
 		(instances
 			(project "STM32 Nucleo RS232 & RS485 Expansion Board (ST Zio Compatible) V2"
 				(path "/080f83b7-8913-48e8-ab8e-79cb12295542/d1bb9d55-41f4-4fc3-ae06-1adc98dc5d39"
-					(reference "#PWR037")
+					(reference "#PWR039")
 					(unit 1)
 				)
 			)
@@ -3530,7 +3845,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5903c074-f331-4ac0-991c-9906d2e75f71")
-		(property "Reference" "J4"
+		(property "Reference" "J8"
 			(at 166.116 38.354 90)
 			(effects
 				(font
@@ -3665,6 +3980,51 @@
 				(justify right)
 			)
 		)
+		(property "DESCRIPTION" ""
+			(at 173.99 35.56 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "HEIGHT" ""
+			(at 173.99 35.56 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_NAME" ""
+			(at 173.99 35.56 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" ""
+			(at 173.99 35.56 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MOUSER_PART_NUMBER" ""
+			(at 173.99 35.56 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4557d0f0-8ee0-4890-bbfd-187222adc077")
 		)
@@ -3677,7 +4037,7 @@
 		(instances
 			(project "STM32 Nucleo RS232 & RS485 Expansion Board (ST Zio Compatible) V2"
 				(path "/080f83b7-8913-48e8-ab8e-79cb12295542/d1bb9d55-41f4-4fc3-ae06-1adc98dc5d39"
-					(reference "J4")
+					(reference "J8")
 					(unit 1)
 				)
 			)
@@ -3693,7 +4053,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "625ccc0c-1027-401a-9ff4-378915bc3bbe")
-		(property "Reference" "#PWR035"
+		(property "Reference" "#PWR037"
 			(at 201.93 100.33 0)
 			(effects
 				(font
@@ -3744,7 +4104,7 @@
 		(instances
 			(project "STM32 Nucleo RS232 & RS485 Expansion Board (ST Zio Compatible) V2"
 				(path "/080f83b7-8913-48e8-ab8e-79cb12295542/d1bb9d55-41f4-4fc3-ae06-1adc98dc5d39"
-					(reference "#PWR035")
+					(reference "#PWR037")
 					(unit 1)
 				)
 			)
@@ -3760,7 +4120,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "65d1fbdf-54ea-4101-acc3-2631fa8b17de")
-		(property "Reference" "#PWR032"
+		(property "Reference" "#PWR034"
 			(at 173.99 86.36 0)
 			(effects
 				(font
@@ -3811,7 +4171,7 @@
 		(instances
 			(project "STM32 Nucleo RS232 & RS485 Expansion Board (ST Zio Compatible) V2"
 				(path "/080f83b7-8913-48e8-ab8e-79cb12295542/d1bb9d55-41f4-4fc3-ae06-1adc98dc5d39"
-					(reference "#PWR032")
+					(reference "#PWR034")
 					(unit 1)
 				)
 			)
@@ -3826,7 +4186,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "751da14c-2736-4262-aebb-ddc51cfc72bc")
-		(property "Reference" "D4"
+		(property "Reference" "D3"
 			(at 182.88 73.5964 90)
 			(effects
 				(font
@@ -3979,6 +4339,51 @@
 				)
 			)
 		)
+		(property "DESCRIPTION" ""
+			(at 180.34 74.93 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "HEIGHT" ""
+			(at 180.34 74.93 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_NAME" ""
+			(at 180.34 74.93 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" ""
+			(at 180.34 74.93 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MOUSER_PART_NUMBER" ""
+			(at 180.34 74.93 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "111ad2f7-b6de-4f5c-9443-46fd7e913534")
 		)
@@ -3988,7 +4393,7 @@
 		(instances
 			(project "STM32 Nucleo RS232 & RS485 Expansion Board (ST Zio Compatible) V2"
 				(path "/080f83b7-8913-48e8-ab8e-79cb12295542/d1bb9d55-41f4-4fc3-ae06-1adc98dc5d39"
-					(reference "D4")
+					(reference "D3")
 					(unit 1)
 				)
 			)
@@ -4004,7 +4409,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "82ffd74e-c149-4ad3-a1fc-681a52ff6a4c")
-		(property "Reference" "#PWR033"
+		(property "Reference" "#PWR035"
 			(at 180.34 86.36 0)
 			(effects
 				(font
@@ -4055,7 +4460,7 @@
 		(instances
 			(project "STM32 Nucleo RS232 & RS485 Expansion Board (ST Zio Compatible) V2"
 				(path "/080f83b7-8913-48e8-ab8e-79cb12295542/d1bb9d55-41f4-4fc3-ae06-1adc98dc5d39"
-					(reference "#PWR033")
+					(reference "#PWR035")
 					(unit 1)
 				)
 			)
@@ -4070,7 +4475,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "86dabc13-39b4-43d0-843b-936b26ad2fe1")
-		(property "Reference" "R18"
+		(property "Reference" "R20"
 			(at 182.88 102.8699 0)
 			(effects
 				(font
@@ -4206,6 +4611,51 @@
 				(justify left)
 			)
 		)
+		(property "DESCRIPTION" ""
+			(at 180.34 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "HEIGHT" ""
+			(at 180.34 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_NAME" ""
+			(at 180.34 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" ""
+			(at 180.34 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MOUSER_PART_NUMBER" ""
+			(at 180.34 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "aa913a15-f632-4b6d-99cd-2c1aa9f47e3b")
 		)
@@ -4215,7 +4665,7 @@
 		(instances
 			(project "STM32 Nucleo RS232 & RS485 Expansion Board (ST Zio Compatible) V2"
 				(path "/080f83b7-8913-48e8-ab8e-79cb12295542/d1bb9d55-41f4-4fc3-ae06-1adc98dc5d39"
-					(reference "R18")
+					(reference "R20")
 					(unit 1)
 				)
 			)
@@ -4231,7 +4681,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "87d0a828-07ba-4638-a4f4-726c41772113")
-		(property "Reference" "U3"
+		(property "Reference" "U4"
 			(at 143.1133 72.39 0)
 			(effects
 				(font
@@ -4276,6 +4726,139 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" ""
+			(at 140.97 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" ""
+			(at 140.97 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" ""
+			(at 140.97 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SPN" ""
+			(at 140.97 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 140.97 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
+			(at 140.97 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" ""
+			(at 140.97 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 140.97 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Dielectric" ""
+			(at 140.97 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage Rating" ""
+			(at 140.97 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "DESCRIPTION" ""
+			(at 140.97 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "HEIGHT" ""
+			(at 140.97 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_NAME" ""
+			(at 140.97 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" ""
+			(at 140.97 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MOUSER_PART_NUMBER" ""
+			(at 140.97 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "6"
 			(uuid "443e1373-d13a-4238-87d9-d678a86b7561")
 		)
@@ -4297,7 +4880,7 @@
 		(instances
 			(project ""
 				(path "/080f83b7-8913-48e8-ab8e-79cb12295542/d1bb9d55-41f4-4fc3-ae06-1adc98dc5d39"
-					(reference "U3")
+					(reference "U4")
 					(unit 1)
 				)
 			)
@@ -4312,7 +4895,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "89693d69-2221-4111-9ef7-0ff9e8a92ba1")
-		(property "Reference" "C25"
+		(property "Reference" "C27"
 			(at 92.71 115.5762 0)
 			(effects
 				(font
@@ -4473,6 +5056,51 @@
 				)
 			)
 		)
+		(property "DESCRIPTION" ""
+			(at 90.17 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "HEIGHT" ""
+			(at 90.17 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_NAME" ""
+			(at 90.17 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" ""
+			(at 90.17 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MOUSER_PART_NUMBER" ""
+			(at 90.17 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2f2f1e5b-5dda-43db-8eeb-3c6db042f299")
 		)
@@ -4482,7 +5110,7 @@
 		(instances
 			(project "STM32 Nucleo RS232 & RS485 Expansion Board (ST Zio Compatible) V2"
 				(path "/080f83b7-8913-48e8-ab8e-79cb12295542/d1bb9d55-41f4-4fc3-ae06-1adc98dc5d39"
-					(reference "C25")
+					(reference "C27")
 					(unit 1)
 				)
 			)
@@ -4498,7 +5126,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "98bd8676-c49b-4481-b63d-12a2c7251307")
-		(property "Reference" "#PWR031"
+		(property "Reference" "#PWR033"
 			(at 90.17 78.74 0)
 			(effects
 				(font
@@ -4549,7 +5177,7 @@
 		(instances
 			(project "STM32 Nucleo RS232 & RS485 Expansion Board (ST Zio Compatible) V2"
 				(path "/080f83b7-8913-48e8-ab8e-79cb12295542/d1bb9d55-41f4-4fc3-ae06-1adc98dc5d39"
-					(reference "#PWR031")
+					(reference "#PWR033")
 					(unit 1)
 				)
 			)
@@ -4565,7 +5193,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ac708a64-931f-406d-b8c7-18b97a1d4ce8")
-		(property "Reference" "#PWR038"
+		(property "Reference" "#PWR040"
 			(at 90.17 134.62 0)
 			(effects
 				(font
@@ -4616,7 +5244,7 @@
 		(instances
 			(project "STM32 Nucleo RS232 & RS485 Expansion Board (ST Zio Compatible) V2"
 				(path "/080f83b7-8913-48e8-ab8e-79cb12295542/d1bb9d55-41f4-4fc3-ae06-1adc98dc5d39"
-					(reference "#PWR038")
+					(reference "#PWR040")
 					(unit 1)
 				)
 			)
@@ -4632,7 +5260,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b72729bd-967a-4427-8dab-d020a11069d6")
-		(property "Reference" "#PWR036"
+		(property "Reference" "#PWR038"
 			(at 140.97 106.68 0)
 			(effects
 				(font
@@ -4683,7 +5311,7 @@
 		(instances
 			(project "STM32 Nucleo RS232 & RS485 Expansion Board (ST Zio Compatible) V2"
 				(path "/080f83b7-8913-48e8-ab8e-79cb12295542/d1bb9d55-41f4-4fc3-ae06-1adc98dc5d39"
-					(reference "#PWR036")
+					(reference "#PWR038")
 					(unit 1)
 				)
 			)
@@ -4698,7 +5326,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "be5344e0-7dc2-4faf-bbed-f6198c79f45a")
-		(property "Reference" "R17"
+		(property "Reference" "R19"
 			(at 168.656 102.87 0)
 			(effects
 				(font
@@ -4834,6 +5462,51 @@
 				(justify left)
 			)
 		)
+		(property "DESCRIPTION" ""
+			(at 173.99 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "HEIGHT" ""
+			(at 173.99 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_NAME" ""
+			(at 173.99 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" ""
+			(at 173.99 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MOUSER_PART_NUMBER" ""
+			(at 173.99 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "85a2eae5-78a6-43ff-9574-61b7b30fe841")
 		)
@@ -4843,7 +5516,7 @@
 		(instances
 			(project "STM32 Nucleo RS232 & RS485 Expansion Board (ST Zio Compatible) V2"
 				(path "/080f83b7-8913-48e8-ab8e-79cb12295542/d1bb9d55-41f4-4fc3-ae06-1adc98dc5d39"
-					(reference "R17")
+					(reference "R19")
 					(unit 1)
 				)
 			)
@@ -4859,7 +5532,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bec0e2cf-c8d6-45e6-bece-01cfcc3b2817")
-		(property "Reference" "R12"
+		(property "Reference" "R14"
 			(at 194.31 45.72 90)
 			(effects
 				(font
@@ -4991,6 +5664,51 @@
 				)
 			)
 		)
+		(property "DESCRIPTION" ""
+			(at 194.31 54.61 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "HEIGHT" ""
+			(at 194.31 54.61 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_NAME" ""
+			(at 194.31 54.61 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" ""
+			(at 194.31 54.61 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MOUSER_PART_NUMBER" ""
+			(at 194.31 54.61 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "fa41f34d-54a9-49df-802c-45bb560b2170")
 		)
@@ -5000,7 +5718,7 @@
 		(instances
 			(project "STM32 Nucleo RS232 & RS485 Expansion Board (ST Zio Compatible) V2"
 				(path "/080f83b7-8913-48e8-ab8e-79cb12295542/d1bb9d55-41f4-4fc3-ae06-1adc98dc5d39"
-					(reference "R12")
+					(reference "R14")
 					(unit 1)
 				)
 			)
@@ -5015,7 +5733,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c1fe4abc-76ee-4ba3-a17e-fc220a2b53c5")
-		(property "Reference" "C21"
+		(property "Reference" "C24"
 			(at 92.71 59.6962 0)
 			(effects
 				(font
@@ -5176,6 +5894,51 @@
 				)
 			)
 		)
+		(property "DESCRIPTION" ""
+			(at 90.17 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "HEIGHT" ""
+			(at 90.17 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_NAME" ""
+			(at 90.17 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" ""
+			(at 90.17 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MOUSER_PART_NUMBER" ""
+			(at 90.17 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "276c8e3e-aa25-4a96-9c83-63e908657912")
 		)
@@ -5185,7 +5948,7 @@
 		(instances
 			(project "STM32 Nucleo RS232 & RS485 Expansion Board (ST Zio Compatible) V2"
 				(path "/080f83b7-8913-48e8-ab8e-79cb12295542/d1bb9d55-41f4-4fc3-ae06-1adc98dc5d39"
-					(reference "C21")
+					(reference "C24")
 					(unit 1)
 				)
 			)
@@ -5201,7 +5964,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c61689ee-3735-4979-961b-24a4b97b014b")
-		(property "Reference" "J5"
+		(property "Reference" "J9"
 			(at 166.116 131.826 90)
 			(effects
 				(font
@@ -5336,6 +6099,51 @@
 				(justify right)
 			)
 		)
+		(property "DESCRIPTION" ""
+			(at 173.99 134.62 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "HEIGHT" ""
+			(at 173.99 134.62 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_NAME" ""
+			(at 173.99 134.62 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" ""
+			(at 173.99 134.62 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MOUSER_PART_NUMBER" ""
+			(at 173.99 134.62 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "cb6812e1-29d6-46cf-a6d1-c2cc8f147fbe")
 		)
@@ -5348,7 +6156,7 @@
 		(instances
 			(project "STM32 Nucleo RS232 & RS485 Expansion Board (ST Zio Compatible) V2"
 				(path "/080f83b7-8913-48e8-ab8e-79cb12295542/d1bb9d55-41f4-4fc3-ae06-1adc98dc5d39"
-					(reference "J5")
+					(reference "J9")
 					(unit 1)
 				)
 			)
@@ -5363,7 +6171,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "cb245788-1539-4e6f-abcd-a95f530ce99a")
-		(property "Reference" "C20"
+		(property "Reference" "C23"
 			(at 78.74 61.214 0)
 			(effects
 				(font
@@ -5526,6 +6334,51 @@
 				(hide yes)
 			)
 		)
+		(property "DESCRIPTION" ""
+			(at 73.66 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "HEIGHT" ""
+			(at 73.66 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_NAME" ""
+			(at 73.66 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" ""
+			(at 73.66 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MOUSER_PART_NUMBER" ""
+			(at 73.66 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "48516760-9d0d-4363-8505-899108d3de1b")
 		)
@@ -5535,7 +6388,7 @@
 		(instances
 			(project "STM32 Nucleo RS232 & RS485 Expansion Board (ST Zio Compatible) V2"
 				(path "/080f83b7-8913-48e8-ab8e-79cb12295542/d1bb9d55-41f4-4fc3-ae06-1adc98dc5d39"
-					(reference "C20")
+					(reference "C23")
 					(unit 1)
 				)
 			)
@@ -5551,7 +6404,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d3a86e33-bf35-483a-94ce-7f42ce46ca8c")
-		(property "Reference" "#PWR034"
+		(property "Reference" "#PWR036"
 			(at 168.91 100.33 0)
 			(effects
 				(font
@@ -5602,7 +6455,7 @@
 		(instances
 			(project "STM32 Nucleo RS232 & RS485 Expansion Board (ST Zio Compatible) V2"
 				(path "/080f83b7-8913-48e8-ab8e-79cb12295542/d1bb9d55-41f4-4fc3-ae06-1adc98dc5d39"
-					(reference "#PWR034")
+					(reference "#PWR036")
 					(unit 1)
 				)
 			)
@@ -5618,7 +6471,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d889ab0a-f738-431d-ba83-963cdab66295")
-		(property "Reference" "D3"
+		(property "Reference" "D2"
 			(at 92.71 46.6724 90)
 			(effects
 				(font
@@ -5754,6 +6607,51 @@
 				(justify left)
 			)
 		)
+		(property "DESCRIPTION" ""
+			(at 90.17 49.53 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "HEIGHT" ""
+			(at 90.17 49.53 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_NAME" ""
+			(at 90.17 49.53 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" ""
+			(at 90.17 49.53 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MOUSER_PART_NUMBER" ""
+			(at 90.17 49.53 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2bca07d9-ba6e-48f4-8fe6-1d72f6b79a21")
 		)
@@ -5763,7 +6661,7 @@
 		(instances
 			(project ""
 				(path "/080f83b7-8913-48e8-ab8e-79cb12295542/d1bb9d55-41f4-4fc3-ae06-1adc98dc5d39"
-					(reference "D3")
+					(reference "D2")
 					(unit 1)
 				)
 			)
@@ -5778,7 +6676,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "da51df86-d3ee-48c2-aaad-cbb5419c63f1")
-		(property "Reference" "R16"
+		(property "Reference" "R18"
 			(at 76.2 104.1399 0)
 			(effects
 				(font
@@ -5913,6 +6811,51 @@
 				)
 			)
 		)
+		(property "DESCRIPTION" ""
+			(at 73.66 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "HEIGHT" ""
+			(at 73.66 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_NAME" ""
+			(at 73.66 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" ""
+			(at 73.66 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MOUSER_PART_NUMBER" ""
+			(at 73.66 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1ae0ab9a-672f-4e6f-85f6-0c56ca7c9ae3")
 		)
@@ -5922,7 +6865,7 @@
 		(instances
 			(project "STM32 Nucleo RS232 & RS485 Expansion Board (ST Zio Compatible) V2"
 				(path "/080f83b7-8913-48e8-ab8e-79cb12295542/d1bb9d55-41f4-4fc3-ae06-1adc98dc5d39"
-					(reference "R16")
+					(reference "R18")
 					(unit 1)
 				)
 			)
@@ -5937,7 +6880,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "de928eb4-6090-4f59-b8c9-527cb56c04df")
-		(property "Reference" "C22"
+		(property "Reference" "C25"
 			(at 127.762 61.976 0)
 			(effects
 				(font
@@ -6098,6 +7041,51 @@
 				)
 			)
 		)
+		(property "DESCRIPTION" ""
+			(at 133.35 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "HEIGHT" ""
+			(at 133.35 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_NAME" ""
+			(at 133.35 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" ""
+			(at 133.35 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MOUSER_PART_NUMBER" ""
+			(at 133.35 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "34e85840-e408-445b-a482-62c1492c73da")
 		)
@@ -6107,7 +7095,7 @@
 		(instances
 			(project "STM32 Nucleo RS232 & RS485 Expansion Board (ST Zio Compatible) V2"
 				(path "/080f83b7-8913-48e8-ab8e-79cb12295542/d1bb9d55-41f4-4fc3-ae06-1adc98dc5d39"
-					(reference "C22")
+					(reference "C25")
 					(unit 1)
 				)
 			)
@@ -6122,7 +7110,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e388d25b-badc-4b57-b64c-7f4a78391821")
-		(property "Reference" "R14"
+		(property "Reference" "R16"
 			(at 182.88 63.4999 0)
 			(effects
 				(font
@@ -6258,6 +7246,51 @@
 				(justify left)
 			)
 		)
+		(property "DESCRIPTION" ""
+			(at 180.34 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "HEIGHT" ""
+			(at 180.34 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_NAME" ""
+			(at 180.34 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" ""
+			(at 180.34 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MOUSER_PART_NUMBER" ""
+			(at 180.34 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "08be952f-ca67-4fa4-a965-d2d7f9523db2")
 		)
@@ -6267,7 +7300,7 @@
 		(instances
 			(project "STM32 Nucleo RS232 & RS485 Expansion Board (ST Zio Compatible) V2"
 				(path "/080f83b7-8913-48e8-ab8e-79cb12295542/d1bb9d55-41f4-4fc3-ae06-1adc98dc5d39"
-					(reference "R14")
+					(reference "R16")
 					(unit 1)
 				)
 			)
@@ -6283,7 +7316,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ee76155d-f2bf-4851-be8a-d125deee171f")
-		(property "Reference" "D6"
+		(property "Reference" "D5"
 			(at 92.71 102.5524 90)
 			(effects
 				(font
@@ -6419,6 +7452,51 @@
 				(justify left)
 			)
 		)
+		(property "DESCRIPTION" ""
+			(at 90.17 105.41 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "HEIGHT" ""
+			(at 90.17 105.41 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_NAME" ""
+			(at 90.17 105.41 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" ""
+			(at 90.17 105.41 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MOUSER_PART_NUMBER" ""
+			(at 90.17 105.41 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8d8c388b-fe45-4ec2-9769-ec7c656c0ed6")
 		)
@@ -6428,7 +7506,7 @@
 		(instances
 			(project "STM32 Nucleo RS232 & RS485 Expansion Board (ST Zio Compatible) V2"
 				(path "/080f83b7-8913-48e8-ab8e-79cb12295542/d1bb9d55-41f4-4fc3-ae06-1adc98dc5d39"
-					(reference "D6")
+					(reference "D5")
 					(unit 1)
 				)
 			)
@@ -6444,7 +7522,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f32f72fb-fdc4-4dba-9685-66b129532d45")
-		(property "Reference" "#PWR029"
+		(property "Reference" "#PWR031"
 			(at 133.35 76.2 0)
 			(effects
 				(font
@@ -6495,7 +7573,7 @@
 		(instances
 			(project "STM32 Nucleo RS232 & RS485 Expansion Board (ST Zio Compatible) V2"
 				(path "/080f83b7-8913-48e8-ab8e-79cb12295542/d1bb9d55-41f4-4fc3-ae06-1adc98dc5d39"
-					(reference "#PWR029")
+					(reference "#PWR031")
 					(unit 1)
 				)
 			)

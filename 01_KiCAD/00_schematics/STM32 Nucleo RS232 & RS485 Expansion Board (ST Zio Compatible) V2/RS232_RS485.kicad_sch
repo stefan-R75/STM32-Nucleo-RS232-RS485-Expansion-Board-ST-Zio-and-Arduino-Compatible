@@ -713,6 +713,462 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "5121_Green:5121"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "TP"
+				(at -2.5444 2.5415 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Value" "5121"
+				(at -2.55 -5.0866 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Footprint" "5121_Green:KEYSTONE_5121"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "MF" "Keystone Electronics"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "MAXIMUM_PACKAGE_HEIGHT" "5.59 mm"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Package" "None"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Price" "None"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Check_prices" "https://www.snapeda.com/parts/5121/Keystone/view-part/?ref=eda"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "STANDARD" "Manufacturer Recommendations"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "PARTREV" "F"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "SnapEDA_Link" "https://www.snapeda.com/parts/5121/Keystone/view-part/?ref=snap"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "MP" "5121"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=5529205&manufacturer=Keystone Electronics&part_name=5121&search_term=keystone 5121"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Description_1" "Compact THM Test Point -Green"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "MANUFACTURER" "Keystone Electronics"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Availability" "In Stock"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "SNAPEDA_PN" "5006"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(symbol "5121_1_0"
+				(circle
+					(center 0 0)
+					(radius 1.4199)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type color)
+						(color 0 194 0 1)
+					)
+				)
+				(pin passive line
+					(at -6.35 0 0)
+					(length 4.826)
+					(name "~"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "TP"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "5122_Blue:5122"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "TP"
+				(at -2.5444 2.5415 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Value" "5122"
+				(at -2.55 -5.0866 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Footprint" "5122_Blue:KEYSTONE_5122"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "MF" "Keystone Electronics"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "MAXIMUM_PACKAGE_HEIGHT" "5.59 mm"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Package" "None"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Price" "None"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Check_prices" "https://www.snapeda.com/parts/5122/Keystone/view-part/?ref=eda"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "STANDARD" "Manufacturer Recommendations"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "PARTREV" "F"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "SnapEDA_Link" "https://www.snapeda.com/parts/5122/Keystone/view-part/?ref=snap"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "MP" "5122"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=9424815&manufacturer=Keystone Electronics&part_name=5122&search_term=keystone 5122"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Description_1" "Blue PC Test Point, Compact Phosphor Bronze Silver Plating 0.063 (1.60mm) Hole Diameter Mounting Type"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "MANUFACTURER" "Keystone Electronics"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Availability" "In Stock"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "SNAPEDA_PN" "5006"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(symbol "5122_1_0"
+				(pin passive line
+					(at -6.35 0 0)
+					(length 4.826)
+					(name "~"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "TP"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+			)
+			(symbol "5122_1_1"
+				(circle
+					(center 0 0)
+					(radius 1.4199)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type color)
+						(color 0 0 194 1)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Connector:DE9_Pins"
 			(pin_names
 				(offset 1.016)
@@ -6584,7 +7040,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://cdn.sparkfun.com/assets/8/a/4/a/5/Kemet_Capacitor_Datasheet.pdf"
 			(at 69.85 99.06 0)
 			(effects
 				(font
@@ -6593,7 +7049,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "1uF ±5% 50V Ceramic Capacitor X7R 1206"
+		(property "Description" "Unpolarized capacitor"
 			(at 69.85 104.14 0)
 			(effects
 				(font
@@ -6702,7 +7158,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "50V"
+		(property "Voltage" "25V"
 			(at 77.724 86.868 0)
 			(effects
 				(font
@@ -6711,7 +7167,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "5%"
+		(property "Tolerance" "20%"
 			(at 74.676 86.868 0)
 			(effects
 				(font
@@ -6781,7 +7237,7 @@
 		)
 	)
 	(symbol
-		(lib_id "5009_Yellow:5009")
+		(lib_id "5121_Green:5121")
 		(at 33.02 -73.66 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -6807,7 +7263,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "5009_Yellow:KEYSTONE_5009"
+		(property "Footprint" "5121_Green:KEYSTONE_5121"
 			(at 33.02 -73.66 0)
 			(effects
 				(font
@@ -6835,7 +7291,7 @@
 				(hide yes)
 			)
 		)
-		(property "MF" "Keystone Electronics Corp."
+		(property "MF" "Keystone Electronics"
 			(at 33.02 -73.66 0)
 			(effects
 				(font
@@ -6855,7 +7311,7 @@
 				(hide yes)
 			)
 		)
-		(property "Package" "NON STANDARD-1 Keystone"
+		(property "Package" "None"
 			(at 33.02 -73.66 0)
 			(effects
 				(font
@@ -6875,7 +7331,7 @@
 				(hide yes)
 			)
 		)
-		(property "Check_prices" "https://www.snapeda.com/parts/5009/Keystone/view-part/?ref=eda"
+		(property "Check_prices" "https://www.snapeda.com/parts/5121/Keystone/view-part/?ref=eda"
 			(at 33.02 -73.66 0)
 			(effects
 				(font
@@ -6905,7 +7361,7 @@
 				(hide yes)
 			)
 		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/5009/Keystone/view-part/?ref=snap"
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/5121/Keystone/view-part/?ref=snap"
 			(at 33.02 -73.66 0)
 			(effects
 				(font
@@ -6915,7 +7371,7 @@
 				(hide yes)
 			)
 		)
-		(property "MP" "5009"
+		(property "MP" "5121"
 			(at 33.02 -73.66 0)
 			(effects
 				(font
@@ -6925,7 +7381,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "Test Point Compact THM H .350 Nylon46 Insulated Yellow PhosBronze/Silver | Keystone Electronics 5009"
+		(property "Description_1" "Compact THM Test Point -Green"
 			(at 33.02 -73.66 0)
 			(effects
 				(font
@@ -7086,6 +7542,16 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=5529205&manufacturer=Keystone Electronics&part_name=5121&search_term=keystone 5121"
+			(at 33.02 -73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
 				(hide yes)
 			)
 		)
@@ -7304,7 +7770,7 @@
 		)
 	)
 	(symbol
-		(lib_id "5008_Orange:5008")
+		(lib_id "5122_Blue:5122")
 		(at 78.74 -59.69 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -7328,7 +7794,7 @@
 				)
 			)
 		)
-		(property "Footprint" "5008_Orange:KEYSTONE_5008"
+		(property "Footprint" "5122_Blue:KEYSTONE_5122"
 			(at 78.74 -59.69 0)
 			(effects
 				(font
@@ -7376,7 +7842,7 @@
 				(hide yes)
 			)
 		)
-		(property "Package" "NON STANDARD-1 Keystone"
+		(property "Package" "None"
 			(at 78.74 -59.69 0)
 			(effects
 				(font
@@ -7396,7 +7862,7 @@
 				(hide yes)
 			)
 		)
-		(property "Check_prices" "https://www.snapeda.com/parts/5008/Keystone/view-part/?ref=eda"
+		(property "Check_prices" "https://www.snapeda.com/parts/5122/Keystone/view-part/?ref=eda"
 			(at 78.74 -59.69 0)
 			(effects
 				(font
@@ -7426,7 +7892,7 @@
 				(hide yes)
 			)
 		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/5008/Keystone/view-part/?ref=snap"
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/5122/Keystone/view-part/?ref=snap"
 			(at 78.74 -59.69 0)
 			(effects
 				(font
@@ -7436,7 +7902,7 @@
 				(hide yes)
 			)
 		)
-		(property "MP" "5008"
+		(property "MP" "5122"
 			(at 78.74 -59.69 0)
 			(effects
 				(font
@@ -7446,7 +7912,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "Compact THM Test Point -Orange"
+		(property "Description_1" "Blue PC Test Point, Compact Phosphor Bronze Silver Plating 0.063 (1.60mm) Hole Diameter Mounting Type"
 			(at 78.74 -59.69 0)
 			(effects
 				(font
@@ -7610,6 +8076,16 @@
 				(hide yes)
 			)
 		)
+		(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=9424815&manufacturer=Keystone Electronics&part_name=5122&search_term=keystone 5122"
+			(at 78.74 -59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
 		(pin "TP"
 			(uuid "0809b33c-6329-454d-a8cd-26613f6af833")
 		)
@@ -7623,7 +8099,7 @@
 		)
 	)
 	(symbol
-		(lib_id "5008_Orange:5008")
+		(lib_id "5122_Blue:5122")
 		(at 78.74 -67.31 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -7647,7 +8123,7 @@
 				)
 			)
 		)
-		(property "Footprint" "5008_Orange:KEYSTONE_5008"
+		(property "Footprint" "5122_Blue:KEYSTONE_5122"
 			(at 78.74 -67.31 0)
 			(effects
 				(font
@@ -7695,7 +8171,7 @@
 				(hide yes)
 			)
 		)
-		(property "Package" "NON STANDARD-1 Keystone"
+		(property "Package" "None"
 			(at 78.74 -67.31 0)
 			(effects
 				(font
@@ -7715,7 +8191,7 @@
 				(hide yes)
 			)
 		)
-		(property "Check_prices" "https://www.snapeda.com/parts/5008/Keystone/view-part/?ref=eda"
+		(property "Check_prices" "https://www.snapeda.com/parts/5122/Keystone/view-part/?ref=eda"
 			(at 78.74 -67.31 0)
 			(effects
 				(font
@@ -7745,7 +8221,7 @@
 				(hide yes)
 			)
 		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/5008/Keystone/view-part/?ref=snap"
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/5122/Keystone/view-part/?ref=snap"
 			(at 78.74 -67.31 0)
 			(effects
 				(font
@@ -7755,7 +8231,7 @@
 				(hide yes)
 			)
 		)
-		(property "MP" "5008"
+		(property "MP" "5122"
 			(at 78.74 -67.31 0)
 			(effects
 				(font
@@ -7765,7 +8241,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "Compact THM Test Point -Orange"
+		(property "Description_1" "Blue PC Test Point, Compact Phosphor Bronze Silver Plating 0.063 (1.60mm) Hole Diameter Mounting Type"
 			(at 78.74 -67.31 0)
 			(effects
 				(font
@@ -7926,6 +8402,16 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=9424815&manufacturer=Keystone Electronics&part_name=5122&search_term=keystone 5122"
+			(at 78.74 -67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
 				(hide yes)
 			)
 		)
@@ -8281,7 +8767,7 @@
 		)
 	)
 	(symbol
-		(lib_id "5008_Orange:5008")
+		(lib_id "5122_Blue:5122")
 		(at 78.74 -63.5 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -8305,7 +8791,7 @@
 				)
 			)
 		)
-		(property "Footprint" "5008_Orange:KEYSTONE_5008"
+		(property "Footprint" "5122_Blue:KEYSTONE_5122"
 			(at 78.74 -63.5 0)
 			(effects
 				(font
@@ -8353,7 +8839,7 @@
 				(hide yes)
 			)
 		)
-		(property "Package" "NON STANDARD-1 Keystone"
+		(property "Package" "None"
 			(at 78.74 -63.5 0)
 			(effects
 				(font
@@ -8373,7 +8859,7 @@
 				(hide yes)
 			)
 		)
-		(property "Check_prices" "https://www.snapeda.com/parts/5008/Keystone/view-part/?ref=eda"
+		(property "Check_prices" "https://www.snapeda.com/parts/5122/Keystone/view-part/?ref=eda"
 			(at 78.74 -63.5 0)
 			(effects
 				(font
@@ -8403,7 +8889,7 @@
 				(hide yes)
 			)
 		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/5008/Keystone/view-part/?ref=snap"
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/5122/Keystone/view-part/?ref=snap"
 			(at 78.74 -63.5 0)
 			(effects
 				(font
@@ -8413,7 +8899,7 @@
 				(hide yes)
 			)
 		)
-		(property "MP" "5008"
+		(property "MP" "5122"
 			(at 78.74 -63.5 0)
 			(effects
 				(font
@@ -8423,7 +8909,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "Compact THM Test Point -Orange"
+		(property "Description_1" "Blue PC Test Point, Compact Phosphor Bronze Silver Plating 0.063 (1.60mm) Hole Diameter Mounting Type"
 			(at 78.74 -63.5 0)
 			(effects
 				(font
@@ -8584,6 +9070,16 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=9424815&manufacturer=Keystone Electronics&part_name=5122&search_term=keystone 5122"
+			(at 78.74 -63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
 				(hide yes)
 			)
 		)
@@ -8987,7 +9483,7 @@
 		)
 	)
 	(symbol
-		(lib_id "5009_Yellow:5009")
+		(lib_id "5121_Green:5121")
 		(at 33.02 -88.9 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -9013,7 +9509,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "5009_Yellow:KEYSTONE_5009"
+		(property "Footprint" "5121_Green:KEYSTONE_5121"
 			(at 33.02 -88.9 0)
 			(effects
 				(font
@@ -9041,7 +9537,7 @@
 				(hide yes)
 			)
 		)
-		(property "MF" "Keystone Electronics Corp."
+		(property "MF" "Keystone Electronics"
 			(at 33.02 -88.9 0)
 			(effects
 				(font
@@ -9061,7 +9557,7 @@
 				(hide yes)
 			)
 		)
-		(property "Package" "NON STANDARD-1 Keystone"
+		(property "Package" "None"
 			(at 33.02 -88.9 0)
 			(effects
 				(font
@@ -9081,7 +9577,7 @@
 				(hide yes)
 			)
 		)
-		(property "Check_prices" "https://www.snapeda.com/parts/5009/Keystone/view-part/?ref=eda"
+		(property "Check_prices" "https://www.snapeda.com/parts/5121/Keystone/view-part/?ref=eda"
 			(at 33.02 -88.9 0)
 			(effects
 				(font
@@ -9111,7 +9607,7 @@
 				(hide yes)
 			)
 		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/5009/Keystone/view-part/?ref=snap"
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/5121/Keystone/view-part/?ref=snap"
 			(at 33.02 -88.9 0)
 			(effects
 				(font
@@ -9121,7 +9617,7 @@
 				(hide yes)
 			)
 		)
-		(property "MP" "5009"
+		(property "MP" "5121"
 			(at 33.02 -88.9 0)
 			(effects
 				(font
@@ -9131,7 +9627,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "Test Point Compact THM H .350 Nylon46 Insulated Yellow PhosBronze/Silver | Keystone Electronics 5009"
+		(property "Description_1" "Compact THM Test Point -Green"
 			(at 33.02 -88.9 0)
 			(effects
 				(font
@@ -9292,6 +9788,16 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=5529205&manufacturer=Keystone Electronics&part_name=5121&search_term=keystone 5121"
+			(at 33.02 -88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
 				(hide yes)
 			)
 		)
@@ -9772,7 +10278,7 @@
 		)
 	)
 	(symbol
-		(lib_id "5009_Yellow:5009")
+		(lib_id "5121_Green:5121")
 		(at 33.02 -77.47 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -9798,7 +10304,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "5009_Yellow:KEYSTONE_5009"
+		(property "Footprint" "5121_Green:KEYSTONE_5121"
 			(at 33.02 -77.47 0)
 			(effects
 				(font
@@ -9826,7 +10332,7 @@
 				(hide yes)
 			)
 		)
-		(property "MF" "Keystone Electronics Corp."
+		(property "MF" "Keystone Electronics"
 			(at 33.02 -77.47 0)
 			(effects
 				(font
@@ -9846,7 +10352,7 @@
 				(hide yes)
 			)
 		)
-		(property "Package" "NON STANDARD-1 Keystone"
+		(property "Package" "None"
 			(at 33.02 -77.47 0)
 			(effects
 				(font
@@ -9866,7 +10372,7 @@
 				(hide yes)
 			)
 		)
-		(property "Check_prices" "https://www.snapeda.com/parts/5009/Keystone/view-part/?ref=eda"
+		(property "Check_prices" "https://www.snapeda.com/parts/5121/Keystone/view-part/?ref=eda"
 			(at 33.02 -77.47 0)
 			(effects
 				(font
@@ -9896,7 +10402,7 @@
 				(hide yes)
 			)
 		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/5009/Keystone/view-part/?ref=snap"
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/5121/Keystone/view-part/?ref=snap"
 			(at 33.02 -77.47 0)
 			(effects
 				(font
@@ -9906,7 +10412,7 @@
 				(hide yes)
 			)
 		)
-		(property "MP" "5009"
+		(property "MP" "5121"
 			(at 33.02 -77.47 0)
 			(effects
 				(font
@@ -9916,7 +10422,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "Test Point Compact THM H .350 Nylon46 Insulated Yellow PhosBronze/Silver | Keystone Electronics 5009"
+		(property "Description_1" "Compact THM Test Point -Green"
 			(at 33.02 -77.47 0)
 			(effects
 				(font
@@ -10080,6 +10586,16 @@
 				(hide yes)
 			)
 		)
+		(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=5529205&manufacturer=Keystone Electronics&part_name=5121&search_term=keystone 5121"
+			(at 33.02 -77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
 		(pin "TP"
 			(uuid "4c50cfb4-731f-47c5-9403-64335bcdef61")
 		)
@@ -10129,7 +10645,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://cdn.sparkfun.com/assets/8/a/4/a/5/Kemet_Capacitor_Datasheet.pdf"
 			(at 54.61 99.06 0)
 			(effects
 				(font
@@ -10138,7 +10654,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "1uF ±5% 50V Ceramic Capacitor X7R 1206"
+		(property "Description" "Unpolarized capacitor"
 			(at 54.61 104.14 0)
 			(effects
 				(font
@@ -10247,7 +10763,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "50V"
+		(property "Voltage" "25V"
 			(at 62.484 86.868 0)
 			(effects
 				(font
@@ -10256,7 +10772,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "5%"
+		(property "Tolerance" "20%"
 			(at 59.436 86.868 0)
 			(effects
 				(font
@@ -10362,7 +10878,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.snapeda.com/parts/12065C105JAT2A/AVX/datasheet/"
+		(property "Datasheet" "https://cdn.sparkfun.com/assets/8/a/4/a/5/Kemet_Capacitor_Datasheet.pdf"
 			(at 85.09 99.06 0)
 			(effects
 				(font
@@ -10371,7 +10887,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "1uF ±5% 50V Ceramic Capacitor X7R 1206"
+		(property "Description" "Unpolarized capacitor"
 			(at 85.09 104.14 0)
 			(effects
 				(font
@@ -10480,7 +10996,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "50V"
+		(property "Voltage" "25V"
 			(at 92.964 86.868 0)
 			(effects
 				(font
@@ -10489,7 +11005,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "5%"
+		(property "Tolerance" "20%"
 			(at 89.916 86.868 0)
 			(effects
 				(font
@@ -11599,7 +12115,7 @@
 		)
 	)
 	(symbol
-		(lib_id "5009_Yellow:5009")
+		(lib_id "5121_Green:5121")
 		(at 33.02 -66.04 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -11625,7 +12141,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "5009_Yellow:KEYSTONE_5009"
+		(property "Footprint" "5121_Green:KEYSTONE_5121"
 			(at 33.02 -66.04 0)
 			(effects
 				(font
@@ -11653,7 +12169,7 @@
 				(hide yes)
 			)
 		)
-		(property "MF" "Keystone Electronics Corp."
+		(property "MF" "Keystone Electronics"
 			(at 33.02 -66.04 0)
 			(effects
 				(font
@@ -11673,7 +12189,7 @@
 				(hide yes)
 			)
 		)
-		(property "Package" "NON STANDARD-1 Keystone"
+		(property "Package" "None"
 			(at 33.02 -66.04 0)
 			(effects
 				(font
@@ -11693,7 +12209,7 @@
 				(hide yes)
 			)
 		)
-		(property "Check_prices" "https://www.snapeda.com/parts/5009/Keystone/view-part/?ref=eda"
+		(property "Check_prices" "https://www.snapeda.com/parts/5121/Keystone/view-part/?ref=eda"
 			(at 33.02 -66.04 0)
 			(effects
 				(font
@@ -11723,7 +12239,7 @@
 				(hide yes)
 			)
 		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/5009/Keystone/view-part/?ref=snap"
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/5121/Keystone/view-part/?ref=snap"
 			(at 33.02 -66.04 0)
 			(effects
 				(font
@@ -11733,7 +12249,7 @@
 				(hide yes)
 			)
 		)
-		(property "MP" "5009"
+		(property "MP" "5121"
 			(at 33.02 -66.04 0)
 			(effects
 				(font
@@ -11743,7 +12259,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "Test Point Compact THM H .350 Nylon46 Insulated Yellow PhosBronze/Silver | Keystone Electronics 5009"
+		(property "Description_1" "Compact THM Test Point -Green"
 			(at 33.02 -66.04 0)
 			(effects
 				(font
@@ -11904,6 +12420,16 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=5529205&manufacturer=Keystone Electronics&part_name=5121&search_term=keystone 5121"
+			(at 33.02 -66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
 				(hide yes)
 			)
 		)
@@ -11987,7 +12513,7 @@
 		)
 	)
 	(symbol
-		(lib_id "5009_Yellow:5009")
+		(lib_id "5121_Green:5121")
 		(at 33.02 -62.23 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -12013,7 +12539,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "5009_Yellow:KEYSTONE_5009"
+		(property "Footprint" "5121_Green:KEYSTONE_5121"
 			(at 33.02 -62.23 0)
 			(effects
 				(font
@@ -12041,7 +12567,7 @@
 				(hide yes)
 			)
 		)
-		(property "MF" "Keystone Electronics Corp."
+		(property "MF" "Keystone Electronics"
 			(at 33.02 -62.23 0)
 			(effects
 				(font
@@ -12061,7 +12587,7 @@
 				(hide yes)
 			)
 		)
-		(property "Package" "NON STANDARD-1 Keystone"
+		(property "Package" "None"
 			(at 33.02 -62.23 0)
 			(effects
 				(font
@@ -12081,7 +12607,7 @@
 				(hide yes)
 			)
 		)
-		(property "Check_prices" "https://www.snapeda.com/parts/5009/Keystone/view-part/?ref=eda"
+		(property "Check_prices" "https://www.snapeda.com/parts/5121/Keystone/view-part/?ref=eda"
 			(at 33.02 -62.23 0)
 			(effects
 				(font
@@ -12111,7 +12637,7 @@
 				(hide yes)
 			)
 		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/5009/Keystone/view-part/?ref=snap"
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/5121/Keystone/view-part/?ref=snap"
 			(at 33.02 -62.23 0)
 			(effects
 				(font
@@ -12121,7 +12647,7 @@
 				(hide yes)
 			)
 		)
-		(property "MP" "5009"
+		(property "MP" "5121"
 			(at 33.02 -62.23 0)
 			(effects
 				(font
@@ -12131,7 +12657,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "Test Point Compact THM H .350 Nylon46 Insulated Yellow PhosBronze/Silver | Keystone Electronics 5009"
+		(property "Description_1" "Compact THM Test Point -Green"
 			(at 33.02 -62.23 0)
 			(effects
 				(font
@@ -12295,6 +12821,16 @@
 				(hide yes)
 			)
 		)
+		(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=5529205&manufacturer=Keystone Electronics&part_name=5121&search_term=keystone 5121"
+			(at 33.02 -62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
 		(pin "TP"
 			(uuid "2028c13e-f653-46a8-a798-13546708d855")
 		)
@@ -12325,7 +12861,7 @@
 				)
 			)
 		)
-		(property "Value" "TERM_TX (Y/Z)"
+		(property "Value" "TERM (Y/Z)"
 			(at 98.552 49.53 90)
 			(effects
 				(font
@@ -13615,7 +14151,7 @@
 		)
 	)
 	(symbol
-		(lib_id "5009_Yellow:5009")
+		(lib_id "5122_Blue:5122")
 		(at 78.74 -86.36 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -13639,7 +14175,7 @@
 				)
 			)
 		)
-		(property "Footprint" "5009_Yellow:KEYSTONE_5009"
+		(property "Footprint" "5122_Blue:KEYSTONE_5122"
 			(at 78.74 -86.36 0)
 			(effects
 				(font
@@ -13667,8 +14203,8 @@
 				(hide yes)
 			)
 		)
-		(property "MF" "Keystone Electronics Corp."
-			(at 78.74 -86.106 0)
+		(property "MF" "Keystone Electronics"
+			(at 78.74 -86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13687,7 +14223,7 @@
 				(hide yes)
 			)
 		)
-		(property "Package" "NON STANDARD-1 Keystone"
+		(property "Package" "None"
 			(at 78.74 -86.36 0)
 			(effects
 				(font
@@ -13707,7 +14243,7 @@
 				(hide yes)
 			)
 		)
-		(property "Check_prices" "https://www.snapeda.com/parts/5009/Keystone/view-part/?ref=eda"
+		(property "Check_prices" "https://www.snapeda.com/parts/5122/Keystone/view-part/?ref=eda"
 			(at 78.74 -86.36 0)
 			(effects
 				(font
@@ -13737,7 +14273,7 @@
 				(hide yes)
 			)
 		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/5009/Keystone/view-part/?ref=snap"
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/5122/Keystone/view-part/?ref=snap"
 			(at 78.74 -86.36 0)
 			(effects
 				(font
@@ -13747,7 +14283,7 @@
 				(hide yes)
 			)
 		)
-		(property "MP" "5009"
+		(property "MP" "5122"
 			(at 78.74 -86.36 0)
 			(effects
 				(font
@@ -13757,7 +14293,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "Test Point Compact THM H .350 Nylon46 Insulated Yellow PhosBronze/Silver | Keystone Electronics 5009"
+		(property "Description_1" "Blue PC Test Point, Compact Phosphor Bronze Silver Plating 0.063 (1.60mm) Hole Diameter Mounting Type"
 			(at 78.74 -86.36 0)
 			(effects
 				(font
@@ -13918,6 +14454,16 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=9424815&manufacturer=Keystone Electronics&part_name=5122&search_term=keystone 5122"
+			(at 78.74 -86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
 				(hide yes)
 			)
 		)
@@ -14175,7 +14721,7 @@
 				)
 			)
 		)
-		(property "Value" "TERM_RX (A/B)"
+		(property "Value" "TERM (A/B)"
 			(at 52.832 49.53 90)
 			(effects
 				(font
@@ -14830,7 +15376,7 @@
 		)
 	)
 	(symbol
-		(lib_id "5009_Yellow:5009")
+		(lib_id "5122_Blue:5122")
 		(at 78.74 -82.55 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -14854,7 +15400,7 @@
 				)
 			)
 		)
-		(property "Footprint" "5009_Yellow:KEYSTONE_5009"
+		(property "Footprint" "5122_Blue:KEYSTONE_5122"
 			(at 78.74 -82.55 0)
 			(effects
 				(font
@@ -14882,8 +15428,8 @@
 				(hide yes)
 			)
 		)
-		(property "MF" "Keystone Electronics Corp."
-			(at 78.74 -82.296 0)
+		(property "MF" "Keystone Electronics"
+			(at 78.74 -82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14902,7 +15448,7 @@
 				(hide yes)
 			)
 		)
-		(property "Package" "NON STANDARD-1 Keystone"
+		(property "Package" "None"
 			(at 78.74 -82.55 0)
 			(effects
 				(font
@@ -14922,7 +15468,7 @@
 				(hide yes)
 			)
 		)
-		(property "Check_prices" "https://www.snapeda.com/parts/5009/Keystone/view-part/?ref=eda"
+		(property "Check_prices" "https://www.snapeda.com/parts/5122/Keystone/view-part/?ref=eda"
 			(at 78.74 -82.55 0)
 			(effects
 				(font
@@ -14952,7 +15498,7 @@
 				(hide yes)
 			)
 		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/5009/Keystone/view-part/?ref=snap"
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/5122/Keystone/view-part/?ref=snap"
 			(at 78.74 -82.55 0)
 			(effects
 				(font
@@ -14962,7 +15508,7 @@
 				(hide yes)
 			)
 		)
-		(property "MP" "5009"
+		(property "MP" "5122"
 			(at 78.74 -82.55 0)
 			(effects
 				(font
@@ -14972,7 +15518,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "Test Point Compact THM H .350 Nylon46 Insulated Yellow PhosBronze/Silver | Keystone Electronics 5009"
+		(property "Description_1" "Blue PC Test Point, Compact Phosphor Bronze Silver Plating 0.063 (1.60mm) Hole Diameter Mounting Type"
 			(at 78.74 -82.55 0)
 			(effects
 				(font
@@ -15133,6 +15679,16 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=9424815&manufacturer=Keystone Electronics&part_name=5122&search_term=keystone 5122"
+			(at 78.74 -82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
 				(hide yes)
 			)
 		)
@@ -16431,7 +16987,7 @@
 		)
 	)
 	(symbol
-		(lib_id "5009_Yellow:5009")
+		(lib_id "5121_Green:5121")
 		(at 33.02 -69.85 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -16457,7 +17013,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "5009_Yellow:KEYSTONE_5009"
+		(property "Footprint" "5121_Green:KEYSTONE_5121"
 			(at 33.02 -69.85 0)
 			(effects
 				(font
@@ -16485,7 +17041,7 @@
 				(hide yes)
 			)
 		)
-		(property "MF" "Keystone Electronics Corp."
+		(property "MF" "Keystone Electronics"
 			(at 33.02 -69.85 0)
 			(effects
 				(font
@@ -16505,7 +17061,7 @@
 				(hide yes)
 			)
 		)
-		(property "Package" "NON STANDARD-1 Keystone"
+		(property "Package" "None"
 			(at 33.02 -69.85 0)
 			(effects
 				(font
@@ -16525,7 +17081,7 @@
 				(hide yes)
 			)
 		)
-		(property "Check_prices" "https://www.snapeda.com/parts/5009/Keystone/view-part/?ref=eda"
+		(property "Check_prices" "https://www.snapeda.com/parts/5121/Keystone/view-part/?ref=eda"
 			(at 33.02 -69.85 0)
 			(effects
 				(font
@@ -16555,7 +17111,7 @@
 				(hide yes)
 			)
 		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/5009/Keystone/view-part/?ref=snap"
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/5121/Keystone/view-part/?ref=snap"
 			(at 33.02 -69.85 0)
 			(effects
 				(font
@@ -16565,7 +17121,7 @@
 				(hide yes)
 			)
 		)
-		(property "MP" "5009"
+		(property "MP" "5121"
 			(at 33.02 -69.85 0)
 			(effects
 				(font
@@ -16575,7 +17131,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "Test Point Compact THM H .350 Nylon46 Insulated Yellow PhosBronze/Silver | Keystone Electronics 5009"
+		(property "Description_1" "Compact THM Test Point -Green"
 			(at 33.02 -69.85 0)
 			(effects
 				(font
@@ -16739,6 +17295,16 @@
 				(hide yes)
 			)
 		)
+		(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=5529205&manufacturer=Keystone Electronics&part_name=5121&search_term=keystone 5121"
+			(at 33.02 -69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
 		(pin "TP"
 			(uuid "7c33bc6d-918c-48ac-925f-8f1565e3560b")
 		)
@@ -16752,7 +17318,7 @@
 		)
 	)
 	(symbol
-		(lib_id "5008_Orange:5008")
+		(lib_id "5122_Blue:5122")
 		(at 78.74 -78.74 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -16776,7 +17342,7 @@
 				)
 			)
 		)
-		(property "Footprint" "5008_Orange:KEYSTONE_5008"
+		(property "Footprint" "5122_Blue:KEYSTONE_5122"
 			(at 78.74 -78.74 0)
 			(effects
 				(font
@@ -16824,7 +17390,7 @@
 				(hide yes)
 			)
 		)
-		(property "Package" "NON STANDARD-1 Keystone"
+		(property "Package" "None"
 			(at 78.74 -78.74 0)
 			(effects
 				(font
@@ -16844,7 +17410,7 @@
 				(hide yes)
 			)
 		)
-		(property "Check_prices" "https://www.snapeda.com/parts/5008/Keystone/view-part/?ref=eda"
+		(property "Check_prices" "https://www.snapeda.com/parts/5122/Keystone/view-part/?ref=eda"
 			(at 78.74 -78.74 0)
 			(effects
 				(font
@@ -16874,7 +17440,7 @@
 				(hide yes)
 			)
 		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/5008/Keystone/view-part/?ref=snap"
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/5122/Keystone/view-part/?ref=snap"
 			(at 78.74 -78.74 0)
 			(effects
 				(font
@@ -16884,7 +17450,7 @@
 				(hide yes)
 			)
 		)
-		(property "MP" "5008"
+		(property "MP" "5122"
 			(at 78.74 -78.74 0)
 			(effects
 				(font
@@ -16894,7 +17460,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "Compact THM Test Point -Orange"
+		(property "Description_1" "Blue PC Test Point, Compact Phosphor Bronze Silver Plating 0.063 (1.60mm) Hole Diameter Mounting Type"
 			(at 78.74 -78.74 0)
 			(effects
 				(font
@@ -17055,6 +17621,16 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=9424815&manufacturer=Keystone Electronics&part_name=5122&search_term=keystone 5122"
+			(at 78.74 -78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
 				(hide yes)
 			)
 		)
@@ -17747,7 +18323,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C2167095.pdf"
+		(property "Datasheet" "https://cdn.sparkfun.com/assets/8/a/4/a/5/Kemet_Capacitor_Datasheet.pdf"
 			(at 119.38 99.06 0)
 			(effects
 				(font
@@ -17756,7 +18332,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "100nF ±5% 50V Ceramic Capacitor X7R 0805"
+		(property "Description" "Unpolarized capacitor"
 			(at 119.38 104.14 0)
 			(effects
 				(font
@@ -17856,7 +18432,7 @@
 				(hide yes)
 			)
 		)
-		(property "PROD_ID" ""
+		(property "PROD_ID" "CAP-00810"
 			(at 119.38 101.6 0)
 			(effects
 				(font
@@ -17865,7 +18441,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "50V"
+		(property "Voltage" "25V"
 			(at 127.254 86.868 0)
 			(effects
 				(font
@@ -17874,7 +18450,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "5%"
+		(property "Tolerance" "20%"
 			(at 124.206 86.868 0)
 			(effects
 				(font
@@ -18299,7 +18875,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C2167095.pdf"
+		(property "Datasheet" "https://cdn.sparkfun.com/assets/8/a/4/a/5/Kemet_Capacitor_Datasheet.pdf"
 			(at 102.87 99.06 0)
 			(effects
 				(font
@@ -18308,7 +18884,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "100nF ±5% 50V Ceramic Capacitor X7R 0805"
+		(property "Description" "Unpolarized capacitor"
 			(at 102.87 104.14 0)
 			(effects
 				(font
@@ -18408,7 +18984,7 @@
 				(hide yes)
 			)
 		)
-		(property "PROD_ID" ""
+		(property "PROD_ID" "CAP-00810"
 			(at 102.87 101.6 0)
 			(effects
 				(font
@@ -18417,7 +18993,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "50V"
+		(property "Voltage" "25V"
 			(at 110.744 86.868 0)
 			(effects
 				(font
@@ -18426,7 +19002,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "5%"
+		(property "Tolerance" "20%"
 			(at 107.696 86.868 0)
 			(effects
 				(font
@@ -18532,7 +19108,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C2167095.pdf"
+		(property "Datasheet" "https://cdn.sparkfun.com/assets/8/a/4/a/5/Kemet_Capacitor_Datasheet.pdf"
 			(at 158.75 165.1 0)
 			(effects
 				(font
@@ -18541,7 +19117,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "100nF ±5% 50V Ceramic Capacitor X7R 0805"
+		(property "Description" "Unpolarized capacitor"
 			(at 158.75 170.18 0)
 			(effects
 				(font
@@ -18641,7 +19217,7 @@
 				(hide yes)
 			)
 		)
-		(property "PROD_ID" ""
+		(property "PROD_ID" "CAP-00810"
 			(at 158.75 167.64 0)
 			(effects
 				(font
@@ -18650,7 +19226,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "50V"
+		(property "Voltage" "25V"
 			(at 166.624 152.908 0)
 			(effects
 				(font
@@ -18659,7 +19235,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "5%"
+		(property "Tolerance" "20%"
 			(at 163.576 152.908 0)
 			(effects
 				(font
@@ -18961,7 +19537,7 @@
 		)
 	)
 	(symbol
-		(lib_id "5008_Orange:5008")
+		(lib_id "5122_Blue:5122")
 		(at 78.74 -74.93 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -18985,7 +19561,7 @@
 				)
 			)
 		)
-		(property "Footprint" "5008_Orange:KEYSTONE_5008"
+		(property "Footprint" "5122_Blue:KEYSTONE_5122"
 			(at 78.74 -74.93 0)
 			(effects
 				(font
@@ -19033,7 +19609,7 @@
 				(hide yes)
 			)
 		)
-		(property "Package" "NON STANDARD-1 Keystone"
+		(property "Package" "None"
 			(at 78.74 -74.93 0)
 			(effects
 				(font
@@ -19053,7 +19629,7 @@
 				(hide yes)
 			)
 		)
-		(property "Check_prices" "https://www.snapeda.com/parts/5008/Keystone/view-part/?ref=eda"
+		(property "Check_prices" "https://www.snapeda.com/parts/5122/Keystone/view-part/?ref=eda"
 			(at 78.74 -74.93 0)
 			(effects
 				(font
@@ -19083,7 +19659,7 @@
 				(hide yes)
 			)
 		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/5008/Keystone/view-part/?ref=snap"
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/5122/Keystone/view-part/?ref=snap"
 			(at 78.74 -74.93 0)
 			(effects
 				(font
@@ -19093,7 +19669,7 @@
 				(hide yes)
 			)
 		)
-		(property "MP" "5008"
+		(property "MP" "5122"
 			(at 78.74 -74.93 0)
 			(effects
 				(font
@@ -19103,7 +19679,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "Compact THM Test Point -Orange"
+		(property "Description_1" "Blue PC Test Point, Compact Phosphor Bronze Silver Plating 0.063 (1.60mm) Hole Diameter Mounting Type"
 			(at 78.74 -74.93 0)
 			(effects
 				(font
@@ -19267,6 +19843,16 @@
 				(hide yes)
 			)
 		)
+		(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=9424815&manufacturer=Keystone Electronics&part_name=5122&search_term=keystone 5122"
+			(at 78.74 -74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
 		(pin "TP"
 			(uuid "c970d0dc-1b1c-4bb6-9c19-0b48660ba7cc")
 		)
@@ -19280,7 +19866,7 @@
 		)
 	)
 	(symbol
-		(lib_id "5009_Yellow:5009")
+		(lib_id "5121_Green:5121")
 		(at 33.02 -81.28 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -19306,7 +19892,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "5009_Yellow:KEYSTONE_5009"
+		(property "Footprint" "5121_Green:KEYSTONE_5121"
 			(at 33.02 -81.28 0)
 			(effects
 				(font
@@ -19334,7 +19920,7 @@
 				(hide yes)
 			)
 		)
-		(property "MF" "Keystone Electronics Corp."
+		(property "MF" "Keystone Electronics"
 			(at 33.02 -81.28 0)
 			(effects
 				(font
@@ -19354,7 +19940,7 @@
 				(hide yes)
 			)
 		)
-		(property "Package" "NON STANDARD-1 Keystone"
+		(property "Package" "None"
 			(at 33.02 -81.28 0)
 			(effects
 				(font
@@ -19374,7 +19960,7 @@
 				(hide yes)
 			)
 		)
-		(property "Check_prices" "https://www.snapeda.com/parts/5009/Keystone/view-part/?ref=eda"
+		(property "Check_prices" "https://www.snapeda.com/parts/5121/Keystone/view-part/?ref=eda"
 			(at 33.02 -81.28 0)
 			(effects
 				(font
@@ -19404,7 +19990,7 @@
 				(hide yes)
 			)
 		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/5009/Keystone/view-part/?ref=snap"
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/5121/Keystone/view-part/?ref=snap"
 			(at 33.02 -81.28 0)
 			(effects
 				(font
@@ -19414,7 +20000,7 @@
 				(hide yes)
 			)
 		)
-		(property "MP" "5009"
+		(property "MP" "5121"
 			(at 33.02 -81.28 0)
 			(effects
 				(font
@@ -19424,7 +20010,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "Test Point Compact THM H .350 Nylon46 Insulated Yellow PhosBronze/Silver | Keystone Electronics 5009"
+		(property "Description_1" "Compact THM Test Point -Green"
 			(at 33.02 -81.28 0)
 			(effects
 				(font
@@ -19585,6 +20171,16 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=5529205&manufacturer=Keystone Electronics&part_name=5121&search_term=keystone 5121"
+			(at 33.02 -81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
 				(hide yes)
 			)
 		)
@@ -19807,7 +20403,7 @@
 		)
 	)
 	(symbol
-		(lib_id "5008_Orange:5008")
+		(lib_id "5122_Blue:5122")
 		(at 78.74 -55.88 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -19831,7 +20427,7 @@
 				)
 			)
 		)
-		(property "Footprint" "5008_Orange:KEYSTONE_5008"
+		(property "Footprint" "5122_Blue:KEYSTONE_5122"
 			(at 78.74 -55.88 0)
 			(effects
 				(font
@@ -19879,7 +20475,7 @@
 				(hide yes)
 			)
 		)
-		(property "Package" "NON STANDARD-1 Keystone"
+		(property "Package" "None"
 			(at 78.74 -55.88 0)
 			(effects
 				(font
@@ -19899,7 +20495,7 @@
 				(hide yes)
 			)
 		)
-		(property "Check_prices" "https://www.snapeda.com/parts/5008/Keystone/view-part/?ref=eda"
+		(property "Check_prices" "https://www.snapeda.com/parts/5122/Keystone/view-part/?ref=eda"
 			(at 78.74 -55.88 0)
 			(effects
 				(font
@@ -19929,7 +20525,7 @@
 				(hide yes)
 			)
 		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/5008/Keystone/view-part/?ref=snap"
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/5122/Keystone/view-part/?ref=snap"
 			(at 78.74 -55.88 0)
 			(effects
 				(font
@@ -19939,7 +20535,7 @@
 				(hide yes)
 			)
 		)
-		(property "MP" "5008"
+		(property "MP" "5122"
 			(at 78.74 -55.88 0)
 			(effects
 				(font
@@ -19949,7 +20545,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "Compact THM Test Point -Orange"
+		(property "Description_1" "Blue PC Test Point, Compact Phosphor Bronze Silver Plating 0.063 (1.60mm) Hole Diameter Mounting Type"
 			(at 78.74 -55.88 0)
 			(effects
 				(font
@@ -20113,6 +20709,16 @@
 				(hide yes)
 			)
 		)
+		(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=9424815&manufacturer=Keystone Electronics&part_name=5122&search_term=keystone 5122"
+			(at 78.74 -55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
 		(pin "TP"
 			(uuid "e1ecfa10-9123-481c-86f2-0449e5786762")
 		)
@@ -20126,7 +20732,7 @@
 		)
 	)
 	(symbol
-		(lib_id "5009_Yellow:5009")
+		(lib_id "5121_Green:5121")
 		(at 33.02 -85.09 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -20152,7 +20758,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "5009_Yellow:KEYSTONE_5009"
+		(property "Footprint" "5121_Green:KEYSTONE_5121"
 			(at 33.02 -85.09 0)
 			(effects
 				(font
@@ -20180,7 +20786,7 @@
 				(hide yes)
 			)
 		)
-		(property "MF" "Keystone Electronics Corp."
+		(property "MF" "Keystone Electronics"
 			(at 33.02 -85.09 0)
 			(effects
 				(font
@@ -20200,7 +20806,7 @@
 				(hide yes)
 			)
 		)
-		(property "Package" "NON STANDARD-1 Keystone"
+		(property "Package" "None"
 			(at 33.02 -85.09 0)
 			(effects
 				(font
@@ -20220,7 +20826,7 @@
 				(hide yes)
 			)
 		)
-		(property "Check_prices" "https://www.snapeda.com/parts/5009/Keystone/view-part/?ref=eda"
+		(property "Check_prices" "https://www.snapeda.com/parts/5121/Keystone/view-part/?ref=eda"
 			(at 33.02 -85.09 0)
 			(effects
 				(font
@@ -20250,7 +20856,7 @@
 				(hide yes)
 			)
 		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/5009/Keystone/view-part/?ref=snap"
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/5121/Keystone/view-part/?ref=snap"
 			(at 33.02 -85.09 0)
 			(effects
 				(font
@@ -20260,7 +20866,7 @@
 				(hide yes)
 			)
 		)
-		(property "MP" "5009"
+		(property "MP" "5121"
 			(at 33.02 -85.09 0)
 			(effects
 				(font
@@ -20270,7 +20876,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "Test Point Compact THM H .350 Nylon46 Insulated Yellow PhosBronze/Silver | Keystone Electronics 5009"
+		(property "Description_1" "Compact THM Test Point -Green"
 			(at 33.02 -85.09 0)
 			(effects
 				(font
@@ -20431,6 +21037,16 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=5529205&manufacturer=Keystone Electronics&part_name=5121&search_term=keystone 5121"
+			(at 33.02 -85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
 				(hide yes)
 			)
 		)
@@ -20550,7 +21166,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C2167095.pdf"
+		(property "Datasheet" "https://cdn.sparkfun.com/assets/8/a/4/a/5/Kemet_Capacitor_Datasheet.pdf"
 			(at 194.31 151.13 0)
 			(effects
 				(font
@@ -20559,7 +21175,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "100nF ±5% 50V Ceramic Capacitor X7R 0805"
+		(property "Description" "Unpolarized capacitor"
 			(at 194.31 156.21 0)
 			(effects
 				(font
@@ -20659,7 +21275,7 @@
 				(hide yes)
 			)
 		)
-		(property "PROD_ID" ""
+		(property "PROD_ID" "CAP-00810"
 			(at 194.31 153.67 0)
 			(effects
 				(font
@@ -20668,7 +21284,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "50V"
+		(property "Voltage" "25V"
 			(at 202.184 138.938 0)
 			(effects
 				(font
@@ -20677,7 +21293,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "5%"
+		(property "Tolerance" "20%"
 			(at 199.136 138.938 0)
 			(effects
 				(font

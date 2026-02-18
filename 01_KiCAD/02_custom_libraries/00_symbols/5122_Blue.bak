@@ -27,7 +27,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "5122_Blue:KEYSTONE_5122"
+		(property "Footprint" "5122:KEYSTONE_5122"
 			(at 0 0 0)
 			(effects
 				(font

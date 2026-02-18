@@ -2,7 +2,7 @@
 	(version 20241209)
 	(generator "kicad_symbol_editor")
 	(generator_version "9.0")
-	(symbol "5122"
+	(symbol "5121"
 		(pin_names
 			(offset 1.016)
 		)
@@ -18,7 +18,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "5122"
+		(property "Value" "5121"
 			(at -2.55 -5.0866 0)
 			(effects
 				(font
@@ -27,7 +27,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "5122_Blue:KEYSTONE_5122"
+		(property "Footprint" "5121:KEYSTONE_5121"
 			(at 0 0 0)
 			(effects
 				(font
@@ -95,7 +95,7 @@
 				(hide yes)
 			)
 		)
-		(property "Check_prices" "https://www.snapeda.com/parts/5122/Keystone/view-part/?ref=eda"
+		(property "Check_prices" "https://www.snapeda.com/parts/5121/Keystone/view-part/?ref=eda"
 			(at 0 0 0)
 			(effects
 				(font
@@ -125,7 +125,7 @@
 				(hide yes)
 			)
 		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/5122/Keystone/view-part/?ref=snap"
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/5121/Keystone/view-part/?ref=snap"
 			(at 0 0 0)
 			(effects
 				(font
@@ -135,7 +135,7 @@
 				(hide yes)
 			)
 		)
-		(property "MP" "5122"
+		(property "MP" "5121"
 			(at 0 0 0)
 			(effects
 				(font
@@ -145,7 +145,7 @@
 				(hide yes)
 			)
 		)
-		(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=9424815&manufacturer=Keystone Electronics&part_name=5122&search_term=keystone 5122"
+		(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=5529205&manufacturer=Keystone Electronics&part_name=5121&search_term=keystone 5121"
 			(at 0 0 0)
 			(effects
 				(font
@@ -155,7 +155,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "Blue PC Test Point, Compact Phosphor Bronze Silver Plating 0.063 (1.60mm) Hole Diameter Mounting Type"
+		(property "Description_1" "Compact THM Test Point -Green"
 			(at 0 0 0)
 			(effects
 				(font
@@ -195,7 +195,19 @@
 				(hide yes)
 			)
 		)
-		(symbol "5122_1_0"
+		(symbol "5121_1_0"
+			(circle
+				(center 0 0)
+				(radius 1.4199)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type color)
+					(color 0 194 0 1)
+				)
+			)
 			(pin passive line
 				(at -6.35 0 0)
 				(length 4.826)
@@ -212,20 +224,6 @@
 							(size 1.016 1.016)
 						)
 					)
-				)
-			)
-		)
-		(symbol "5122_1_1"
-			(circle
-				(center 0 0)
-				(radius 1.4199)
-				(stroke
-					(width 0)
-					(type solid)
-				)
-				(fill
-					(type color)
-					(color 0 0 194 1)
 				)
 			)
 		)

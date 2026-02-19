@@ -7153,7 +7153,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_SparkFun-Capacitor:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 77.47 137.16 0)
 			(effects
 				(font
@@ -10737,7 +10737,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_SparkFun-Capacitor:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 77.47 52.07 0)
 			(effects
 				(font
@@ -15911,7 +15911,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "953db7f3-a5c8-48fb-9512-d66c8b5a37be")
 		(property "Reference" "U7"
 			(at 100.33 134.5498 0)
@@ -15922,7 +15921,7 @@
 			)
 		)
 		(property "Value" "SN74LVC14ADR"
-			(at 100.33 137.0898 0)
+			(at 95.25 133.604 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20220,7 +20219,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_SparkFun-Capacitor:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 77.47 222.25 0)
 			(effects
 				(font

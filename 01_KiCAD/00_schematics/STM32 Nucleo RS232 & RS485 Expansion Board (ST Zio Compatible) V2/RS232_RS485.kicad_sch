@@ -4017,6 +4017,16 @@
 	)
 	(wire
 		(pts
+			(xy 189.23 130.81) (xy 189.23 153.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "06b89c3d-817c-40e5-adb8-b1f0fb0c8df2")
+	)
+	(wire
+		(pts
 			(xy 68.58 121.92) (xy 68.58 130.81)
 		)
 		(stroke
@@ -4164,6 +4174,16 @@
 			(type default)
 		)
 		(uuid "1cd5d5dc-1eca-4e1f-aa64-5b2ca8237c47")
+	)
+	(wire
+		(pts
+			(xy 161.29 143.51) (xy 161.29 146.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1d49cbfb-90e8-4eea-a1ec-f6fd1dd0ce72")
 	)
 	(wire
 		(pts
@@ -4317,16 +4337,6 @@
 	)
 	(wire
 		(pts
-			(xy 22.86 -54.61) (xy 26.67 -54.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "301bb855-eb7e-44f6-8258-16312ce207bf")
-	)
-	(wire
-		(pts
 			(xy 85.09 -74.93) (xy 91.44 -74.93)
 		)
 		(stroke
@@ -4354,16 +4364,6 @@
 			(type default)
 		)
 		(uuid "32de534c-4d0b-45d0-9e79-f6166625f092")
-	)
-	(wire
-		(pts
-			(xy 189.23 142.24) (xy 194.31 142.24)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "347c1342-1698-4eff-9f76-9f544cffeaab")
 	)
 	(wire
 		(pts
@@ -4467,7 +4467,7 @@
 	)
 	(wire
 		(pts
-			(xy 194.31 139.7) (xy 194.31 142.24)
+			(xy 194.31 139.7) (xy 194.31 156.21)
 		)
 		(stroke
 			(width 0)
@@ -4717,6 +4717,16 @@
 	)
 	(wire
 		(pts
+			(xy 158.75 143.51) (xy 158.75 156.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "624f2935-5f81-4a16-bb1e-d16b94c30029")
+	)
+	(wire
+		(pts
 			(xy 74.93 24.13) (xy 87.63 24.13)
 		)
 		(stroke
@@ -4857,6 +4867,16 @@
 	)
 	(wire
 		(pts
+			(xy 158.75 156.21) (xy 194.31 156.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7fed47e8-dfba-49dd-b83b-dcb4c5401dbf")
+	)
+	(wire
+		(pts
 			(xy 44.45 121.92) (xy 52.07 121.92)
 		)
 		(stroke
@@ -4927,6 +4947,16 @@
 	)
 	(wire
 		(pts
+			(xy 161.29 153.67) (xy 189.23 153.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8c48f651-fd95-4dfa-adb1-7a80f3f17768")
+	)
+	(wire
+		(pts
 			(xy 168.91 83.82) (xy 190.5 83.82)
 		)
 		(stroke
@@ -4944,16 +4974,6 @@
 			(type default)
 		)
 		(uuid "90c77cfe-dce9-49b2-b6e4-6563d772a0cc")
-	)
-	(wire
-		(pts
-			(xy 158.75 156.21) (xy 161.29 156.21)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9558e5ab-d0ac-4b40-9146-1bf76784c00a")
 	)
 	(wire
 		(pts
@@ -5057,16 +5077,6 @@
 	)
 	(wire
 		(pts
-			(xy 158.75 143.51) (xy 158.75 148.59)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "aeb53a0f-e29b-4a49-99f8-2d61661f7eb6")
-	)
-	(wire
-		(pts
 			(xy 161.29 31.75) (xy 167.64 31.75)
 		)
 		(stroke
@@ -5127,7 +5137,7 @@
 	)
 	(wire
 		(pts
-			(xy 158.75 153.67) (xy 158.75 156.21)
+			(xy 161.29 151.13) (xy 161.29 153.67)
 		)
 		(stroke
 			(width 0)
@@ -5327,16 +5337,6 @@
 	)
 	(wire
 		(pts
-			(xy 161.29 143.51) (xy 161.29 156.21)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "dd4257ad-7b6f-4444-97b5-4756728b66fa")
-	)
-	(wire
-		(pts
 			(xy 85.09 66.04) (xy 124.46 66.04)
 		)
 		(stroke
@@ -5514,16 +5514,6 @@
 			(type default)
 		)
 		(uuid "f474dcef-f622-4da1-a872-0337c85fdd4c")
-	)
-	(wire
-		(pts
-			(xy 189.23 130.81) (xy 189.23 142.24)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f606bed3-de39-437f-8e37-496b310631f8")
 	)
 	(wire
 		(pts
@@ -14913,403 +14903,6 @@
 	)
 	(symbol
 		(lib_id "PCM_SparkFun-PowerSymbol:GND")
-		(at 22.86 -54.61 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "94ae62c5-6589-481b-b461-db51d5949e31")
-		(property "Reference" "#PWR020"
-			(at 22.86 -48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 20.828 -54.356 0)
-			(do_not_autoplace yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 22.86 -54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 22.86 -54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 22.86 -45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "76f752dd-62f1-44af-bec1-17e4abf5ad84")
-		)
-		(instances
-			(project "STM32 Nucleo RS232 & RS485 Expansion Board (ST Zio Compatible) V2"
-				(path "/080f83b7-8913-48e8-ab8e-79cb12295542/eb278bca-04f9-4d71-99cd-ac1b982e4a86"
-					(reference "#PWR020")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "5006_Black:5006")
-		(at 33.02 -54.61 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "9717cefa-3917-4b46-ba51-6eef143fc029")
-		(property "Reference" "TP31"
-			(at 35.56 -54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "GND"
-			(at 41.402 -54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "5006_Black:KEYSTONE_5006"
-			(at 33.02 -54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 33.02 -54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 33.02 -54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MF" "Keystone Electronics Corp."
-			(at 33.02 -54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MAXIMUM_PACKAGE_HEIGHT" "5.59 mm"
-			(at 33.02 -54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Package" "NON STANDARD-1 Keystone"
-			(at 33.02 -54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Price" "None"
-			(at 33.02 -54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Check_prices" "https://www.snapeda.com/parts/5006/Keystone/view-part/?ref=eda"
-			(at 33.02 -54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "STANDARD" "Manufacturer Recommendations"
-			(at 33.02 -54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "PARTREV" "F"
-			(at 33.02 -54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/5006/Keystone/view-part/?ref=snap"
-			(at 33.02 -54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MP" "5006"
-			(at 33.02 -54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=4479071&manufacturer=Keystone Electronics Corp.&part_name=5006&search_term=keystone 5006"
-			(at 33.02 -54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Description_1" "Test Point Compact THM PC .350 L .125 OD Heat Resistant Nylon 46 Black | Keystone Electronics 5006"
-			(at 33.02 -54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER" "Keystone Electronics"
-			(at 33.02 -54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Availability" "In Stock"
-			(at 33.02 -54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "SNAPEDA_PN" "5006"
-			(at 33.02 -54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" ""
-			(at 33.02 -54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" ""
-			(at 33.02 -54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier" ""
-			(at 33.02 -54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SPN" ""
-			(at 33.02 -54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" ""
-			(at 33.02 -54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Type" ""
-			(at 33.02 -54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "DNP" ""
-			(at 33.02 -54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Dielectric" ""
-			(at 33.02 -54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Voltage Rating" ""
-			(at 33.02 -54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "DESCRIPTION" ""
-			(at 33.02 -54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "HEIGHT" ""
-			(at 33.02 -54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER_NAME" ""
-			(at 33.02 -54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER_PART_NUMBER" ""
-			(at 33.02 -54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MOUSER_PART_NUMBER" ""
-			(at 33.02 -54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "TP"
-			(uuid "a50ee32d-6da1-41c3-9c1e-e73a19226b35")
-		)
-		(instances
-			(project "STM32 Nucleo RS232 & RS485 Expansion Board (ST Zio Compatible) V2"
-				(path "/080f83b7-8913-48e8-ab8e-79cb12295542/eb278bca-04f9-4d71-99cd-ac1b982e4a86"
-					(reference "TP31")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "PCM_SparkFun-PowerSymbol:GND")
 		(at 69.85 88.9 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -19073,7 +18666,7 @@
 	)
 	(symbol
 		(lib_id "PCM_SparkFun-Capacitor:0.1uF_0603_25V_20%")
-		(at 158.75 151.13 0)
+		(at 161.29 148.59 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -19081,7 +18674,7 @@
 		(dnp no)
 		(uuid "e06872b7-fccd-4930-aa92-c35c33cbcc05")
 		(property "Reference" "C20"
-			(at 161.29 147.3262 0)
+			(at 163.83 144.7862 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19090,7 +18683,7 @@
 			)
 		)
 		(property "Value" "100nF"
-			(at 161.29 149.8662 0)
+			(at 163.83 147.3262 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19100,7 +18693,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
-			(at 158.75 162.56 0)
+			(at 161.29 160.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19109,7 +18702,7 @@
 			)
 		)
 		(property "Datasheet" "https://cdn.sparkfun.com/assets/8/a/4/a/5/Kemet_Capacitor_Datasheet.pdf"
-			(at 158.75 165.1 0)
+			(at 161.29 162.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19118,7 +18711,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 158.75 170.18 0)
+			(at 161.29 167.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19127,7 +18720,7 @@
 			)
 		)
 		(property "Manufacturer" "KEMET"
-			(at 158.75 151.13 0)
+			(at 161.29 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19136,7 +18729,7 @@
 			)
 		)
 		(property "MPN" "C0805C104J5RACTU"
-			(at 158.75 151.13 0)
+			(at 161.29 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19145,7 +18738,7 @@
 			)
 		)
 		(property "Supplier" ""
-			(at 158.75 151.13 0)
+			(at 161.29 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19154,7 +18747,7 @@
 			)
 		)
 		(property "SPN" ""
-			(at 158.75 151.13 0)
+			(at 161.29 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19163,7 +18756,7 @@
 			)
 		)
 		(property "LCSC" "C2167095"
-			(at 158.75 151.13 0)
+			(at 161.29 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19172,7 +18765,7 @@
 			)
 		)
 		(property "Package" "0805"
-			(at 158.75 151.13 0)
+			(at 161.29 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19181,7 +18774,7 @@
 			)
 		)
 		(property "Type" "SMD"
-			(at 158.75 151.13 0)
+			(at 161.29 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19190,7 +18783,7 @@
 			)
 		)
 		(property "DNP" ""
-			(at 158.75 151.13 0)
+			(at 161.29 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19199,7 +18792,7 @@
 			)
 		)
 		(property "Dielectric" "X7R"
-			(at 160.528 152.908 0)
+			(at 163.068 150.368 0)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -19208,7 +18801,7 @@
 			)
 		)
 		(property "Voltage Rating" ""
-			(at 169.672 151.892 0)
+			(at 172.212 149.352 0)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -19218,7 +18811,7 @@
 			)
 		)
 		(property "PROD_ID" "CAP-00810"
-			(at 158.75 167.64 0)
+			(at 161.29 165.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19227,7 +18820,7 @@
 			)
 		)
 		(property "Voltage" "25V"
-			(at 166.624 152.908 0)
+			(at 169.164 150.368 0)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -19236,7 +18829,7 @@
 			)
 		)
 		(property "Tolerance" "20%"
-			(at 163.576 152.908 0)
+			(at 166.116 150.368 0)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -19245,7 +18838,7 @@
 			)
 		)
 		(property "DESCRIPTION" ""
-			(at 158.75 151.13 0)
+			(at 161.29 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19254,7 +18847,7 @@
 			)
 		)
 		(property "HEIGHT" ""
-			(at 158.75 151.13 0)
+			(at 161.29 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19263,7 +18856,7 @@
 			)
 		)
 		(property "MANUFACTURER_NAME" ""
-			(at 158.75 151.13 0)
+			(at 161.29 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19272,7 +18865,7 @@
 			)
 		)
 		(property "MANUFACTURER_PART_NUMBER" ""
-			(at 158.75 151.13 0)
+			(at 161.29 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19281,7 +18874,7 @@
 			)
 		)
 		(property "MOUSER_PART_NUMBER" ""
-			(at 158.75 151.13 0)
+			(at 161.29 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)

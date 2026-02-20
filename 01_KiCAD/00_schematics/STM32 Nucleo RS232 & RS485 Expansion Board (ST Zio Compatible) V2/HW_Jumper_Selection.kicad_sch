@@ -8535,7 +8535,7 @@
 				)
 			)
 		)
-		(property "Value" "TERM_TX"
+		(property "Value" "TERM TX"
 			(at 170.18 167.894 90)
 			(effects
 				(font
@@ -10452,7 +10452,7 @@
 				)
 			)
 		)
-		(property "Value" "TERM_RX"
+		(property "Value" "TERM RX"
 			(at 288.29 167.894 90)
 			(effects
 				(font

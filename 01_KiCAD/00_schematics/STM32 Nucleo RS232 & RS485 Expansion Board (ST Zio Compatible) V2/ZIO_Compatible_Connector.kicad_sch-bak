@@ -3917,6 +3917,16 @@
 	)
 	(wire
 		(pts
+			(xy 76.2 102.87) (xy 99.06 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0555adbb-42ae-497c-9866-5c99aba45d8e")
+	)
+	(wire
+		(pts
 			(xy 44.45 100.33) (xy 99.06 100.33)
 		)
 		(stroke
@@ -3924,16 +3934,6 @@
 			(type default)
 		)
 		(uuid "06f56565-6f8a-4d14-b5bc-687bfe0bbc1b")
-	)
-	(wire
-		(pts
-			(xy 76.2 102.87) (xy 99.06 102.87)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "08bc8db5-0404-4608-aa2b-d9b34c507958")
 	)
 	(wire
 		(pts
@@ -4007,13 +4007,23 @@
 	)
 	(wire
 		(pts
-			(xy 77.47 97.79) (xy 82.55 97.79)
+			(xy 92.71 97.79) (xy 99.06 97.79)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "690eb59a-6e6b-4789-94c4-93b00d22cc0d")
+		(uuid "5bdec150-2bfa-4e13-82dc-33c3906691ff")
+	)
+	(wire
+		(pts
+			(xy 60.96 97.79) (xy 82.55 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7277889b-164e-48fe-80f8-5872c856c4e0")
 	)
 	(wire
 		(pts
@@ -4024,6 +4034,16 @@
 			(type default)
 		)
 		(uuid "7ec292bc-1880-4c92-aecc-221e3a444112")
+	)
+	(wire
+		(pts
+			(xy 60.96 102.87) (xy 66.04 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "80afc587-c18e-4f47-a873-ba497a6bb391")
 	)
 	(wire
 		(pts
@@ -4084,26 +4104,6 @@
 			(type default)
 		)
 		(uuid "a6125e98-f4a0-4d90-9e80-1e98840d09a4")
-	)
-	(wire
-		(pts
-			(xy 60.96 102.87) (xy 66.04 102.87)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a6ac54e9-1fbd-4f75-8afd-ddd483484167")
-	)
-	(wire
-		(pts
-			(xy 92.71 97.79) (xy 99.06 97.79)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "af4ce101-5d25-4b1d-b2e0-25ee4098c95f")
 	)
 	(wire
 		(pts
@@ -4348,7 +4348,7 @@
 	)
 	(global_label "MCU_TERM_RX"
 		(shape output)
-		(at 60.96 102.87 180)
+		(at 60.96 97.79 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4358,7 +4358,7 @@
 		)
 		(uuid "589a4685-6c8b-4119-a84e-f280857f2579")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 44.6702 102.87 0)
+			(at 44.6702 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4658,7 +4658,7 @@
 	)
 	(global_label "MCU_MODE1"
 		(shape output)
-		(at 77.47 97.79 180)
+		(at 60.96 102.87 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4668,7 +4668,7 @@
 		)
 		(uuid "ddf0f9aa-6dff-42ba-96e6-d5f1119e530d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 63.0549 97.79 0)
+			(at 46.5449 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4702,7 +4702,7 @@
 	)
 	(symbol
 		(lib_id "PCM_fab:R_0603")
-		(at 71.12 102.87 270)
+		(at 87.63 97.79 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4710,208 +4710,6 @@
 		(dnp no)
 		(uuid "35e7c1a3-55e4-465e-90b8-c81831a063dc")
 		(property "Reference" "R73"
-			(at 66.04 101.6 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "330R"
-			(at 76.454 101.6 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "PCM_fab:R_0603"
-			(at 71.12 102.87 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 71.12 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 71.12 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "YAGEO"
-			(at 71.12 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "RC0603FR-07330RL"
-			(at 71.12 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier" ""
-			(at 71.12 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SPN" ""
-			(at 71.12 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C105881"
-			(at 71.12 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Package" "0603"
-			(at 71.12 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Type" "SMD"
-			(at 71.12 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "DNP" ""
-			(at 71.12 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Dielectric" ""
-			(at 71.12 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Voltage Rating" "1% 100mW"
-			(at 71.12 107.95 90)
-			(effects
-				(font
-					(size 1.016 1.016)
-					(color 194 0 0 1)
-				)
-				(hide yes)
-			)
-		)
-		(property "DESCRIPTION" ""
-			(at 71.12 102.87 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "HEIGHT" ""
-			(at 71.12 102.87 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER_NAME" ""
-			(at 71.12 102.87 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER_PART_NUMBER" ""
-			(at 71.12 102.87 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MOUSER_PART_NUMBER" ""
-			(at 71.12 102.87 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "e1151953-0b57-4425-94e8-075c42959b2c")
-		)
-		(pin "1"
-			(uuid "ba4aa0ba-f9e6-46b9-a7e8-64d35e3b0107")
-		)
-		(instances
-			(project "STM32 Nucleo RS232 & RS485 Expansion Board (ST Zio Compatible) V2"
-				(path "/080f83b7-8913-48e8-ab8e-79cb12295542/067a36dd-1222-49fa-b4c7-0b289d0be8ff"
-					(reference "R73")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "PCM_fab:R_0603")
-		(at 87.63 97.79 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "45e4d6a8-96e3-4741-9127-117222b500aa")
-		(property "Reference" "R74"
 			(at 82.55 96.52 90)
 			(effects
 				(font
@@ -5082,6 +4880,208 @@
 		)
 		(property "MOUSER_PART_NUMBER" ""
 			(at 87.63 97.79 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "e1151953-0b57-4425-94e8-075c42959b2c")
+		)
+		(pin "1"
+			(uuid "ba4aa0ba-f9e6-46b9-a7e8-64d35e3b0107")
+		)
+		(instances
+			(project "STM32 Nucleo RS232 & RS485 Expansion Board (ST Zio Compatible) V2"
+				(path "/080f83b7-8913-48e8-ab8e-79cb12295542/067a36dd-1222-49fa-b4c7-0b289d0be8ff"
+					(reference "R73")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "PCM_fab:R_0603")
+		(at 71.12 102.87 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "45e4d6a8-96e3-4741-9127-117222b500aa")
+		(property "Reference" "R74"
+			(at 66.04 101.6 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "330R"
+			(at 76.454 101.6 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "PCM_fab:R_0603"
+			(at 71.12 102.87 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 71.12 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 71.12 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 71.12 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RC0603FR-07330RL"
+			(at 71.12 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" ""
+			(at 71.12 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SPN" ""
+			(at 71.12 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C105881"
+			(at 71.12 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0603"
+			(at 71.12 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "SMD"
+			(at 71.12 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DNP" ""
+			(at 71.12 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Dielectric" ""
+			(at 71.12 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage Rating" "1% 100mW"
+			(at 71.12 107.95 90)
+			(effects
+				(font
+					(size 1.016 1.016)
+					(color 194 0 0 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "DESCRIPTION" ""
+			(at 71.12 102.87 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "HEIGHT" ""
+			(at 71.12 102.87 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_NAME" ""
+			(at 71.12 102.87 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" ""
+			(at 71.12 102.87 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MOUSER_PART_NUMBER" ""
+			(at 71.12 102.87 90)
 			(effects
 				(font
 					(size 1.27 1.27)

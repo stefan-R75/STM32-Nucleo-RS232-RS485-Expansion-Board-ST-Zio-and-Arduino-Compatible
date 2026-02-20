@@ -3853,7 +3853,7 @@
 				)
 			)
 		)
-		(property "Value" "TX LED"
+		(property "Value" "TX_LED"
 			(at 185.42 35.56 90)
 			(effects
 				(font
@@ -5972,7 +5972,7 @@
 				)
 			)
 		)
-		(property "Value" "RX LED"
+		(property "Value" "RX_LED"
 			(at 166.878 134.874 90)
 			(effects
 				(font

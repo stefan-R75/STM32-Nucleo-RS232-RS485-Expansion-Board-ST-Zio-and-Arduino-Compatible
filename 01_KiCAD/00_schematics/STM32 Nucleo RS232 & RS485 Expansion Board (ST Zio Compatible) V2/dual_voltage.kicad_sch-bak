@@ -2839,12 +2839,13 @@
 				(hide yes)
 			)
 		)
-		(property "DNP" "Optional"
-			(at 246.634 131.572 0)
+		(property "DNP" ""
+			(at 246.38 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Dielectric" "20%"
@@ -6687,7 +6688,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "3V3 SYS"
+		(property "Value" "3V3_SYS"
 			(at 185.42 99.0599 90)
 			(effects
 				(font
@@ -7009,7 +7010,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "5V0 IN"
+		(property "Value" "5V0_IN"
 			(at 72.39 33.0199 90)
 			(effects
 				(font
@@ -8232,7 +8233,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "3V3 LDO"
+		(property "Value" "3V3_LDO"
 			(at 129.54 34.2899 90)
 			(effects
 				(font
@@ -8787,7 +8788,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "3V3 IN"
+		(property "Value" "3V3_IN"
 			(at 106.68 96.5199 90)
 			(effects
 				(font

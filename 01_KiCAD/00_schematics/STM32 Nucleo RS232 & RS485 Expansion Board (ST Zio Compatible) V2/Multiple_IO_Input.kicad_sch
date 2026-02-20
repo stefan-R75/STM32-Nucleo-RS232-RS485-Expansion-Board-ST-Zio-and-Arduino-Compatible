@@ -3591,7 +3591,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_ENA"
+		(property "Value" "SW ENA"
 			(at 76.708 101.6 0)
 			(effects
 				(font

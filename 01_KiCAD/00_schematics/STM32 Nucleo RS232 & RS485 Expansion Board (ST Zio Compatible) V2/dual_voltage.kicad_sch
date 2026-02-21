@@ -3516,7 +3516,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SOT-23-5 Voltage Regulators - Linear, Low Drop Out (LDO) Regulators RoHS"
 			(at 86.36 39.37 0)
 			(effects
 				(font
@@ -3525,7 +3525,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "TI"
 			(at 86.36 39.37 0)
 			(effects
 				(font
@@ -3534,7 +3534,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "TLV77518PDBVR"
 			(at 86.36 39.37 0)
 			(effects
 				(font
@@ -3561,7 +3561,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C49292340"
 			(at 86.36 39.37 0)
 			(effects
 				(font
@@ -3570,7 +3570,7 @@
 				(hide yes)
 			)
 		)
-		(property "Package" ""
+		(property "Package" "SOT-23-5"
 			(at 86.36 39.37 0)
 			(effects
 				(font
@@ -3650,6 +3650,33 @@
 			)
 		)
 		(property "MOUSER_PART_NUMBER" ""
+			(at 86.36 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser PN" "595-TLV77518PDBVR"
+			(at 86.36 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Farnell PN" ""
+			(at 86.36 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
 			(at 86.36 39.37 0)
 			(effects
 				(font
@@ -6239,7 +6266,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://cdn.sparkfun.com/assets/8/a/4/a/5/Kemet_Capacitor_Datasheet.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C1513220.pdf"
 			(at 139.7 68.58 0)
 			(effects
 				(font
@@ -6248,7 +6275,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "2.2uF X7R ±5% 50V 1206 Ceramic Capacitors RoHS"
 			(at 139.7 73.66 0)
 			(effects
 				(font
@@ -6257,7 +6284,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "KEMET"
 			(at 139.7 54.61 0)
 			(effects
 				(font
@@ -6266,7 +6293,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CC0805KKX7R9BB225"
+		(property "MPN" "C1206C225J5RECAUTO"
 			(at 139.7 54.61 0)
 			(effects
 				(font
@@ -6293,7 +6320,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C125847"
+		(property "LCSC" "C1513220"
 			(at 139.7 54.61 0)
 			(effects
 				(font
@@ -6302,13 +6329,13 @@
 				(hide yes)
 			)
 		)
-		(property "Package" "0805"
-			(at 139.7 54.61 0)
+		(property "Package" "1206"
+			(at 136.398 56.642 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 1.016 1.016)
+					(color 194 0 194 1)
 				)
-				(hide yes)
 			)
 		)
 		(property "Type" "SMD"
@@ -6330,7 +6357,7 @@
 			)
 		)
 		(property "Dielectric" "X7R"
-			(at 130.556 56.642 0)
+			(at 130.556 58.42 0)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -6338,7 +6365,7 @@
 				)
 			)
 		)
-		(property "Voltage Rating" "50V"
+		(property "Voltage Rating" ""
 			(at 136.652 56.642 0)
 			(effects
 				(font
@@ -6357,8 +6384,8 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "25V"
-			(at 134.112 56.642 0)
+		(property "Voltage" "50V"
+			(at 134.112 58.42 0)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -6366,8 +6393,8 @@
 				)
 			)
 		)
-		(property "Tolerance" "20%"
-			(at 137.668 56.642 0)
+		(property "Tolerance" "5%"
+			(at 137.668 58.42 0)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -6412,6 +6439,33 @@
 			)
 		)
 		(property "MOUSER_PART_NUMBER" ""
+			(at 139.7 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser PN" "80-C1206C225J5RECAUT"
+			(at 139.7 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Farnell PN" ""
+			(at 139.7 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
 			(at 139.7 54.61 0)
 			(effects
 				(font
@@ -7029,7 +7083,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://eu.mouser.com/datasheet/3/201/1/5005_5009.pdf"
 			(at 69.85 31.75 0)
 			(effects
 				(font
@@ -7038,7 +7092,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "PC Test Point - Compact, Red"
 			(at 69.85 31.75 0)
 			(effects
 				(font
@@ -7177,7 +7231,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Keystone Electronics"
 			(at 69.85 31.75 0)
 			(effects
 				(font
@@ -7186,7 +7240,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "5005"
 			(at 69.85 31.75 0)
 			(effects
 				(font
@@ -7213,7 +7267,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C2906763"
 			(at 69.85 31.75 0)
 			(effects
 				(font
@@ -7222,7 +7276,7 @@
 				(hide yes)
 			)
 		)
-		(property "Type" ""
+		(property "Type" "THT"
 			(at 69.85 31.75 0)
 			(effects
 				(font
@@ -7294,6 +7348,33 @@
 		)
 		(property "MOUSER_PART_NUMBER" ""
 			(at 69.85 31.75 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser PN" "534-5005"
+			(at 69.85 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Farnell PN" ""
+			(at 69.85 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 69.85 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8251,7 +8332,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://eu.mouser.com/datasheet/3/201/1/5005_5009.pdf"
 			(at 127 33.02 0)
 			(effects
 				(font
@@ -8260,7 +8341,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "PC Test Point - Compact, Red"
 			(at 127 33.02 0)
 			(effects
 				(font
@@ -8389,7 +8470,7 @@
 				(hide yes)
 			)
 		)
-		(property "SNAPEDA_PN" "5006"
+		(property "SNAPEDA_PN" "5005"
 			(at 127 33.02 0)
 			(effects
 				(font
@@ -8399,7 +8480,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Keystone Electronics"
 			(at 127 33.02 0)
 			(effects
 				(font
@@ -8408,7 +8489,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "5005"
 			(at 127 33.02 0)
 			(effects
 				(font
@@ -8435,7 +8516,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C2906763"
 			(at 127 33.02 0)
 			(effects
 				(font
@@ -8444,7 +8525,7 @@
 				(hide yes)
 			)
 		)
-		(property "Type" ""
+		(property "Type" "THT"
 			(at 127 33.02 0)
 			(effects
 				(font
@@ -8523,6 +8604,33 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser PN" "534-5005"
+			(at 127 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Farnell PN" ""
+			(at 127 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 127 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "TP"
 			(uuid "c63680f6-2168-419e-b003-743dd80ccec8")
 		)
@@ -8572,7 +8680,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://cdn.sparkfun.com/assets/8/a/4/a/5/Kemet_Capacitor_Datasheet.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C2167095.pdf"
 			(at 127 68.58 0)
 			(effects
 				(font
@@ -8581,7 +8689,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "100nF ±5% 50V Ceramic Capacitor X7R 0805"
 			(at 127 73.66 0)
 			(effects
 				(font
@@ -8590,7 +8698,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "KEMET"
 			(at 127 54.61 0)
 			(effects
 				(font
@@ -8599,7 +8707,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CC0805KKX7R9BB225"
+		(property "MPN" "C0805C104J5RACTU"
 			(at 127 54.61 0)
 			(effects
 				(font
@@ -8626,7 +8734,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C125847"
+		(property "LCSC" "C2167095"
 			(at 127 54.61 0)
 			(effects
 				(font
@@ -8636,12 +8744,12 @@
 			)
 		)
 		(property "Package" "0805"
-			(at 127 54.61 0)
+			(at 122.428 56.642 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 1.016 1.016)
+					(color 194 0 194 1)
 				)
-				(hide yes)
 			)
 		)
 		(property "Type" "SMD"
@@ -8663,7 +8771,7 @@
 			)
 		)
 		(property "Dielectric" "X7R"
-			(at 117.856 56.642 0)
+			(at 117.856 58.42 0)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -8671,7 +8779,7 @@
 				)
 			)
 		)
-		(property "Voltage Rating" "50V"
+		(property "Voltage Rating" ""
 			(at 123.952 56.642 0)
 			(effects
 				(font
@@ -8681,7 +8789,7 @@
 				(hide yes)
 			)
 		)
-		(property "PROD_ID" "CAP-00810"
+		(property "PROD_ID" ""
 			(at 127 71.12 0)
 			(effects
 				(font
@@ -8690,8 +8798,8 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "25V"
-			(at 121.412 56.642 0)
+		(property "Voltage" "50V"
+			(at 121.412 58.42 0)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -8699,8 +8807,8 @@
 				)
 			)
 		)
-		(property "Tolerance" "20%"
-			(at 124.968 56.642 0)
+		(property "Tolerance" "5%"
+			(at 124.968 58.42 0)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -8745,6 +8853,33 @@
 			)
 		)
 		(property "MOUSER_PART_NUMBER" ""
+			(at 127 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser PN" "80-C0805C104J5R"
+			(at 127 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Farnell PN" ""
+			(at 127 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
 			(at 127 54.61 0)
 			(effects
 				(font
@@ -9427,7 +9562,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://cdn.sparkfun.com/assets/8/a/4/a/5/Kemet_Capacitor_Datasheet.pdf"
+		(property "Datasheet" "https://datasheets.kyocera-avx.com/KGM_X7R.pdf"
 			(at 69.85 67.31 0)
 			(effects
 				(font
@@ -9436,7 +9571,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "1uF ±5% 50V Ceramic Capacitor X7R 1206"
 			(at 69.85 72.39 0)
 			(effects
 				(font
@@ -9445,7 +9580,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "Kyocera AVX"
 			(at 69.85 53.34 0)
 			(effects
 				(font
@@ -9454,7 +9589,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CS0805KKX7R9BB105"
+		(property "MPN" "12065C105JAT2A"
 			(at 69.85 53.34 0)
 			(effects
 				(font
@@ -9481,7 +9616,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C577426"
+		(property "LCSC" "C597503"
 			(at 69.85 53.34 0)
 			(effects
 				(font
@@ -9490,13 +9625,13 @@
 				(hide yes)
 			)
 		)
-		(property "Package" "0805"
-			(at 69.85 53.34 0)
+		(property "Package" "1206"
+			(at 65.786 55.372 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 1.016 1.016)
+					(color 194 0 194 1)
 				)
-				(hide yes)
 			)
 		)
 		(property "Type" "SMD"
@@ -9518,7 +9653,7 @@
 			)
 		)
 		(property "Dielectric" "X7R"
-			(at 60.706 55.626 0)
+			(at 60.706 57.15 0)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -9526,7 +9661,7 @@
 				)
 			)
 		)
-		(property "Voltage Rating" "50V"
+		(property "Voltage Rating" ""
 			(at 66.802 55.372 0)
 			(effects
 				(font
@@ -9536,7 +9671,7 @@
 				(hide yes)
 			)
 		)
-		(property "PROD_ID" "CAP-00810"
+		(property "PROD_ID" ""
 			(at 69.85 69.85 0)
 			(effects
 				(font
@@ -9545,8 +9680,8 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "25V"
-			(at 64.262 55.626 0)
+		(property "Voltage" "50V"
+			(at 64.262 57.15 0)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -9554,8 +9689,8 @@
 				)
 			)
 		)
-		(property "Tolerance" "20%"
-			(at 67.818 55.626 0)
+		(property "Tolerance" "5%"
+			(at 67.818 57.15 0)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -9600,6 +9735,33 @@
 			)
 		)
 		(property "MOUSER_PART_NUMBER" ""
+			(at 69.85 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser PN" "581-12065C105JAT2A"
+			(at 69.85 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Farnell PN" ""
+			(at 69.85 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
 			(at 69.85 53.34 0)
 			(effects
 				(font

@@ -1318,6 +1318,21 @@
           "name": "Voltage Rating",
           "url": false,
           "visible": true
+        },
+        {
+          "name": "Mouser PN",
+          "url": false,
+          "visible": false
+        },
+        {
+          "name": "Farnell PN",
+          "url": false,
+          "visible": false
+        },
+        {
+          "name": "DigiKey PN",
+          "url": false,
+          "visible": false
         }
       ],
       "intersheets_ref_own_page": false,

@@ -4734,7 +4734,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C513549.pdf"
 			(at 71.12 102.87 0)
 			(effects
 				(font
@@ -4743,7 +4743,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "330Ω ±1% 200mW 0603 Thick Film Resistor"
 			(at 71.12 102.87 0)
 			(effects
 				(font
@@ -4761,7 +4761,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "RC0603FR-07330RL"
+		(property "MPN" "AC0603FR-7W330RL"
 			(at 71.12 102.87 0)
 			(effects
 				(font
@@ -4788,7 +4788,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C105881"
+		(property "LCSC" "C513549"
 			(at 71.12 102.87 0)
 			(effects
 				(font
@@ -4887,6 +4887,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser PN" "603-AC0603FR-7W330RL"
+			(at 71.12 102.87 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "e1151953-0b57-4425-94e8-075c42959b2c")
 		)
@@ -4936,7 +4945,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C513549.pdf"
 			(at 87.63 97.79 0)
 			(effects
 				(font
@@ -4945,7 +4954,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "330Ω ±1% 200mW 0603 Thick Film Resistor"
 			(at 87.63 97.79 0)
 			(effects
 				(font
@@ -4963,7 +4972,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "RC0603FR-07330RL"
+		(property "MPN" "AC0603FR-7W330RL"
 			(at 87.63 97.79 0)
 			(effects
 				(font
@@ -4990,7 +4999,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C105881"
+		(property "LCSC" "C513549"
 			(at 87.63 97.79 0)
 			(effects
 				(font
@@ -5089,6 +5098,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser PN" "603-AC0603FR-7W330RL"
+			(at 87.63 97.79 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "0fd2ee4e-81fb-48ca-8c99-345a5cdb1705")
 		)
@@ -5121,7 +5139,7 @@
 				)
 			)
 		)
-		(property "Value" "Conn_02x15_Odd_Even"
+		(property "Value" "SSW-115-23-G-D"
 			(at 105.41 93.98 0)
 			(effects
 				(font
@@ -5139,7 +5157,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C7089189.pdf"
 			(at 104.14 115.57 0)
 			(effects
 				(font
@@ -5148,7 +5166,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Generic connector, double row, 02x15, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "Female Header 30 Position 2.54mm Pitch Dual Row Through Hole -55℃~+125℃"
 			(at 104.14 115.57 0)
 			(effects
 				(font
@@ -5201,7 +5219,7 @@
 				(hide yes)
 			)
 		)
-		(property "Package" ""
+		(property "Package" "Through Hole,P=2.54mm"
 			(at 104.14 115.57 0)
 			(effects
 				(font
@@ -5210,7 +5228,7 @@
 				(hide yes)
 			)
 		)
-		(property "Type" ""
+		(property "Type" "THT"
 			(at 104.14 115.57 0)
 			(effects
 				(font
@@ -5281,6 +5299,15 @@
 			)
 		)
 		(property "MOUSER_PART_NUMBER" ""
+			(at 104.14 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser PN" "200-SSW11523GD"
 			(at 104.14 115.57 0)
 			(effects
 				(font
@@ -5422,7 +5449,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C513549.pdf"
 			(at 198.12 77.47 0)
 			(effects
 				(font
@@ -5431,7 +5458,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "330Ω ±1% 200mW 0603 Thick Film Resistor"
 			(at 198.12 77.47 0)
 			(effects
 				(font
@@ -5449,7 +5476,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "RC0603FR-07330RL"
+		(property "MPN" "AC0603FR-7W330RL"
 			(at 198.12 77.47 0)
 			(effects
 				(font
@@ -5476,7 +5503,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C105881"
+		(property "LCSC" "C513549"
 			(at 198.12 77.47 0)
 			(effects
 				(font
@@ -5575,6 +5602,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser PN" "603-AC0603FR-7W330RL"
+			(at 198.12 77.47 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "7af8a91b-5743-4bf7-b1eb-da1120290439")
 		)
@@ -5624,7 +5660,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C513549.pdf"
 			(at 87.63 105.41 0)
 			(effects
 				(font
@@ -5633,7 +5669,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "330Ω ±1% 200mW 0603 Thick Film Resistor"
 			(at 87.63 105.41 0)
 			(effects
 				(font
@@ -5651,7 +5687,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "RC0603FR-07330RL"
+		(property "MPN" "AC0603FR-7W330RL"
 			(at 87.63 105.41 0)
 			(effects
 				(font
@@ -5678,7 +5714,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C105881"
+		(property "LCSC" "C513549"
 			(at 87.63 105.41 0)
 			(effects
 				(font
@@ -5777,6 +5813,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser PN" "603-AC0603FR-7W330RL"
+			(at 87.63 105.41 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "4faa64d8-186a-4871-82ff-0ec952ff7026")
 		)
@@ -5826,7 +5871,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C513549.pdf"
 			(at 71.12 107.95 0)
 			(effects
 				(font
@@ -5835,7 +5880,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "330Ω ±1% 200mW 0603 Thick Film Resistor"
 			(at 71.12 107.95 0)
 			(effects
 				(font
@@ -5853,7 +5898,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "RC0603FR-07330RL"
+		(property "MPN" "AC0603FR-7W330RL"
 			(at 71.12 107.95 0)
 			(effects
 				(font
@@ -5880,7 +5925,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C105881"
+		(property "LCSC" "C513549"
 			(at 71.12 107.95 0)
 			(effects
 				(font
@@ -5979,6 +6024,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser PN" "603-AC0603FR-7W330RL"
+			(at 71.12 107.95 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "ea06f868-41c9-427f-b7e5-6873177d1ff9")
 		)
@@ -6028,7 +6082,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C513549.pdf"
 			(at 198.12 64.77 0)
 			(effects
 				(font
@@ -6037,7 +6091,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "330Ω ±1% 200mW 0603 Thick Film Resistor"
 			(at 198.12 64.77 0)
 			(effects
 				(font
@@ -6055,7 +6109,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "RC0603FR-07330RL"
+		(property "MPN" "AC0603FR-7W330RL"
 			(at 198.12 64.77 0)
 			(effects
 				(font
@@ -6082,7 +6136,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C105881"
+		(property "LCSC" "C513549"
 			(at 198.12 64.77 0)
 			(effects
 				(font
@@ -6181,6 +6235,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser PN" "603-AC0603FR-7W330RL"
+			(at 198.12 64.77 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "4f3c30e8-4962-406a-bedd-c3b6758a7ae5")
 		)
@@ -6213,7 +6276,7 @@
 				)
 			)
 		)
-		(property "Value" "Conn_02x10_Odd_Even"
+		(property "Value" "SSW-110-23-G-D"
 			(at 182.88 50.8 0)
 			(effects
 				(font
@@ -6231,7 +6294,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C6236460.pdf"
 			(at 181.61 64.77 0)
 			(effects
 				(font
@@ -6240,7 +6303,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Generic connector, double row, 02x10, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "Female Header 20 Position 2.54mm Pitch Dual Row Through Hole -55℃~+125℃"
 			(at 181.61 64.77 0)
 			(effects
 				(font
@@ -6381,6 +6444,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser PN" "200-SSW11023GD"
+			(at 181.61 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "09"
 			(uuid "8f55b498-a869-424b-883c-24e082089704")
 		)
@@ -6467,7 +6539,7 @@
 				)
 			)
 		)
-		(property "Value" "Conn_02x08_Odd_Even"
+		(property "Value" "SSW-108-23-G-D"
 			(at 105.41 60.9973 0)
 			(effects
 				(font
@@ -6485,7 +6557,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C7019040.pdf"
 			(at 104.14 72.39 0)
 			(effects
 				(font
@@ -6494,7 +6566,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Generic connector, double row, 02x08, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "Female Header 16 Position 2.54mm Pitch Dual Row Through Hole -55℃~+125℃"
 			(at 104.14 72.39 0)
 			(effects
 				(font
@@ -6627,6 +6699,15 @@
 			)
 		)
 		(property "MOUSER_PART_NUMBER" ""
+			(at 104.14 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser PN" "200-SSW10823GD"
 			(at 104.14 72.39 0)
 			(effects
 				(font
@@ -6793,7 +6874,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C513549.pdf"
 			(at 198.12 92.71 0)
 			(effects
 				(font
@@ -6802,7 +6883,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "330Ω ±1% 200mW 0603 Thick Film Resistor"
 			(at 198.12 92.71 0)
 			(effects
 				(font
@@ -6820,7 +6901,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "RC0603FR-07330RL"
+		(property "MPN" "AC0603FR-7W330RL"
 			(at 198.12 92.71 0)
 			(effects
 				(font
@@ -6847,7 +6928,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C105881"
+		(property "LCSC" "C513549"
 			(at 198.12 92.71 0)
 			(effects
 				(font
@@ -6946,6 +7027,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser PN" "603-AC0603FR-7W330RL"
+			(at 198.12 92.71 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "82b7f4b3-ff55-4e07-9a34-9eaa75d558f1")
 		)
@@ -6978,7 +7068,7 @@
 				)
 			)
 		)
-		(property "Value" "Conn_02x17_Odd_Even"
+		(property "Value" "SSW-117-23-G-D"
 			(at 182.88 88.9 0)
 			(effects
 				(font
@@ -6996,7 +7086,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C6501751.pdf"
 			(at 181.61 113.03 0)
 			(effects
 				(font
@@ -7005,7 +7095,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Generic connector, double row, 02x17, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "Female Header 34 Position 2.54mm Pitch Dual Row Through Hole -55℃~+125℃"
 			(at 181.61 113.03 0)
 			(effects
 				(font
@@ -7138,6 +7228,15 @@
 			)
 		)
 		(property "MOUSER_PART_NUMBER" ""
+			(at 181.61 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser PN" "200-SSW11723GD"
 			(at 181.61 113.03 0)
 			(effects
 				(font

@@ -4605,7 +4605,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C227579.pdf"
 			(at 105.41 43.18 0)
 			(effects
 				(font
@@ -4614,7 +4614,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "137kΩ 100mW 75V Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS"
 			(at 105.41 43.18 0)
 			(effects
 				(font
@@ -4632,7 +4632,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "AC0603FR-07137RL"
+		(property "MPN" "AC0603FR-07137KL"
 			(at 105.41 43.18 0)
 			(effects
 				(font
@@ -4659,7 +4659,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C227580"
+		(property "LCSC" "C227579"
 			(at 105.41 43.18 0)
 			(effects
 				(font
@@ -4758,6 +4758,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser PN" "603-AC0603FR-07137KL"
+			(at 105.41 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a410b50b-4f1b-4340-8d8e-aad301dde727")
 		)
@@ -4810,7 +4819,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C227973.pdf"
 			(at 356.87 43.18 0)
 			(effects
 				(font
@@ -4819,7 +4828,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "590Ω 100mW 75V Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS"
 			(at 356.87 43.18 0)
 			(effects
 				(font
@@ -4837,7 +4846,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "RC0603FR-071KL"
+		(property "MPN" "AC0603FR-07590RL"
 			(at 356.87 43.18 0)
 			(effects
 				(font
@@ -4864,7 +4873,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C22548"
+		(property "LCSC" "C227973"
 			(at 356.87 43.18 0)
 			(effects
 				(font
@@ -4963,6 +4972,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser PN" "603-AC0603FR-07590RL"
+			(at 356.87 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d70cc3a8-3487-4e98-be24-cbbe1eee16dd")
 		)
@@ -5016,7 +5034,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C20142011.pdf"
 			(at 54.61 238.76 0)
 			(effects
 				(font
@@ -5025,7 +5043,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "10kΩ 200mW Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS"
 			(at 54.61 238.76 0)
 			(effects
 				(font
@@ -5043,7 +5061,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "RC0603FR-0710KL"
+		(property "MPN" "AC0603FR-7W10KL"
 			(at 54.61 238.76 0)
 			(effects
 				(font
@@ -5070,7 +5088,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C98220"
+		(property "LCSC" "C20142011"
 			(at 54.61 238.76 0)
 			(effects
 				(font
@@ -5169,6 +5187,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser PN" "603-AC0603FR-7W10KL"
+			(at 54.61 238.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "ea16be11-5c88-4cf3-90d7-0102f7197fa2")
 		)
@@ -5219,7 +5246,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C20142017.pdf"
 			(at 297.18 36.83 0)
 			(effects
 				(font
@@ -5228,7 +5255,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "200mW 1MΩ Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS"
 			(at 297.18 36.83 0)
 			(effects
 				(font
@@ -5246,7 +5273,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "RC0603FR-071ML"
+		(property "MPN" "AC0603FR-7W1ML"
 			(at 297.18 36.83 0)
 			(effects
 				(font
@@ -5273,7 +5300,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C14675"
+		(property "LCSC" "C20142017"
 			(at 297.18 36.83 0)
 			(effects
 				(font
@@ -5282,7 +5309,7 @@
 				(hide yes)
 			)
 		)
-		(property "Package" "C105578"
+		(property "Package" "0603"
 			(at 297.18 36.83 0)
 			(effects
 				(font
@@ -5371,6 +5398,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser PN" "603-AC0603FR-7W1ML"
+			(at 297.18 36.83 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "0cd97094-5f25-43e5-96b0-e2a77d301848")
 		)
@@ -5423,7 +5459,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C20142011.pdf"
 			(at 49.53 153.67 0)
 			(effects
 				(font
@@ -5432,7 +5468,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "10kΩ 200mW Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS"
 			(at 49.53 153.67 0)
 			(effects
 				(font
@@ -5450,7 +5486,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "RC0603FR-0710KL"
+		(property "MPN" "AC0603FR-7W10KL"
 			(at 49.53 153.67 0)
 			(effects
 				(font
@@ -5477,7 +5513,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C98220"
+		(property "LCSC" "C20142011"
 			(at 49.53 153.67 0)
 			(effects
 				(font
@@ -5576,6 +5612,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser PN" "603-AC0603FR-7W10KL"
+			(at 49.53 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "ffbce82b-1233-46f9-8d4f-7a4ffb001f43")
 		)
@@ -5628,7 +5673,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C5714562.pdf"
 			(at 288.29 80.01 0)
 			(effects
 				(font
@@ -5637,7 +5682,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "Pin Header 3 Position 2.54mm Pitch Single Row Through Hole -55℃~+125℃"
 			(at 288.29 80.01 0)
 			(effects
 				(font
@@ -5682,7 +5727,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C6631883"
+		(property "LCSC" "C5714562"
 			(at 288.29 80.01 0)
 			(effects
 				(font
@@ -5780,6 +5825,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser PN" "200-HTSW10307GS"
+			(at 288.29 80.01 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "7a1e7426-c53e-4725-b17c-dc8b4bfc97a6")
 		)
@@ -5835,7 +5889,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C20142011.pdf"
 			(at 285.75 153.67 0)
 			(effects
 				(font
@@ -5844,7 +5898,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "10kΩ 200mW Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS"
 			(at 285.75 153.67 0)
 			(effects
 				(font
@@ -5862,7 +5916,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "RC0603FR-0710KL"
+		(property "MPN" "AC0603FR-7W10KL"
 			(at 285.75 153.67 0)
 			(effects
 				(font
@@ -5889,7 +5943,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C98220"
+		(property "LCSC" "C20142011"
 			(at 285.75 153.67 0)
 			(effects
 				(font
@@ -5988,6 +6042,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser PN" "603-AC0603FR-7W10KL"
+			(at 285.75 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "c8fd6e1b-88cd-42ed-90e3-550ef3a2e776")
 		)
@@ -6038,7 +6101,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C20142017.pdf"
 			(at 179.07 36.83 0)
 			(effects
 				(font
@@ -6047,7 +6110,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "200mW 1MΩ Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS"
 			(at 179.07 36.83 0)
 			(effects
 				(font
@@ -6065,7 +6128,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "RC0603FR-071ML"
+		(property "MPN" "AC0603FR-7W1ML"
 			(at 179.07 36.83 0)
 			(effects
 				(font
@@ -6092,7 +6155,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C14675"
+		(property "LCSC" "C20142017"
 			(at 179.07 36.83 0)
 			(effects
 				(font
@@ -6101,7 +6164,7 @@
 				(hide yes)
 			)
 		)
-		(property "Package" "C105578"
+		(property "Package" "0603"
 			(at 179.07 36.83 0)
 			(effects
 				(font
@@ -6190,6 +6253,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser PN" "603-AC0603FR-7W1ML"
+			(at 179.07 36.83 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "73b99258-d4fa-4990-9b3d-db1eba9d74fc")
 		)
@@ -6242,7 +6314,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C227973.pdf"
 			(at 120.65 213.36 0)
 			(effects
 				(font
@@ -6251,7 +6323,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "590Ω 100mW 75V Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS"
 			(at 120.65 213.36 0)
 			(effects
 				(font
@@ -6269,7 +6341,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "RC0603FR-071KL"
+		(property "MPN" "AC0603FR-07590RL"
 			(at 120.65 213.36 0)
 			(effects
 				(font
@@ -6296,7 +6368,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C22548"
+		(property "LCSC" "C227973"
 			(at 120.65 213.36 0)
 			(effects
 				(font
@@ -6395,6 +6467,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser PN" "603-AC0603FR-07590RL"
+			(at 120.65 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e5d2eb00-f158-4575-9e79-5501786f6bfe")
 		)
@@ -6447,7 +6528,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C227973.pdf"
 			(at 120.65 128.27 0)
 			(effects
 				(font
@@ -6456,7 +6537,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "590Ω 100mW 75V Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS"
 			(at 120.65 128.27 0)
 			(effects
 				(font
@@ -6474,7 +6555,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "RC0603FR-071KL"
+		(property "MPN" "AC0603FR-07590RL"
 			(at 120.65 128.27 0)
 			(effects
 				(font
@@ -6501,7 +6582,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C22548"
+		(property "LCSC" "C227973"
 			(at 120.65 128.27 0)
 			(effects
 				(font
@@ -6592,6 +6673,15 @@
 			)
 		)
 		(property "MOUSER_PART_NUMBER" ""
+			(at 120.65 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser PN" "603-AC0603FR-07590RL"
 			(at 120.65 128.27 0)
 			(effects
 				(font
@@ -6720,7 +6810,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C227973.pdf"
 			(at 120.65 43.18 0)
 			(effects
 				(font
@@ -6729,7 +6819,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "590Ω 100mW 75V Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS"
 			(at 120.65 43.18 0)
 			(effects
 				(font
@@ -6747,7 +6837,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "RC0603FR-071KL"
+		(property "MPN" "AC0603FR-07590RL"
 			(at 120.65 43.18 0)
 			(effects
 				(font
@@ -6774,7 +6864,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C22548"
+		(property "LCSC" "C227973"
 			(at 120.65 43.18 0)
 			(effects
 				(font
@@ -6873,6 +6963,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser PN" "603-AC0603FR-07590RL"
+			(at 120.65 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "bb4867dd-62c9-4234-b3ae-a17804e3ca74")
 		)
@@ -6923,7 +7022,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.ti.com/lit/gpn/sn74lvc14a"
 			(at 342.9 58.42 0)
 			(effects
 				(font
@@ -6932,7 +7031,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Schmitt trigger 1.65V~3.6V 6.2ns@3.3V,50pF 1uA 6 1 SOIC-14 Gates and Inverters RoHS"
 			(at 342.9 58.42 0)
 			(effects
 				(font
@@ -6941,7 +7040,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "TI"
 			(at 342.9 58.42 0)
 			(effects
 				(font
@@ -6950,7 +7049,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "SN74LVC14ADR"
 			(at 342.9 58.42 0)
 			(effects
 				(font
@@ -6977,7 +7076,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C133541"
 			(at 342.9 58.42 0)
 			(effects
 				(font
@@ -6986,7 +7085,7 @@
 				(hide yes)
 			)
 		)
-		(property "Package" ""
+		(property "Package" "SOIC-14"
 			(at 342.9 58.42 0)
 			(effects
 				(font
@@ -6995,7 +7094,7 @@
 				(hide yes)
 			)
 		)
-		(property "Type" ""
+		(property "Type" "SMD"
 			(at 342.9 58.42 0)
 			(effects
 				(font
@@ -7066,6 +7165,15 @@
 			)
 		)
 		(property "MOUSER_PART_NUMBER" ""
+			(at 342.9 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser PN" "595-SN74LVC14ADR"
 			(at 342.9 58.42 0)
 			(effects
 				(font
@@ -7162,7 +7270,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://cdn.sparkfun.com/assets/8/a/4/a/5/Kemet_Capacitor_Datasheet.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C2167095.pdf"
 			(at 77.47 139.7 0)
 			(effects
 				(font
@@ -7171,7 +7279,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "100nF ±5% 50V Ceramic Capacitor X7R 0805"
 			(at 77.47 144.78 0)
 			(effects
 				(font
@@ -7180,7 +7288,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "KEMET"
 			(at 77.47 125.73 0)
 			(effects
 				(font
@@ -7189,7 +7297,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CC0603JRX7R9BB104"
+		(property "MPN" "C0805C104J5RACTU"
 			(at 77.47 125.73 0)
 			(effects
 				(font
@@ -7216,7 +7324,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C91183"
+		(property "LCSC" "C2167095"
 			(at 77.47 125.73 0)
 			(effects
 				(font
@@ -7225,7 +7333,7 @@
 				(hide yes)
 			)
 		)
-		(property "Package" "0603"
+		(property "Package" "0805"
 			(at 77.47 125.73 0)
 			(effects
 				(font
@@ -7252,7 +7360,7 @@
 				(hide yes)
 			)
 		)
-		(property "Dielectric" "X7R 5%"
+		(property "Dielectric" "X7R"
 			(at 70.104 127.508 0)
 			(effects
 				(font
@@ -7279,7 +7387,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "25V"
+		(property "Voltage" "50V"
 			(at 77.47 132.08 0)
 			(effects
 				(font
@@ -7288,7 +7396,7 @@
 				(hide yes)
 			)
 		)
-		(property "Tolerance" "20%"
+		(property "Tolerance" "5%"
 			(at 77.47 134.62 0)
 			(effects
 				(font
@@ -7334,6 +7442,15 @@
 			)
 		)
 		(property "MOUSER_PART_NUMBER" ""
+			(at 77.47 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser PN" "80-C0805C104J5R"
 			(at 77.47 125.73 0)
 			(effects
 				(font
@@ -7395,7 +7512,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C20142011.pdf"
 			(at 172.72 153.67 0)
 			(effects
 				(font
@@ -7404,7 +7521,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "10kΩ 200mW Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS"
 			(at 172.72 153.67 0)
 			(effects
 				(font
@@ -7422,7 +7539,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "RC0603FR-0710KL"
+		(property "MPN" "AC0603FR-7W10KL"
 			(at 172.72 153.67 0)
 			(effects
 				(font
@@ -7449,7 +7566,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C98220"
+		(property "LCSC" "C20142011"
 			(at 172.72 153.67 0)
 			(effects
 				(font
@@ -7548,6 +7665,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser PN" "603-AC0603FR-7W10KL"
+			(at 172.72 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "545a9f83-e398-451a-a2a7-f2712a13e3ec")
 		)
@@ -7598,7 +7724,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.ti.com/lit/gpn/sn74lvc14a"
 			(at 314.96 132.08 0)
 			(effects
 				(font
@@ -7607,7 +7733,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Schmitt trigger 1.65V~3.6V 6.2ns@3.3V,50pF 1uA 6 1 SOIC-14 Gates and Inverters RoHS"
 			(at 314.96 132.08 0)
 			(effects
 				(font
@@ -7616,7 +7742,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "TI"
 			(at 314.96 132.08 0)
 			(effects
 				(font
@@ -7625,7 +7751,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "SN74LVC14ADR"
 			(at 314.96 132.08 0)
 			(effects
 				(font
@@ -7652,7 +7778,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C133541"
 			(at 314.96 132.08 0)
 			(effects
 				(font
@@ -7661,7 +7787,7 @@
 				(hide yes)
 			)
 		)
-		(property "Package" ""
+		(property "Package" "SOIC-14"
 			(at 314.96 132.08 0)
 			(effects
 				(font
@@ -7670,7 +7796,7 @@
 				(hide yes)
 			)
 		)
-		(property "Type" ""
+		(property "Type" "SMD"
 			(at 314.96 132.08 0)
 			(effects
 				(font
@@ -7741,6 +7867,15 @@
 			)
 		)
 		(property "MOUSER_PART_NUMBER" ""
+			(at 314.96 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser PN" "595-SN74LVC14ADR"
 			(at 314.96 132.08 0)
 			(effects
 				(font
@@ -7905,7 +8040,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C5714562.pdf"
 			(at 52.07 80.01 0)
 			(effects
 				(font
@@ -7914,7 +8049,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "Pin Header 3 Position 2.54mm Pitch Single Row Through Hole -55℃~+125℃"
 			(at 52.07 80.01 0)
 			(effects
 				(font
@@ -7959,7 +8094,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C6631883"
+		(property "LCSC" "C5714562"
 			(at 52.07 80.01 0)
 			(effects
 				(font
@@ -8057,6 +8192,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser PN" "200-HTSW10307GS"
+			(at 52.07 80.01 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "cbd185a9-556b-4ac7-8f20-316208e3b2a7")
 		)
@@ -8110,7 +8254,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.ti.com/lit/gpn/sn74lvc14a"
 			(at 224.79 58.42 0)
 			(effects
 				(font
@@ -8119,7 +8263,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Schmitt trigger 1.65V~3.6V 6.2ns@3.3V,50pF 1uA 6 1 SOIC-14 Gates and Inverters RoHS"
 			(at 224.79 58.42 0)
 			(effects
 				(font
@@ -8128,7 +8272,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "TI"
 			(at 224.79 58.42 0)
 			(effects
 				(font
@@ -8137,7 +8281,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "SN74LVC14ADR"
 			(at 224.79 58.42 0)
 			(effects
 				(font
@@ -8164,7 +8308,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C133541"
 			(at 224.79 58.42 0)
 			(effects
 				(font
@@ -8173,7 +8317,7 @@
 				(hide yes)
 			)
 		)
-		(property "Package" ""
+		(property "Package" "SOIC-14"
 			(at 224.79 58.42 0)
 			(effects
 				(font
@@ -8182,7 +8326,7 @@
 				(hide yes)
 			)
 		)
-		(property "Type" ""
+		(property "Type" "SMD"
 			(at 224.79 58.42 0)
 			(effects
 				(font
@@ -8253,6 +8397,15 @@
 			)
 		)
 		(property "MOUSER_PART_NUMBER" ""
+			(at 224.79 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser PN" "595-SN74LVC14ADR"
 			(at 224.79 58.42 0)
 			(effects
 				(font
@@ -8350,7 +8503,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C20142011.pdf"
 			(at 54.61 153.67 0)
 			(effects
 				(font
@@ -8359,7 +8512,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "10kΩ 200mW Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS"
 			(at 54.61 153.67 0)
 			(effects
 				(font
@@ -8377,7 +8530,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "RC0603FR-0710KL"
+		(property "MPN" "AC0603FR-7W10KL"
 			(at 54.61 153.67 0)
 			(effects
 				(font
@@ -8404,7 +8557,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C98220"
+		(property "LCSC" "C20142011"
 			(at 54.61 153.67 0)
 			(effects
 				(font
@@ -8503,6 +8656,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser PN" "603-AC0603FR-7W10KL"
+			(at 54.61 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "1453f5c9-2363-4e98-b812-0952060309ad")
 		)
@@ -8555,7 +8717,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C5714562.pdf"
 			(at 170.18 165.1 0)
 			(effects
 				(font
@@ -8564,7 +8726,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "Pin Header 3 Position 2.54mm Pitch Single Row Through Hole -55℃~+125℃"
 			(at 170.18 165.1 0)
 			(effects
 				(font
@@ -8609,7 +8771,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C6631883"
+		(property "LCSC" "C5714562"
 			(at 170.18 165.1 0)
 			(effects
 				(font
@@ -8707,6 +8869,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser PN" "200-HTSW10307GS"
+			(at 170.18 165.1 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "56c8b2cf-1298-4fee-ba1f-c8e2f2c3928a")
 		)
@@ -8760,7 +8931,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C5552302.pdf"
 			(at 179.07 55.88 0)
 			(effects
 				(font
@@ -8769,7 +8940,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "200mW 100kΩ Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS"
 			(at 179.07 55.88 0)
 			(effects
 				(font
@@ -8787,7 +8958,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "RC0603FR-07100KL"
+		(property "MPN" "AC0603FR-7W100KL"
 			(at 179.07 55.88 0)
 			(effects
 				(font
@@ -8814,7 +8985,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C14675"
+		(property "LCSC" "C5552302"
 			(at 179.07 55.88 0)
 			(effects
 				(font
@@ -8912,6 +9083,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser PN" "603-AC0603FR-7W100KL"
+			(at 179.07 55.88 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "ace5a471-2328-4a07-852c-74b036fe474a")
 		)
@@ -8972,7 +9152,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Dual schmitt inverter, VCC from 1.65 to 5.5 V, SOT-23"
+		(property "Description" "Schmitt trigger 10uA 1.65V~5.5V 2 2 4.7ns@5V,50pF SOT-23-6 Gates and Inverters RoHS"
 			(at 85.09 228.6 0)
 			(effects
 				(font
@@ -8981,7 +9161,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "TI"
 			(at 85.09 228.6 0)
 			(effects
 				(font
@@ -8990,7 +9170,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "SN74LVC2G14DBVR"
 			(at 85.09 228.6 0)
 			(effects
 				(font
@@ -9017,7 +9197,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C12401"
 			(at 85.09 228.6 0)
 			(effects
 				(font
@@ -9026,7 +9206,7 @@
 				(hide yes)
 			)
 		)
-		(property "Package" ""
+		(property "Package" "SOT-23-6"
 			(at 85.09 228.6 0)
 			(effects
 				(font
@@ -9035,7 +9215,7 @@
 				(hide yes)
 			)
 		)
-		(property "Type" ""
+		(property "Type" "SMD"
 			(at 85.09 228.6 0)
 			(effects
 				(font
@@ -9106,6 +9286,15 @@
 			)
 		)
 		(property "MOUSER_PART_NUMBER" ""
+			(at 85.09 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser PN" "595-SN74LVC2G14DBVR"
 			(at 85.09 228.6 0)
 			(effects
 				(font
@@ -9176,7 +9365,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.ti.com/lit/gpn/sn74lvc14a"
 			(at 316.23 46.99 0)
 			(effects
 				(font
@@ -9185,7 +9374,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Schmitt trigger 1.65V~3.6V 6.2ns@3.3V,50pF 1uA 6 1 SOIC-14 Gates and Inverters RoHS"
 			(at 316.23 46.99 0)
 			(effects
 				(font
@@ -9194,7 +9383,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "TI"
 			(at 316.23 46.99 0)
 			(effects
 				(font
@@ -9203,7 +9392,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "SN74LVC14ADR"
 			(at 316.23 46.99 0)
 			(effects
 				(font
@@ -9230,7 +9419,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C133541"
 			(at 316.23 46.99 0)
 			(effects
 				(font
@@ -9239,7 +9428,7 @@
 				(hide yes)
 			)
 		)
-		(property "Package" ""
+		(property "Package" "SOIC-14"
 			(at 316.23 46.99 0)
 			(effects
 				(font
@@ -9248,7 +9437,7 @@
 				(hide yes)
 			)
 		)
-		(property "Type" ""
+		(property "Type" "SMD"
 			(at 316.23 46.99 0)
 			(effects
 				(font
@@ -9319,6 +9508,15 @@
 			)
 		)
 		(property "MOUSER_PART_NUMBER" ""
+			(at 316.23 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser PN" "595-SN74LVC14ADR"
 			(at 316.23 46.99 0)
 			(effects
 				(font
@@ -9413,7 +9611,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C20142017.pdf"
 			(at 60.96 36.83 0)
 			(effects
 				(font
@@ -9422,7 +9620,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "200mW 1MΩ Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS"
 			(at 60.96 36.83 0)
 			(effects
 				(font
@@ -9440,7 +9638,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "RC0603FR-071ML"
+		(property "MPN" "AC0603FR-7W1ML"
 			(at 60.96 36.83 0)
 			(effects
 				(font
@@ -9467,7 +9665,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C14675"
+		(property "LCSC" "C20142017"
 			(at 60.96 36.83 0)
 			(effects
 				(font
@@ -9476,7 +9674,7 @@
 				(hide yes)
 			)
 		)
-		(property "Package" "C105578"
+		(property "Package" "0603"
 			(at 60.96 36.83 0)
 			(effects
 				(font
@@ -9565,6 +9763,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser PN" "603-AC0603FR-7W1ML"
+			(at 60.96 36.83 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "8b56c22e-17b3-42f7-8c73-637ba46db0ac")
 		)
@@ -9618,7 +9825,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C20142011.pdf"
 			(at 172.72 68.58 0)
 			(effects
 				(font
@@ -9627,7 +9834,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "10kΩ 200mW Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS"
 			(at 172.72 68.58 0)
 			(effects
 				(font
@@ -9645,7 +9852,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "RC0603FR-0710KL"
+		(property "MPN" "AC0603FR-7W10KL"
 			(at 172.72 68.58 0)
 			(effects
 				(font
@@ -9672,7 +9879,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C98220"
+		(property "LCSC" "C20142011"
 			(at 172.72 68.58 0)
 			(effects
 				(font
@@ -9771,6 +9978,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser PN" "603-AC0603FR-7W10KL"
+			(at 172.72 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "ccfe88d5-30d1-418d-849d-ee611632f514")
 		)
@@ -9823,7 +10039,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C20142011.pdf"
 			(at 167.64 68.58 0)
 			(effects
 				(font
@@ -9832,7 +10048,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "10kΩ 200mW Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS"
 			(at 167.64 68.58 0)
 			(effects
 				(font
@@ -9850,7 +10066,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "RC0603FR-0710KL"
+		(property "MPN" "AC0603FR-7W10KL"
 			(at 167.64 68.58 0)
 			(effects
 				(font
@@ -9877,7 +10093,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C98220"
+		(property "LCSC" "C20142011"
 			(at 167.64 68.58 0)
 			(effects
 				(font
@@ -9976,6 +10192,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser PN" "603-AC0603FR-7W10KL"
+			(at 167.64 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "cac1735a-5e6b-45fe-b728-0e7d4cf2e273")
 		)
@@ -10037,7 +10262,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Light emitting diode"
+		(property "Description" "Emerald Green 530nm LED Indication - Discrete 2.7V 0603"
 			(at 251.46 137.16 0)
 			(effects
 				(font
@@ -10144,7 +10369,7 @@
 				)
 			)
 		)
-		(property "Color" "green"
+		(property "Color" "Green"
 			(at 247.396 138.684 90)
 			(effects
 				(font
@@ -10190,6 +10415,24 @@
 			)
 		)
 		(property "MOUSER_PART_NUMBER" ""
+			(at 238.76 137.16 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser PN" "743-IN-S63AT5G"
+			(at 238.76 137.16 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" "2,7V"
 			(at 238.76 137.16 90)
 			(effects
 				(font
@@ -10259,7 +10502,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Light emitting diode"
+		(property "Description" "Amber 609nm LED Indication - Discrete 2V 0603"
 			(at 354.33 52.07 0)
 			(effects
 				(font
@@ -10366,7 +10609,7 @@
 				)
 			)
 		)
-		(property "Color" "amber"
+		(property "Color" "Amber"
 			(at 349.504 52.832 90)
 			(effects
 				(font
@@ -10412,6 +10655,24 @@
 			)
 		)
 		(property "MOUSER_PART_NUMBER" ""
+			(at 341.63 52.07 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser PN" "743-IN-S63AT5A"
+			(at 341.63 52.07 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" "2,0V"
 			(at 341.63 52.07 90)
 			(effects
 				(font
@@ -10472,7 +10733,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C5714562.pdf"
 			(at 288.29 165.1 0)
 			(effects
 				(font
@@ -10481,7 +10742,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "Pin Header 3 Position 2.54mm Pitch Single Row Through Hole -55℃~+125℃"
 			(at 288.29 165.1 0)
 			(effects
 				(font
@@ -10526,7 +10787,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C6631883"
+		(property "LCSC" "C5714562"
 			(at 288.29 165.1 0)
 			(effects
 				(font
@@ -10616,6 +10877,15 @@
 			)
 		)
 		(property "MOUSER_PART_NUMBER" ""
+			(at 288.29 165.1 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser PN" "200-HTSW10307GS"
 			(at 288.29 165.1 90)
 			(effects
 				(font
@@ -10746,7 +11016,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://cdn.sparkfun.com/assets/8/a/4/a/5/Kemet_Capacitor_Datasheet.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C2167095.pdf"
 			(at 77.47 54.61 0)
 			(effects
 				(font
@@ -10755,7 +11025,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "100nF ±5% 50V Ceramic Capacitor X7R 0805"
 			(at 77.47 59.69 0)
 			(effects
 				(font
@@ -10764,7 +11034,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "KEMET"
 			(at 77.47 40.64 0)
 			(effects
 				(font
@@ -10773,7 +11043,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CC0603JRX7R9BB104"
+		(property "MPN" "C0805C104J5RACTU"
 			(at 77.47 40.64 0)
 			(effects
 				(font
@@ -10800,7 +11070,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C91183"
+		(property "LCSC" "C2167095"
 			(at 77.47 40.64 0)
 			(effects
 				(font
@@ -10809,7 +11079,7 @@
 				(hide yes)
 			)
 		)
-		(property "Package" "0603"
+		(property "Package" "0805"
 			(at 77.47 40.64 0)
 			(effects
 				(font
@@ -10836,7 +11106,7 @@
 				(hide yes)
 			)
 		)
-		(property "Dielectric" "X7R 5%"
+		(property "Dielectric" "X7R"
 			(at 70.104 42.418 0)
 			(effects
 				(font
@@ -10863,7 +11133,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "25V"
+		(property "Voltage" "50V"
 			(at 77.47 46.99 0)
 			(effects
 				(font
@@ -10872,7 +11142,7 @@
 				(hide yes)
 			)
 		)
-		(property "Tolerance" "20%"
+		(property "Tolerance" "5%"
 			(at 77.47 49.53 0)
 			(effects
 				(font
@@ -10918,6 +11188,15 @@
 			)
 		)
 		(property "MOUSER_PART_NUMBER" ""
+			(at 77.47 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser PN" "80-C0805C104J5R"
 			(at 77.47 40.64 0)
 			(effects
 				(font
@@ -10976,7 +11255,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.ti.com/lit/gpn/sn74lvc14a"
 			(at 198.12 46.99 0)
 			(effects
 				(font
@@ -10985,7 +11264,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Schmitt trigger 1.65V~3.6V 6.2ns@3.3V,50pF 1uA 6 1 SOIC-14 Gates and Inverters RoHS"
 			(at 198.12 46.99 0)
 			(effects
 				(font
@@ -10994,7 +11273,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "TI"
 			(at 198.12 46.99 0)
 			(effects
 				(font
@@ -11003,7 +11282,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "SN74LVC14ADR"
 			(at 198.12 46.99 0)
 			(effects
 				(font
@@ -11030,7 +11309,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C133541"
 			(at 198.12 46.99 0)
 			(effects
 				(font
@@ -11039,7 +11318,7 @@
 				(hide yes)
 			)
 		)
-		(property "Package" ""
+		(property "Package" "SOIC-14"
 			(at 198.12 46.99 0)
 			(effects
 				(font
@@ -11048,7 +11327,7 @@
 				(hide yes)
 			)
 		)
-		(property "Type" ""
+		(property "Type" "SMD"
 			(at 198.12 46.99 0)
 			(effects
 				(font
@@ -11119,6 +11398,15 @@
 			)
 		)
 		(property "MOUSER_PART_NUMBER" ""
+			(at 198.12 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser PN" "595-SN74LVC14ADR"
 			(at 198.12 46.99 0)
 			(effects
 				(font
@@ -11213,7 +11501,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C20142017.pdf"
 			(at 179.07 121.92 0)
 			(effects
 				(font
@@ -11222,7 +11510,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "200mW 1MΩ Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS"
 			(at 179.07 121.92 0)
 			(effects
 				(font
@@ -11240,7 +11528,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "RC0603FR-071ML"
+		(property "MPN" "AC0603FR-7W1ML"
 			(at 179.07 121.92 0)
 			(effects
 				(font
@@ -11267,7 +11555,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C14675"
+		(property "LCSC" "C20142017"
 			(at 179.07 121.92 0)
 			(effects
 				(font
@@ -11276,7 +11564,7 @@
 				(hide yes)
 			)
 		)
-		(property "Package" "C105578"
+		(property "Package" "0603"
 			(at 179.07 121.92 0)
 			(effects
 				(font
@@ -11365,6 +11653,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser PN" "603-AC0603FR-7W1ML"
+			(at 179.07 121.92 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "859520e8-8a32-4167-af26-223a5111ee19")
 		)
@@ -11426,7 +11723,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Light emitting diode"
+		(property "Description" "Emerald Green 530nm LED Indication - Discrete 2.7V 0603"
 			(at 133.35 222.25 0)
 			(effects
 				(font
@@ -11533,7 +11830,7 @@
 				)
 			)
 		)
-		(property "Color" "green"
+		(property "Color" "Green"
 			(at 129.286 223.774 90)
 			(effects
 				(font
@@ -11579,6 +11876,24 @@
 			)
 		)
 		(property "MOUSER_PART_NUMBER" ""
+			(at 120.65 222.25 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser PN" "743-IN-S63AT5G"
+			(at 120.65 222.25 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" "2,7V"
 			(at 120.65 222.25 90)
 			(effects
 				(font
@@ -11784,7 +12099,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Light emitting diode"
+		(property "Description" "Amber 609nm LED Indication - Discrete 2V 0603"
 			(at 118.11 222.25 0)
 			(effects
 				(font
@@ -11891,7 +12206,7 @@
 				)
 			)
 		)
-		(property "Color" "amber"
+		(property "Color" "Amber"
 			(at 113.284 223.012 90)
 			(effects
 				(font
@@ -11937,6 +12252,24 @@
 			)
 		)
 		(property "MOUSER_PART_NUMBER" ""
+			(at 105.41 222.25 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser PN" "743-IN-S63AT5A"
+			(at 105.41 222.25 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" "2,0V"
 			(at 105.41 222.25 90)
 			(effects
 				(font
@@ -11995,7 +12328,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C5552302.pdf"
 			(at 297.18 140.97 0)
 			(effects
 				(font
@@ -12004,7 +12337,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "200mW 100kΩ Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS"
 			(at 297.18 140.97 0)
 			(effects
 				(font
@@ -12022,7 +12355,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "RC0603FR-07100KL"
+		(property "MPN" "AC0603FR-7W100KL"
 			(at 297.18 140.97 0)
 			(effects
 				(font
@@ -12049,7 +12382,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C14675"
+		(property "LCSC" "C5552302"
 			(at 297.18 140.97 0)
 			(effects
 				(font
@@ -12147,6 +12480,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser PN" "603-AC0603FR-7W100KL"
+			(at 297.18 140.97 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "9d4285cf-eba3-49eb-a330-bd2d71635e3e")
 		)
@@ -12208,7 +12550,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Light emitting diode"
+		(property "Description" "Amber 609nm LED Indication - Discrete 2V 0603"
 			(at 236.22 137.16 0)
 			(effects
 				(font
@@ -12315,7 +12657,7 @@
 				)
 			)
 		)
-		(property "Color" "amber"
+		(property "Color" "Amber"
 			(at 231.394 137.922 90)
 			(effects
 				(font
@@ -12361,6 +12703,24 @@
 			)
 		)
 		(property "MOUSER_PART_NUMBER" ""
+			(at 223.52 137.16 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser PN" "743-IN-S63AT5A"
+			(at 223.52 137.16 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" "2,0V"
 			(at 223.52 137.16 90)
 			(effects
 				(font
@@ -12419,7 +12779,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.ti.com/lit/gpn/sn74lvc14a"
 			(at 106.68 57.15 0)
 			(effects
 				(font
@@ -12428,7 +12788,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Schmitt trigger 1.65V~3.6V 6.2ns@3.3V,50pF 1uA 6 1 SOIC-14 Gates and Inverters RoHS"
 			(at 106.68 57.15 0)
 			(effects
 				(font
@@ -12437,7 +12797,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "TI"
 			(at 106.68 57.15 0)
 			(effects
 				(font
@@ -12446,7 +12806,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "SN74LVC14ADR"
 			(at 106.68 57.15 0)
 			(effects
 				(font
@@ -12473,7 +12833,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C133541"
 			(at 106.68 57.15 0)
 			(effects
 				(font
@@ -12482,7 +12842,7 @@
 				(hide yes)
 			)
 		)
-		(property "Package" ""
+		(property "Package" "SOIC-14"
 			(at 106.68 57.15 0)
 			(effects
 				(font
@@ -12491,7 +12851,7 @@
 				(hide yes)
 			)
 		)
-		(property "Type" ""
+		(property "Type" "SMD"
 			(at 106.68 57.15 0)
 			(effects
 				(font
@@ -12562,6 +12922,15 @@
 			)
 		)
 		(property "MOUSER_PART_NUMBER" ""
+			(at 106.68 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser PN" "595-SN74LVC14ADR"
 			(at 106.68 57.15 0)
 			(effects
 				(font
@@ -12656,7 +13025,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.ti.com/lit/gpn/sn74lvc14a"
 			(at 106.68 142.24 0)
 			(effects
 				(font
@@ -12665,7 +13034,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Schmitt trigger 1.65V~3.6V 6.2ns@3.3V,50pF 1uA 6 1 SOIC-14 Gates and Inverters RoHS"
 			(at 106.68 142.24 0)
 			(effects
 				(font
@@ -12674,7 +13043,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "TI"
 			(at 106.68 142.24 0)
 			(effects
 				(font
@@ -12683,7 +13052,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "SN74LVC14ADR"
 			(at 106.68 142.24 0)
 			(effects
 				(font
@@ -12710,7 +13079,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C133541"
 			(at 106.68 142.24 0)
 			(effects
 				(font
@@ -12719,7 +13088,7 @@
 				(hide yes)
 			)
 		)
-		(property "Package" ""
+		(property "Package" "SOIC-14"
 			(at 106.68 142.24 0)
 			(effects
 				(font
@@ -12728,7 +13097,7 @@
 				(hide yes)
 			)
 		)
-		(property "Type" ""
+		(property "Type" "SMD"
 			(at 106.68 142.24 0)
 			(effects
 				(font
@@ -12799,6 +13168,15 @@
 			)
 		)
 		(property "MOUSER_PART_NUMBER" ""
+			(at 106.68 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser PN" "595-SN74LVC14ADR"
 			(at 106.68 142.24 0)
 			(effects
 				(font
@@ -12895,7 +13273,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C5714562.pdf"
 			(at 52.07 165.1 0)
 			(effects
 				(font
@@ -12904,7 +13282,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "Pin Header 3 Position 2.54mm Pitch Single Row Through Hole -55℃~+125℃"
 			(at 52.07 165.1 0)
 			(effects
 				(font
@@ -12949,7 +13327,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C6631883"
+		(property "LCSC" "C5714562"
 			(at 52.07 165.1 0)
 			(effects
 				(font
@@ -13047,6 +13425,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser PN" "200-HTSW10307GS"
+			(at 52.07 165.1 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4b70c4e4-713e-4cf0-9893-a0a163165975")
 		)
@@ -13100,7 +13487,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C5552302.pdf"
 			(at 60.96 226.06 0)
 			(effects
 				(font
@@ -13109,7 +13496,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "200mW 100kΩ Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS"
 			(at 60.96 226.06 0)
 			(effects
 				(font
@@ -13127,7 +13514,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "RC0603FR-07100KL"
+		(property "MPN" "AC0603FR-7W100KL"
 			(at 60.96 226.06 0)
 			(effects
 				(font
@@ -13154,7 +13541,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C14675"
+		(property "LCSC" "C5552302"
 			(at 60.96 226.06 0)
 			(effects
 				(font
@@ -13244,6 +13631,15 @@
 			)
 		)
 		(property "MOUSER_PART_NUMBER" ""
+			(at 60.96 226.06 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser PN" "603-AC0603FR-7W100KL"
 			(at 60.96 226.06 90)
 			(effects
 				(font
@@ -13370,7 +13766,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C5552302.pdf"
 			(at 179.07 140.97 0)
 			(effects
 				(font
@@ -13379,7 +13775,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "200mW 100kΩ Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS"
 			(at 179.07 140.97 0)
 			(effects
 				(font
@@ -13397,7 +13793,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "RC0603FR-07100KL"
+		(property "MPN" "AC0603FR-7W100KL"
 			(at 179.07 140.97 0)
 			(effects
 				(font
@@ -13424,7 +13820,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C14675"
+		(property "LCSC" "C5552302"
 			(at 179.07 140.97 0)
 			(effects
 				(font
@@ -13522,6 +13918,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser PN" "603-AC0603FR-7W100KL"
+			(at 179.07 140.97 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "9d03745d-92cb-44b2-9d82-1a98a0ef1e19")
 		)
@@ -13574,7 +13979,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C227579.pdf"
 			(at 105.41 213.36 0)
 			(effects
 				(font
@@ -13583,7 +13988,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "137kΩ 100mW 75V Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS"
 			(at 105.41 213.36 0)
 			(effects
 				(font
@@ -13601,7 +14006,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "AC0603FR-07137RL"
+		(property "MPN" "AC0603FR-07137KL"
 			(at 105.41 213.36 0)
 			(effects
 				(font
@@ -13628,7 +14033,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C227580"
+		(property "LCSC" "C227579"
 			(at 105.41 213.36 0)
 			(effects
 				(font
@@ -13727,6 +14132,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser PN" "603-AC0603FR-07137KL"
+			(at 105.41 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b2fe4489-a000-4795-a045-f7e851f7bdb0")
 		)
@@ -13777,7 +14191,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C20142017.pdf"
 			(at 60.96 207.01 0)
 			(effects
 				(font
@@ -13786,7 +14200,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "200mW 1MΩ Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS"
 			(at 60.96 207.01 0)
 			(effects
 				(font
@@ -13804,7 +14218,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "RC0603FR-071ML"
+		(property "MPN" "AC0603FR-7W1ML"
 			(at 60.96 207.01 0)
 			(effects
 				(font
@@ -13831,7 +14245,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C14675"
+		(property "LCSC" "C20142017"
 			(at 60.96 207.01 0)
 			(effects
 				(font
@@ -13840,7 +14254,7 @@
 				(hide yes)
 			)
 		)
-		(property "Package" "C105578"
+		(property "Package" "0603"
 			(at 60.96 207.01 0)
 			(effects
 				(font
@@ -13929,6 +14343,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser PN" "603-AC0603FR-7W1ML"
+			(at 60.96 207.01 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "ee126e4a-6522-48ac-a42d-399db0e14766")
 		)
@@ -13979,7 +14402,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.ti.com/lit/gpn/sn74lvc14a"
 			(at 342.9 144.78 0)
 			(effects
 				(font
@@ -13988,7 +14411,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Schmitt trigger 1.65V~3.6V 6.2ns@3.3V,50pF 1uA 6 1 SOIC-14 Gates and Inverters RoHS"
 			(at 342.9 144.78 0)
 			(effects
 				(font
@@ -13997,7 +14420,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "TI"
 			(at 342.9 144.78 0)
 			(effects
 				(font
@@ -14006,7 +14429,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "SN74LVC14ADR"
 			(at 342.9 144.78 0)
 			(effects
 				(font
@@ -14033,7 +14456,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C133541"
 			(at 342.9 144.78 0)
 			(effects
 				(font
@@ -14042,7 +14465,7 @@
 				(hide yes)
 			)
 		)
-		(property "Package" ""
+		(property "Package" "SOIC-14"
 			(at 342.9 144.78 0)
 			(effects
 				(font
@@ -14051,7 +14474,7 @@
 				(hide yes)
 			)
 		)
-		(property "Type" ""
+		(property "Type" "SMD"
 			(at 342.9 144.78 0)
 			(effects
 				(font
@@ -14122,6 +14545,15 @@
 			)
 		)
 		(property "MOUSER_PART_NUMBER" ""
+			(at 342.9 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser PN" "595-SN74LVC14ADR"
 			(at 342.9 144.78 0)
 			(effects
 				(font
@@ -14227,7 +14659,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Light emitting diode"
+		(property "Description" "Amber 609nm LED Indication - Discrete 2V 0603"
 			(at 118.11 137.16 0)
 			(effects
 				(font
@@ -14334,7 +14766,7 @@
 				)
 			)
 		)
-		(property "Color" "amber"
+		(property "Color" "Amber"
 			(at 113.284 137.922 90)
 			(effects
 				(font
@@ -14380,6 +14812,24 @@
 			)
 		)
 		(property "MOUSER_PART_NUMBER" ""
+			(at 105.41 137.16 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser PN" "743-IN-S63AT5A"
+			(at 105.41 137.16 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" "2,0V"
 			(at 105.41 137.16 90)
 			(effects
 				(font
@@ -14440,7 +14890,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C5714562.pdf"
 			(at 170.18 80.01 0)
 			(effects
 				(font
@@ -14449,7 +14899,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "Pin Header 3 Position 2.54mm Pitch Single Row Through Hole -55℃~+125℃"
 			(at 170.18 80.01 0)
 			(effects
 				(font
@@ -14494,7 +14944,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C6631883"
+		(property "LCSC" "C5714562"
 			(at 170.18 80.01 0)
 			(effects
 				(font
@@ -14584,6 +15034,15 @@
 			)
 		)
 		(property "MOUSER_PART_NUMBER" ""
+			(at 170.18 80.01 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser PN" "200-HTSW10307GS"
 			(at 170.18 80.01 90)
 			(effects
 				(font
@@ -14715,7 +15174,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C227579.pdf"
 			(at 341.63 128.27 0)
 			(effects
 				(font
@@ -14724,7 +15183,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "137kΩ 100mW 75V Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS"
 			(at 341.63 128.27 0)
 			(effects
 				(font
@@ -14742,7 +15201,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "AC0603FR-07137RL"
+		(property "MPN" "AC0603FR-07137KL"
 			(at 341.63 128.27 0)
 			(effects
 				(font
@@ -14769,7 +15228,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C227580"
+		(property "LCSC" "C227579"
 			(at 341.63 128.27 0)
 			(effects
 				(font
@@ -14868,6 +15327,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser PN" "603-AC0603FR-07137KL"
+			(at 341.63 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8944b889-9d62-4ff2-a363-804b4e645998")
 		)
@@ -14920,7 +15388,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C227579.pdf"
 			(at 223.52 128.27 0)
 			(effects
 				(font
@@ -14929,7 +15397,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "137kΩ 100mW 75V Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS"
 			(at 223.52 128.27 0)
 			(effects
 				(font
@@ -14947,7 +15415,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "AC0603FR-07137RL"
+		(property "MPN" "AC0603FR-07137KL"
 			(at 223.52 128.27 0)
 			(effects
 				(font
@@ -14974,7 +15442,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C227580"
+		(property "LCSC" "C227579"
 			(at 223.52 128.27 0)
 			(effects
 				(font
@@ -15073,6 +15541,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser PN" "603-AC0603FR-07137KL"
+			(at 223.52 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a4ec63fb-0175-41a9-8f1d-c037a1e38124")
 		)
@@ -15123,7 +15600,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C5552302.pdf"
 			(at 60.96 55.88 0)
 			(effects
 				(font
@@ -15132,7 +15609,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "200mW 100kΩ Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS"
 			(at 60.96 55.88 0)
 			(effects
 				(font
@@ -15150,7 +15627,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "RC0603FR-07100KL"
+		(property "MPN" "AC0603FR-7W100KL"
 			(at 60.96 55.88 0)
 			(effects
 				(font
@@ -15177,7 +15654,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C14675"
+		(property "LCSC" "C5552302"
 			(at 60.96 55.88 0)
 			(effects
 				(font
@@ -15275,6 +15752,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser PN" "603-AC0603FR-7W100KL"
+			(at 60.96 55.88 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "763abb88-37fe-42e7-959a-be0c452adefb")
 		)
@@ -15328,7 +15814,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C20142011.pdf"
 			(at 290.83 68.58 0)
 			(effects
 				(font
@@ -15337,7 +15823,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "10kΩ 200mW Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS"
 			(at 290.83 68.58 0)
 			(effects
 				(font
@@ -15355,7 +15841,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "RC0603FR-0710KL"
+		(property "MPN" "AC0603FR-7W10KL"
 			(at 290.83 68.58 0)
 			(effects
 				(font
@@ -15382,7 +15868,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C98220"
+		(property "LCSC" "C20142011"
 			(at 290.83 68.58 0)
 			(effects
 				(font
@@ -15481,6 +15967,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser PN" "603-AC0603FR-7W10KL"
+			(at 290.83 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "27ccd947-e9e9-45a0-81fe-431c25b5bdfa")
 		)
@@ -15533,7 +16028,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C227579.pdf"
 			(at 105.41 128.27 0)
 			(effects
 				(font
@@ -15542,7 +16037,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "137kΩ 100mW 75V Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS"
 			(at 105.41 128.27 0)
 			(effects
 				(font
@@ -15560,7 +16055,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "AC0603FR-07137RL"
+		(property "MPN" "AC0603FR-07137KL"
 			(at 105.41 128.27 0)
 			(effects
 				(font
@@ -15587,7 +16082,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C227580"
+		(property "LCSC" "C227579"
 			(at 105.41 128.27 0)
 			(effects
 				(font
@@ -15686,6 +16181,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser PN" "603-AC0603FR-07137KL"
+			(at 105.41 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "da77c5e3-66d1-4b1f-b728-5c4b4286604a")
 		)
@@ -15736,7 +16240,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C5552302.pdf"
 			(at 297.18 55.88 0)
 			(effects
 				(font
@@ -15745,7 +16249,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "200mW 100kΩ Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS"
 			(at 297.18 55.88 0)
 			(effects
 				(font
@@ -15763,7 +16267,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "RC0603FR-07100KL"
+		(property "MPN" "AC0603FR-7W100KL"
 			(at 297.18 55.88 0)
 			(effects
 				(font
@@ -15790,7 +16294,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C14675"
+		(property "LCSC" "C5552302"
 			(at 297.18 55.88 0)
 			(effects
 				(font
@@ -15888,6 +16392,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser PN" "603-AC0603FR-7W100KL"
+			(at 297.18 55.88 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "67d4ec0d-417f-4d6a-9aa7-091347b80c7a")
 		)
@@ -15937,7 +16450,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.ti.com/lit/gpn/sn74lvc14a"
 			(at 80.01 132.08 0)
 			(effects
 				(font
@@ -15946,7 +16459,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Schmitt trigger 1.65V~3.6V 6.2ns@3.3V,50pF 1uA 6 1 SOIC-14 Gates and Inverters RoHS"
 			(at 80.01 132.08 0)
 			(effects
 				(font
@@ -15955,7 +16468,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "TI"
 			(at 80.01 132.08 0)
 			(effects
 				(font
@@ -15964,7 +16477,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "SN74LVC14ADR"
 			(at 80.01 132.08 0)
 			(effects
 				(font
@@ -15991,7 +16504,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C133541"
 			(at 80.01 132.08 0)
 			(effects
 				(font
@@ -16000,7 +16513,7 @@
 				(hide yes)
 			)
 		)
-		(property "Package" ""
+		(property "Package" "SOIC-14"
 			(at 80.01 132.08 0)
 			(effects
 				(font
@@ -16009,7 +16522,7 @@
 				(hide yes)
 			)
 		)
-		(property "Type" ""
+		(property "Type" "SMD"
 			(at 80.01 132.08 0)
 			(effects
 				(font
@@ -16080,6 +16593,15 @@
 			)
 		)
 		(property "MOUSER_PART_NUMBER" ""
+			(at 80.01 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser PN" "595-SN74LVC14ADR"
 			(at 80.01 132.08 0)
 			(effects
 				(font
@@ -16241,7 +16763,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.ti.com/lit/gpn/sn74lvc14a"
 			(at 198.12 132.08 0)
 			(effects
 				(font
@@ -16250,7 +16772,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Schmitt trigger 1.65V~3.6V 6.2ns@3.3V,50pF 1uA 6 1 SOIC-14 Gates and Inverters RoHS"
 			(at 198.12 132.08 0)
 			(effects
 				(font
@@ -16259,7 +16781,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "TI"
 			(at 198.12 132.08 0)
 			(effects
 				(font
@@ -16268,7 +16790,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "SN74LVC14ADR"
 			(at 198.12 132.08 0)
 			(effects
 				(font
@@ -16295,7 +16817,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C133541"
 			(at 198.12 132.08 0)
 			(effects
 				(font
@@ -16304,7 +16826,7 @@
 				(hide yes)
 			)
 		)
-		(property "Package" ""
+		(property "Package" "SOIC-14"
 			(at 198.12 132.08 0)
 			(effects
 				(font
@@ -16313,7 +16835,7 @@
 				(hide yes)
 			)
 		)
-		(property "Type" ""
+		(property "Type" "SMD"
 			(at 198.12 132.08 0)
 			(effects
 				(font
@@ -16384,6 +16906,15 @@
 			)
 		)
 		(property "MOUSER_PART_NUMBER" ""
+			(at 198.12 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser PN" "595-SN74LVC14ADR"
 			(at 198.12 132.08 0)
 			(effects
 				(font
@@ -16480,7 +17011,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C227973.pdf"
 			(at 238.76 43.18 0)
 			(effects
 				(font
@@ -16489,7 +17020,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "590Ω 100mW 75V Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS"
 			(at 238.76 43.18 0)
 			(effects
 				(font
@@ -16507,7 +17038,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "RC0603FR-071KL"
+		(property "MPN" "AC0603FR-07590RL"
 			(at 238.76 43.18 0)
 			(effects
 				(font
@@ -16534,7 +17065,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C22548"
+		(property "LCSC" "C227973"
 			(at 238.76 43.18 0)
 			(effects
 				(font
@@ -16633,6 +17164,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser PN" "603-AC0603FR-07590RL"
+			(at 238.76 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "03952809-a92c-483e-b411-07d93f969652")
 		)
@@ -16682,7 +17222,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.ti.com/lit/gpn/sn74lvc14a"
 			(at 80.01 46.99 0)
 			(effects
 				(font
@@ -16691,7 +17231,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Schmitt trigger 1.65V~3.6V 6.2ns@3.3V,50pF 1uA 6 1 SOIC-14 Gates and Inverters RoHS"
 			(at 80.01 46.99 0)
 			(effects
 				(font
@@ -16700,7 +17240,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "TI"
 			(at 80.01 46.99 0)
 			(effects
 				(font
@@ -16709,7 +17249,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "SN74LVC14ADR"
 			(at 80.01 46.99 0)
 			(effects
 				(font
@@ -16736,7 +17276,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C133541"
 			(at 80.01 46.99 0)
 			(effects
 				(font
@@ -16745,7 +17285,7 @@
 				(hide yes)
 			)
 		)
-		(property "Package" ""
+		(property "Package" "SOIC-14"
 			(at 80.01 46.99 0)
 			(effects
 				(font
@@ -16754,7 +17294,7 @@
 				(hide yes)
 			)
 		)
-		(property "Type" ""
+		(property "Type" "SMD"
 			(at 80.01 46.99 0)
 			(effects
 				(font
@@ -16825,6 +17365,15 @@
 			)
 		)
 		(property "MOUSER_PART_NUMBER" ""
+			(at 80.01 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser PN" "595-SN74LVC14ADR"
 			(at 80.01 46.99 0)
 			(effects
 				(font
@@ -16921,7 +17470,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C227579.pdf"
 			(at 223.52 43.18 0)
 			(effects
 				(font
@@ -16930,7 +17479,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "137kΩ 100mW 75V Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS"
 			(at 223.52 43.18 0)
 			(effects
 				(font
@@ -16948,7 +17497,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "AC0603FR-07137RL"
+		(property "MPN" "AC0603FR-07137KL"
 			(at 223.52 43.18 0)
 			(effects
 				(font
@@ -16975,7 +17524,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C227580"
+		(property "LCSC" "C227579"
 			(at 223.52 43.18 0)
 			(effects
 				(font
@@ -17074,6 +17623,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser PN" "603-AC0603FR-07137KL"
+			(at 223.52 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "7c8c998d-92c1-4d7d-acb5-ab670f541ec9")
 		)
@@ -17126,7 +17684,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C227973.pdf"
 			(at 356.87 128.27 0)
 			(effects
 				(font
@@ -17135,7 +17693,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "590Ω 100mW 75V Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS"
 			(at 356.87 128.27 0)
 			(effects
 				(font
@@ -17153,7 +17711,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "RC0603FR-071KL"
+		(property "MPN" "AC0603FR-07590RL"
 			(at 356.87 128.27 0)
 			(effects
 				(font
@@ -17180,7 +17738,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C22548"
+		(property "LCSC" "C227973"
 			(at 356.87 128.27 0)
 			(effects
 				(font
@@ -17279,6 +17837,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser PN" "603-AC0603FR-07590RL"
+			(at 356.87 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5351225f-0380-4bf4-8020-8c2324588e6f")
 		)
@@ -17331,7 +17898,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C20142011.pdf"
 			(at 167.64 153.67 0)
 			(effects
 				(font
@@ -17340,7 +17907,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "10kΩ 200mW Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS"
 			(at 167.64 153.67 0)
 			(effects
 				(font
@@ -17358,7 +17925,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "RC0603FR-0710KL"
+		(property "MPN" "AC0603FR-7W10KL"
 			(at 167.64 153.67 0)
 			(effects
 				(font
@@ -17385,7 +17952,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C98220"
+		(property "LCSC" "C20142011"
 			(at 167.64 153.67 0)
 			(effects
 				(font
@@ -17476,6 +18043,15 @@
 			)
 		)
 		(property "MOUSER_PART_NUMBER" ""
+			(at 167.64 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser PN" "603-AC0603FR-7W10KL"
 			(at 167.64 153.67 0)
 			(effects
 				(font
@@ -17601,7 +18177,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C5552302.pdf"
 			(at 60.96 140.97 0)
 			(effects
 				(font
@@ -17610,7 +18186,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "200mW 100kΩ Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS"
 			(at 60.96 140.97 0)
 			(effects
 				(font
@@ -17628,7 +18204,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "RC0603FR-07100KL"
+		(property "MPN" "AC0603FR-7W100KL"
 			(at 60.96 140.97 0)
 			(effects
 				(font
@@ -17655,7 +18231,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C14675"
+		(property "LCSC" "C5552302"
 			(at 60.96 140.97 0)
 			(effects
 				(font
@@ -17753,6 +18329,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser PN" "603-AC0603FR-7W100KL"
+			(at 60.96 140.97 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "1840e405-7156-404d-a938-a5f2810b676b")
 		)
@@ -17805,7 +18390,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C20142011.pdf"
 			(at 49.53 68.58 0)
 			(effects
 				(font
@@ -17814,7 +18399,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "10kΩ 200mW Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS"
 			(at 49.53 68.58 0)
 			(effects
 				(font
@@ -17832,7 +18417,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "RC0603FR-0710KL"
+		(property "MPN" "AC0603FR-7W10KL"
 			(at 49.53 68.58 0)
 			(effects
 				(font
@@ -17859,7 +18444,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C98220"
+		(property "LCSC" "C20142011"
 			(at 49.53 68.58 0)
 			(effects
 				(font
@@ -17958,6 +18543,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser PN" "603-AC0603FR-7W10KL"
+			(at 49.53 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "c5962a45-ecc3-487a-8767-dc636869fdec")
 		)
@@ -18010,7 +18604,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C20142011.pdf"
 			(at 285.75 68.58 0)
 			(effects
 				(font
@@ -18019,7 +18613,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "10kΩ 200mW Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS"
 			(at 285.75 68.58 0)
 			(effects
 				(font
@@ -18037,7 +18631,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "RC0603FR-0710KL"
+		(property "MPN" "AC0603FR-7W10KL"
 			(at 285.75 68.58 0)
 			(effects
 				(font
@@ -18064,7 +18658,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C98220"
+		(property "LCSC" "C20142011"
 			(at 285.75 68.58 0)
 			(effects
 				(font
@@ -18155,6 +18749,15 @@
 			)
 		)
 		(property "MOUSER_PART_NUMBER" ""
+			(at 285.75 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser PN" "603-AC0603FR-7W10KL"
 			(at 285.75 68.58 0)
 			(effects
 				(font
@@ -18292,7 +18895,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Light emitting diode"
+		(property "Description" "Emerald Green 530nm LED Indication - Discrete 2.7V 0603"
 			(at 369.57 137.16 0)
 			(effects
 				(font
@@ -18399,7 +19002,7 @@
 				)
 			)
 		)
-		(property "Color" "green"
+		(property "Color" "Green"
 			(at 365.506 138.684 90)
 			(effects
 				(font
@@ -18445,6 +19048,24 @@
 			)
 		)
 		(property "MOUSER_PART_NUMBER" ""
+			(at 356.87 137.16 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser PN" "743-IN-S63AT5G"
+			(at 356.87 137.16 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" "2,7V"
 			(at 356.87 137.16 90)
 			(effects
 				(font
@@ -18514,7 +19135,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Light emitting diode"
+		(property "Description" "Amber 609nm LED Indication - Discrete 2V 0603"
 			(at 236.22 52.07 0)
 			(effects
 				(font
@@ -18621,7 +19242,7 @@
 				)
 			)
 		)
-		(property "Color" "amber"
+		(property "Color" "Amber"
 			(at 231.394 52.832 90)
 			(effects
 				(font
@@ -18667,6 +19288,24 @@
 			)
 		)
 		(property "MOUSER_PART_NUMBER" ""
+			(at 223.52 52.07 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser PN" "743-IN-S63AT5A"
+			(at 223.52 52.07 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" "2,0V"
 			(at 223.52 52.07 90)
 			(effects
 				(font
@@ -18736,7 +19375,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Light emitting diode"
+		(property "Description" "Emerald Green 530nm LED Indication - Discrete 2.7V 0603"
 			(at 133.35 137.16 0)
 			(effects
 				(font
@@ -18843,7 +19482,7 @@
 				)
 			)
 		)
-		(property "Color" "green"
+		(property "Color" "Green"
 			(at 129.286 138.684 90)
 			(effects
 				(font
@@ -18889,6 +19528,24 @@
 			)
 		)
 		(property "MOUSER_PART_NUMBER" ""
+			(at 120.65 137.16 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser PN" "743-IN-S63AT5G"
+			(at 120.65 137.16 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" "2,7V"
 			(at 120.65 137.16 90)
 			(effects
 				(font
@@ -18949,7 +19606,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C227973.pdf"
 			(at 238.76 128.27 0)
 			(effects
 				(font
@@ -18958,7 +19615,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "590Ω 100mW 75V Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS"
 			(at 238.76 128.27 0)
 			(effects
 				(font
@@ -18976,7 +19633,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "RC0603FR-071KL"
+		(property "MPN" "AC0603FR-07590RL"
 			(at 238.76 128.27 0)
 			(effects
 				(font
@@ -19003,7 +19660,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C22548"
+		(property "LCSC" "C227973"
 			(at 238.76 128.27 0)
 			(effects
 				(font
@@ -19102,6 +19759,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser PN" "603-AC0603FR-07590RL"
+			(at 238.76 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "68baefba-18aa-4ae2-a637-9a8f903e5a0b")
 		)
@@ -19163,7 +19829,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Light emitting diode"
+		(property "Description" "Emerald Green 530nm LED Indication - Discrete 2.7V 0603"
 			(at 251.46 52.07 0)
 			(effects
 				(font
@@ -19270,7 +19936,7 @@
 				)
 			)
 		)
-		(property "Color" "green"
+		(property "Color" "Green"
 			(at 247.396 53.594 90)
 			(effects
 				(font
@@ -19316,6 +19982,24 @@
 			)
 		)
 		(property "MOUSER_PART_NUMBER" ""
+			(at 238.76 52.07 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser PN" "743-IN-S63AT5G"
+			(at 238.76 52.07 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" "2,7V"
 			(at 238.76 52.07 90)
 			(effects
 				(font
@@ -19374,7 +20058,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C20142017.pdf"
 			(at 297.18 121.92 0)
 			(effects
 				(font
@@ -19383,7 +20067,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "200mW 1MΩ Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS"
 			(at 297.18 121.92 0)
 			(effects
 				(font
@@ -19401,7 +20085,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "RC0603FR-071ML"
+		(property "MPN" "AC0603FR-7W1ML"
 			(at 297.18 121.92 0)
 			(effects
 				(font
@@ -19428,7 +20112,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C14675"
+		(property "LCSC" "C20142017"
 			(at 297.18 121.92 0)
 			(effects
 				(font
@@ -19437,7 +20121,7 @@
 				(hide yes)
 			)
 		)
-		(property "Package" "C105578"
+		(property "Package" "0603"
 			(at 297.18 121.92 0)
 			(effects
 				(font
@@ -19526,6 +20210,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser PN" "603-AC0603FR-7W1ML"
+			(at 297.18 121.92 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "c892e644-d970-4dbc-ba83-c15454ee0287")
 		)
@@ -19587,7 +20280,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Light emitting diode"
+		(property "Description" "Emerald Green 530nm LED Indication - Discrete 2.7V 0603"
 			(at 369.57 52.07 0)
 			(effects
 				(font
@@ -19694,7 +20387,7 @@
 				)
 			)
 		)
-		(property "Color" "green"
+		(property "Color" "Green"
 			(at 365.506 53.594 90)
 			(effects
 				(font
@@ -19740,6 +20433,24 @@
 			)
 		)
 		(property "MOUSER_PART_NUMBER" ""
+			(at 356.87 52.07 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser PN" "743-IN-S63AT5G"
+			(at 356.87 52.07 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" "2,7V"
 			(at 356.87 52.07 90)
 			(effects
 				(font
@@ -19801,7 +20512,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C20142011.pdf"
 			(at 290.83 153.67 0)
 			(effects
 				(font
@@ -19810,7 +20521,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "10kΩ 200mW Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS"
 			(at 290.83 153.67 0)
 			(effects
 				(font
@@ -19828,7 +20539,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "RC0603FR-0710KL"
+		(property "MPN" "AC0603FR-7W10KL"
 			(at 290.83 153.67 0)
 			(effects
 				(font
@@ -19855,7 +20566,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C98220"
+		(property "LCSC" "C20142011"
 			(at 290.83 153.67 0)
 			(effects
 				(font
@@ -19954,6 +20665,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser PN" "603-AC0603FR-7W10KL"
+			(at 290.83 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "28d9d947-bd53-4ea2-af34-319006c3e690")
 		)
@@ -20015,7 +20735,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Light emitting diode"
+		(property "Description" "Amber 609nm LED Indication - Discrete 2V 0603"
 			(at 354.33 137.16 0)
 			(effects
 				(font
@@ -20122,7 +20842,7 @@
 				)
 			)
 		)
-		(property "Color" "amber"
+		(property "Color" "Amber"
 			(at 349.504 137.922 90)
 			(effects
 				(font
@@ -20168,6 +20888,24 @@
 			)
 		)
 		(property "MOUSER_PART_NUMBER" ""
+			(at 341.63 137.16 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser PN" "743-IN-S63AT5A"
+			(at 341.63 137.16 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" "2,0V"
 			(at 341.63 137.16 90)
 			(effects
 				(font
@@ -20228,7 +20966,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://cdn.sparkfun.com/assets/8/a/4/a/5/Kemet_Capacitor_Datasheet.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C2167095.pdf"
 			(at 77.47 224.79 0)
 			(effects
 				(font
@@ -20237,7 +20975,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "100nF ±5% 50V Ceramic Capacitor X7R 0805"
 			(at 77.47 229.87 0)
 			(effects
 				(font
@@ -20246,7 +20984,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
+		(property "Manufacturer" "KEMET"
 			(at 77.47 210.82 0)
 			(effects
 				(font
@@ -20255,7 +20993,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CC0603JRX7R9BB104"
+		(property "MPN" "C0805C104J5RACTU"
 			(at 77.47 210.82 0)
 			(effects
 				(font
@@ -20282,7 +21020,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C91183"
+		(property "LCSC" "C2167095"
 			(at 77.47 210.82 0)
 			(effects
 				(font
@@ -20291,7 +21029,7 @@
 				(hide yes)
 			)
 		)
-		(property "Package" "0603"
+		(property "Package" "0805"
 			(at 77.47 210.82 0)
 			(effects
 				(font
@@ -20318,7 +21056,7 @@
 				(hide yes)
 			)
 		)
-		(property "Dielectric" "X7R 5%"
+		(property "Dielectric" "X7R"
 			(at 70.104 212.598 0)
 			(effects
 				(font
@@ -20345,7 +21083,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "25V"
+		(property "Voltage" "50V"
 			(at 77.47 217.17 0)
 			(effects
 				(font
@@ -20354,7 +21092,7 @@
 				(hide yes)
 			)
 		)
-		(property "Tolerance" "20%"
+		(property "Tolerance" "5%"
 			(at 77.47 219.71 0)
 			(effects
 				(font
@@ -20400,6 +21138,15 @@
 			)
 		)
 		(property "MOUSER_PART_NUMBER" ""
+			(at 77.47 210.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser PN" "80-C0805C104J5R"
 			(at 77.47 210.82 0)
 			(effects
 				(font
@@ -20460,7 +21207,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C5714562.pdf"
 			(at 52.07 250.19 0)
 			(effects
 				(font
@@ -20469,7 +21216,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "Pin Header 3 Position 2.54mm Pitch Single Row Through Hole -55℃~+125℃"
 			(at 52.07 250.19 0)
 			(effects
 				(font
@@ -20514,7 +21261,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C6631883"
+		(property "LCSC" "C5714562"
 			(at 52.07 250.19 0)
 			(effects
 				(font
@@ -20612,6 +21359,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser PN" "200-HTSW10307GS"
+			(at 52.07 250.19 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "7b518f87-f03d-46e5-8bef-7cb3cb3b4418")
 		)
@@ -20676,7 +21432,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Light emitting diode"
+		(property "Description" "Amber 609nm LED Indication - Discrete 2V 0603"
 			(at 118.11 52.07 0)
 			(effects
 				(font
@@ -20783,7 +21539,7 @@
 				)
 			)
 		)
-		(property "Color" "amber"
+		(property "Color" "Amber"
 			(at 113.284 52.832 90)
 			(effects
 				(font
@@ -20829,6 +21585,24 @@
 			)
 		)
 		(property "MOUSER_PART_NUMBER" ""
+			(at 105.41 52.07 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser PN" "743-IN-S63AT5A"
+			(at 105.41 52.07 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" "2,0V"
 			(at 105.41 52.07 90)
 			(effects
 				(font
@@ -20957,7 +21731,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C20142011.pdf"
 			(at 49.53 238.76 0)
 			(effects
 				(font
@@ -20966,7 +21740,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "10kΩ 200mW Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS"
 			(at 49.53 238.76 0)
 			(effects
 				(font
@@ -20984,7 +21758,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "RC0603FR-0710KL"
+		(property "MPN" "AC0603FR-7W10KL"
 			(at 49.53 238.76 0)
 			(effects
 				(font
@@ -21011,7 +21785,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C98220"
+		(property "LCSC" "C20142011"
 			(at 49.53 238.76 0)
 			(effects
 				(font
@@ -21110,6 +21884,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser PN" "603-AC0603FR-7W10KL"
+			(at 49.53 238.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "f3bc5566-f197-42d8-b632-1e68fb2c62af")
 		)
@@ -21162,7 +21945,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C227579.pdf"
 			(at 341.63 43.18 0)
 			(effects
 				(font
@@ -21171,7 +21954,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "137kΩ 100mW 75V Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS"
 			(at 341.63 43.18 0)
 			(effects
 				(font
@@ -21189,7 +21972,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "AC0603FR-07137RL"
+		(property "MPN" "AC0603FR-07137KL"
 			(at 341.63 43.18 0)
 			(effects
 				(font
@@ -21216,7 +21999,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C227580"
+		(property "LCSC" "C227579"
 			(at 341.63 43.18 0)
 			(effects
 				(font
@@ -21315,6 +22098,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser PN" "603-AC0603FR-07137KL"
+			(at 341.63 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3b07268b-df7a-46c0-bcf6-f78a298eeeaa")
 		)
@@ -21365,7 +22157,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C20142017.pdf"
 			(at 60.96 121.92 0)
 			(effects
 				(font
@@ -21374,7 +22166,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "200mW 1MΩ Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS"
 			(at 60.96 121.92 0)
 			(effects
 				(font
@@ -21392,7 +22184,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "RC0603FR-071ML"
+		(property "MPN" "AC0603FR-7W1ML"
 			(at 60.96 121.92 0)
 			(effects
 				(font
@@ -21419,7 +22211,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C14675"
+		(property "LCSC" "C20142017"
 			(at 60.96 121.92 0)
 			(effects
 				(font
@@ -21428,7 +22220,7 @@
 				(hide yes)
 			)
 		)
-		(property "Package" "C105578"
+		(property "Package" "0603"
 			(at 60.96 121.92 0)
 			(effects
 				(font
@@ -21517,6 +22309,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser PN" "603-AC0603FR-7W1ML"
+			(at 60.96 121.92 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "ab9e6c32-4913-45f1-a061-b491ac476ad7")
 		)
@@ -21567,7 +22368,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.ti.com/lit/gpn/sn74lvc14a"
 			(at 224.79 143.51 0)
 			(effects
 				(font
@@ -21576,7 +22377,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Schmitt trigger 1.65V~3.6V 6.2ns@3.3V,50pF 1uA 6 1 SOIC-14 Gates and Inverters RoHS"
 			(at 224.79 143.51 0)
 			(effects
 				(font
@@ -21585,7 +22386,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "TI"
 			(at 224.79 143.51 0)
 			(effects
 				(font
@@ -21594,7 +22395,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "SN74LVC14ADR"
 			(at 224.79 143.51 0)
 			(effects
 				(font
@@ -21621,7 +22422,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C133541"
 			(at 224.79 143.51 0)
 			(effects
 				(font
@@ -21630,7 +22431,7 @@
 				(hide yes)
 			)
 		)
-		(property "Package" ""
+		(property "Package" "SOIC-14"
 			(at 224.79 143.51 0)
 			(effects
 				(font
@@ -21639,7 +22440,7 @@
 				(hide yes)
 			)
 		)
-		(property "Type" ""
+		(property "Type" "SMD"
 			(at 224.79 143.51 0)
 			(effects
 				(font
@@ -21710,6 +22511,15 @@
 			)
 		)
 		(property "MOUSER_PART_NUMBER" ""
+			(at 224.79 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser PN" "595-SN74LVC14ADR"
 			(at 224.79 143.51 0)
 			(effects
 				(font
@@ -21815,7 +22625,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Light emitting diode"
+		(property "Description" "Emerald Green 530nm LED Indication - Discrete 2.7V 0603"
 			(at 133.35 52.07 0)
 			(effects
 				(font
@@ -21922,7 +22732,7 @@
 				)
 			)
 		)
-		(property "Color" "green"
+		(property "Color" "Green"
 			(at 129.286 53.594 90)
 			(effects
 				(font
@@ -21968,6 +22778,24 @@
 			)
 		)
 		(property "MOUSER_PART_NUMBER" ""
+			(at 120.65 52.07 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser PN" "743-IN-S63AT5G"
+			(at 120.65 52.07 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" "2,7V"
 			(at 120.65 52.07 90)
 			(effects
 				(font
@@ -22029,7 +22857,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C20142011.pdf"
 			(at 54.61 68.58 0)
 			(effects
 				(font
@@ -22038,7 +22866,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "10kΩ 200mW Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS"
 			(at 54.61 68.58 0)
 			(effects
 				(font
@@ -22056,7 +22884,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "RC0603FR-0710KL"
+		(property "MPN" "AC0603FR-7W10KL"
 			(at 54.61 68.58 0)
 			(effects
 				(font
@@ -22083,7 +22911,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C98220"
+		(property "LCSC" "C20142011"
 			(at 54.61 68.58 0)
 			(effects
 				(font
@@ -22174,6 +23002,15 @@
 			)
 		)
 		(property "MOUSER_PART_NUMBER" ""
+			(at 54.61 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser PN" "603-AC0603FR-7W10KL"
 			(at 54.61 68.58 0)
 			(effects
 				(font

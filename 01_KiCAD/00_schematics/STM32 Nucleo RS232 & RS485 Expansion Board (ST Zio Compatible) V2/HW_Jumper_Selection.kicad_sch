@@ -1736,6 +1736,17 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "Stroom door Amber LED: I=U/R => 3,3V / 137Ω = 24mA\nStroom door Groene LED: I=U/R => 3,3V / 590R = 5,6mA\n\nMaximale stroom door Schmit trigger: ±90mA"
+		(exclude_from_sim no)
+		(at 105.918 26.162 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "81353048-cb20-4f59-86d7-9a64484af3a7")
+	)
 	(junction
 		(at 99.06 226.06)
 		(diameter 0)

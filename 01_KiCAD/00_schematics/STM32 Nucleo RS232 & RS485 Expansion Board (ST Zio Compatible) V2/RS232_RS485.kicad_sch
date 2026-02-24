@@ -10422,7 +10422,7 @@
 				(hide yes)
 			)
 		)
-		(property "DNP" ""
+		(property "DNP" "DNP"
 			(at 74.93 33.02 0)
 			(effects
 				(font
@@ -12110,7 +12110,7 @@
 				(hide yes)
 			)
 		)
-		(property "DNP" ""
+		(property "DNP" "DNP"
 			(at 29.21 33.02 0)
 			(effects
 				(font
@@ -12210,6 +12210,33 @@
 			)
 		)
 		(property "Mouser PN" "80-C0805C104J5R"
+			(at 29.21 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Farnell PN" ""
+			(at 29.21 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 29.21 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Series" ""
 			(at 29.21 33.02 0)
 			(effects
 				(font

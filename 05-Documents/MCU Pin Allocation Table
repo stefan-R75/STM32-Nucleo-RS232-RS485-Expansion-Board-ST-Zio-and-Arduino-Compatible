@@ -1,0 +1,20 @@
+Ik heb de volgende pin bezetting:
+L1-DCD zit op Pin 14 van CN7 en is op de MCU  signalnam "
+L2-RXD zit op Pin 16 van CN10 en is op de MCU signalnam "
+L3-TXD zit op Pin 14 van CN10 en is op de MCU signalnam "
+L4-DTR zit op Pin 12 van CN7 en is op de MCU signalnam "
+L5-DSR zit op Pin 04 van CN7 en is op de MCU  signalnam "
+L6-RTS zit op Pin 12 van CN10 en is op de MCU  signalnam "
+L7-CTS zit op Pin 08 van CN10 en is op de MCU  signalnam "
+L8-RI zit op Pin 02 van CN7 en is op de MCU signalnam "
+MCU_MODE0 zit op Pin 20 van CN7 en is op de MCU  signalnam "
+MCU-MODE1 zit op Pin 01 van CN9 en is op de MCU signalnam "
+MCU-MODE2 zit op Pin 09 van CN9 en is op de MCU signalnam "
+MCU_DIR zit op Pin 02 van CN10 en is op de MCU signalnam "
+MCU-SLR zit op Pin 10 van CN7 en is op de MCU signalnam "
+MCU_TERM_TX zit op Pin 07 van CN9 en is op de MCU signalnam "
+MCU_TERM_RX zit op Pin 05 van CN9 en is op de MCU signalnam "ADC12_INP13" (PC3) op Pin
+MCU_OE zit op Pin 03 van CN9 en is op de MCU signalname "ADC123_INP10" (PC0) op Pin
+MCU_SHDN zit op Pin 30 van CN9 en is op de MCU signalname "I/O" (PG1) op Pin 
+MCU_RXLED_GPIO zit op Pin 14 van CN8 en is op de MCU signalname "I/O" (PG2) op Pin
+MCU_TXLED_GPIO zit op Pin 16 van CN8 en is op de MCU signalname "I/O" (PG3) op Pin 

@@ -139,7 +139,7 @@
         "min_track_width": 0.2,
         "min_via_annular_width": 0.1,
         "min_via_diameter": 0.5,
-        "solder_mask_to_copper_clearance": 0.0,
+        "solder_mask_to_copper_clearance": 0.005,
         "use_height_for_length_calcs": true
       },
       "teardrop_options": [
@@ -188,6 +188,8 @@
       ],
       "track_widths": [
         0.0,
+        0.127,
+        0.14,
         0.2,
         0.25,
         0.4,
@@ -723,7 +725,7 @@
   },
   "schematic": {
     "annotate_start_num": 0,
-    "bom_export_filename": "${PROJECTNAME}.csv",
+    "bom_export_filename": "pcbway_production/HW_REV_A0.2_2026-02-22/STM32 Nucleo RS232 & RS485 Expansion Board (ST Zio Compatible) V2.csv",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
       "field_delimiter": ",",
@@ -1039,13 +1041,13 @@
           "show": true
         },
         {
-          "group_by": false,
+          "group_by": true,
           "label": "Value",
           "name": "Value",
           "show": true
         },
         {
-          "group_by": false,
+          "group_by": true,
           "label": "DNP",
           "name": "${DNP}",
           "show": true
@@ -1096,7 +1098,7 @@
           "group_by": false,
           "label": "DNP",
           "name": "DNP",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
@@ -1117,7 +1119,7 @@
           "show": false
         },
         {
-          "group_by": false,
+          "group_by": true,
           "label": "LCSC",
           "name": "LCSC",
           "show": true
@@ -1386,6 +1388,26 @@
           "name": "Series",
           "url": false,
           "visible": false
+        },
+        {
+          "name": "Voltage",
+          "url": false,
+          "visible": true
+        },
+        {
+          "name": "Tolerance",
+          "url": false,
+          "visible": true
+        },
+        {
+          "name": "Power Rating",
+          "url": false,
+          "visible": true
+        },
+        {
+          "name": "Temperature Coefficient",
+          "url": false,
+          "visible": true
         }
       ],
       "intersheets_ref_own_page": false,

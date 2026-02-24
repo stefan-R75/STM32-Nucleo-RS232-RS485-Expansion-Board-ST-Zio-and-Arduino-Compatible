@@ -1034,6 +1034,185 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "R_0603_1"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "R"
+				(at -4.318 -3.048 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(thickness 0.254)
+						(bold yes)
+					)
+				)
+			)
+			(property "Value" "R_0603"
+				(at -2.54 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(thickness 0.254)
+						(bold yes)
+						(color 72 0 72 1)
+					)
+				)
+			)
+			(property "Footprint" "PCM_fab:R_0603"
+				(at -10.16 -0.254 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://nl.mouser.com/datasheet/3/508/1/PYu-AC_51_RoHS_L_11.pdf"
+				(at -11.684 -4.318 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Resistor"
+				(at -11.684 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Package" "0603"
+				(at 2.794 -3.302 90)
+				(effects
+					(font
+						(size 1.016 1.016)
+						(color 194 0 194 1)
+					)
+					(justify left)
+				)
+			)
+			(property "Voltage" "75V"
+				(at 4.572 -3.302 90)
+				(effects
+					(font
+						(size 1.016 1.016)
+						(color 194 0 0 1)
+					)
+					(justify left)
+				)
+			)
+			(property "Tolerance" "1%"
+				(at 4.572 1.016 90)
+				(effects
+					(font
+						(size 1.016 1.016)
+						(color 194 0 0 1)
+					)
+					(justify left)
+				)
+			)
+			(property "Temperature Coefficient" "100PPM/°C"
+				(at 6.35 2.794 90)
+				(effects
+					(font
+						(size 1.016 1.016)
+						(color 194 0 0 1)
+					)
+					(justify left)
+				)
+			)
+			(property "Power Ratin" "200mW"
+				(at 6.35 -3.556 90)
+				(effects
+					(font
+						(size 1.016 1.016)
+						(color 194 0 0 1)
+					)
+					(justify left)
+				)
+			)
+			(property "ki_keywords" "R res resistor RC0603FR-101KL RC0603FR-074K99L RC0603FR-0710KL RC0603FR-101ML"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "*R*1206*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "R_0603_1_0_1"
+				(rectangle
+					(start -1.016 -2.54)
+					(end 1.016 2.54)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+			)
+			(symbol "R_0603_1_1_1"
+				(pin passive line
+					(at 0 5.08 270)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -5.08 90)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "TLV77518PDBVR:TLV77518PDBVR"
 			(pin_names
 				(offset 0.254)
@@ -2839,7 +3018,7 @@
 				(hide yes)
 			)
 		)
-		(property "DNP" "Optional"
+		(property "DNP" "DNP"
 			(at 246.634 131.572 0)
 			(effects
 				(font
@@ -2932,6 +3111,33 @@
 			)
 		)
 		(property "Voltage" "50V"
+			(at 246.38 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Farnell PN" ""
+			(at 246.38 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 246.38 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Series" ""
 			(at 246.38 128.27 0)
 			(effects
 				(font
@@ -4127,6 +4333,8 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
 				)
 				(justify left)
 			)
@@ -4136,6 +4344,8 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
 					(color 72 0 72 1)
 				)
 				(justify left)
@@ -4214,12 +4424,12 @@
 			)
 		)
 		(property "Package" "0805"
-			(at 90.17 128.27 0)
+			(at 86.36 130.556 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 1.016 1.016)
+					(color 194 0 194 1)
 				)
-				(hide yes)
 			)
 		)
 		(property "Type" "SMD"
@@ -4457,22 +4667,26 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "64275790-9e75-4cee-9a4d-0f70a6aa50fb")
 		(property "Reference" "R2"
-			(at 118.11 125.7299 0)
+			(at 118.11 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
 				)
 				(justify left)
 			)
 		)
 		(property "Value" "100K"
-			(at 118.11 128.2699 0)
+			(at 118.11 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(color 72 0 72 1)
 				)
 				(justify left)
 			)
@@ -4582,9 +4796,10 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
-		(property "Voltage Rating" "1% 100mW"
+		(property "Voltage Rating" ""
 			(at 118.11 130.8099 0)
 			(effects
 				(font
@@ -4592,6 +4807,7 @@
 					(color 194 0 0 1)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "DESCRIPTION" ""
@@ -4646,6 +4862,65 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Farnell PN" ""
+			(at 115.57 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 115.57 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Series" ""
+			(at 115.57 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" "75V"
+			(at 120.65 131.572 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" "1%"
+			(at 118.364 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Power Rating" "200mW"
+			(at 125.984 131.572 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Temperature Coefficient" "100PPM/C"
+			(at 125.222 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "2"
@@ -6522,6 +6797,8 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
 				)
 				(justify left)
 			)
@@ -6531,6 +6808,8 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
 					(color 72 0 72 1)
 				)
 				(justify left)
@@ -8001,6 +8280,8 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
 				)
 				(justify left)
 			)
@@ -8010,6 +8291,8 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
 					(color 72 0 72 1)
 				)
 				(justify left)
@@ -9080,6 +9363,8 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
 				)
 				(justify left)
 			)
@@ -9089,6 +9374,8 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
 					(color 72 0 72 1)
 				)
 				(justify left)
@@ -10007,6 +10294,8 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
 				)
 				(justify left)
 			)
@@ -10016,6 +10305,8 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
 					(color 72 0 72 1)
 				)
 				(justify left)
@@ -10254,6 +10545,7 @@
 		)
 	)
 	(symbol
+		(lib_name "R_0603_1")
 		(lib_id "PCM_fab:R_0603")
 		(at 115.57 115.57 0)
 		(unit 1)
@@ -10261,22 +10553,26 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "f5ad4ca5-6b05-4e0d-ad9c-17dc41f424d3")
 		(property "Reference" "R1"
-			(at 118.11 113.0299 0)
+			(at 118.11 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
 				)
 				(justify left)
 			)
 		)
 		(property "Value" "150K"
-			(at 118.11 115.5699 0)
+			(at 118.11 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(color 72 0 72 1)
 				)
 				(justify left)
 			)
@@ -10290,7 +10586,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C20142013.pdf"
+		(property "Datasheet" "https://nl.mouser.com/datasheet/3/508/1/PYu-AC_51_RoHS_L_11.pdf"
 			(at 115.57 115.57 0)
 			(effects
 				(font
@@ -10299,7 +10595,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "200mW 150kΩ Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS"
+		(property "Description" "Resistor"
 			(at 115.57 115.57 0)
 			(effects
 				(font
@@ -10354,12 +10650,12 @@
 			)
 		)
 		(property "Package" "0603"
-			(at 115.57 115.57 0)
+			(at 120.142 116.332 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 1.016 1.016)
+					(color 194 0 194 1)
 				)
-				(hide yes)
 			)
 		)
 		(property "Type" "SMD"
@@ -10388,7 +10684,7 @@
 				)
 			)
 		)
-		(property "Voltage Rating" "1% 100mW"
+		(property "Voltage Rating" ""
 			(at 118.11 118.1099 0)
 			(effects
 				(font
@@ -10450,6 +10746,79 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Farnell PN" ""
+			(at 115.57 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey PN" ""
+			(at 115.57 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Series" ""
+			(at 115.57 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" "75V"
+			(at 119.634 118.11 0)
+			(effects
+				(font
+					(size 1.016 1.016)
+					(color 194 0 0 1)
+				)
+			)
+		)
+		(property "Tolerance" "1%"
+			(at 118.618 119.634 0)
+			(effects
+				(font
+					(size 1.016 1.016)
+					(color 194 0 0 1)
+				)
+			)
+		)
+		(property "Power Rating" "200mW"
+			(at 124.206 118.11 0)
+			(effects
+				(font
+					(size 1.016 1.016)
+					(color 194 0 0 1)
+				)
+			)
+		)
+		(property "Temperature Coefficient" "100PPM/°C"
+			(at 124.206 119.634 0)
+			(effects
+				(font
+					(size 1.016 1.016)
+					(color 194 0 0 1)
+				)
+			)
+		)
+		(property "Power Ratin" "200mW"
+			(at 124.46 114.554 90)
+			(effects
+				(font
+					(size 1.016 1.016)
+					(color 194 0 0 1)
+				)
+				(justify left)
 			)
 		)
 		(pin "2"

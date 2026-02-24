@@ -1,0 +1,21 @@
+CHANGELOG
+
+HW REV A0.3 (01-03-2026_001) <- datum van release
+(CL_HW_2026_0001)
+- Added text value "TX" for diode D3 and "RX" for diode D4 on silkscreen layer
+
+(CL_HW_2026_0002)
+- Changed "MCU_SHDN" control pin from CN9-Pin30 to CN9-Pin11 to make ON/OFF control by CPU possible when conencted to Arduino board.
+  On Arduino platform, this is pin-name A5 
+
+(CL_HW_2026_0003)
+- MCU-gestuurde Debug LED's
+	* Error LED: Laat deze branden als je code een UART-parity error of framing error detecteert.
+	* Flow Control LED: Indien je gebruikmaakt van de DE (Driver Enable) voor RS485 half-duplex, kun je een LED koppelen aan deze pin om te zien wanneer de zender actief de bus "overneemt".
+	* Diagnostische Loopback: De chip ondersteunt een Diagnostic Loopback modus. Je kunt een LED reserveren die aangeeft wanneer je in deze testmodus zit, wat erg handig is om te verifiëren of je softwarestack intern goed werkt zonder externe kabels. 
+
+(CL_SW_2026_0003)
+- Add option for X-NUCLEO display for displaying debug information
+
+HW REVA0.2	INITIAL VERSION
+

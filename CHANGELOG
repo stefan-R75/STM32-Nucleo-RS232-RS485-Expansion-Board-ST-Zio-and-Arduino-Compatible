@@ -9,6 +9,10 @@ HW REV A0.3 (01-03-2026_001) <- datum van release
   On Arduino platform, this is pin-name A5 
 
 (CL_HW_2026_0003)
+- Added R77 - Pull-up resistor for L2 input of THVD4431 chip.
+  Reason is that TI E2E expert recommended a weak pull up resistor (maybe 47k) on L2 incase you use the device in RS485 half duplex mode and DIR is set high, L2 will float and could cause a glitch to the MCU.
+
+(CL_HW_2026_0004)
 - MCU-gestuurde Debug LED's
 	* Error LED: Laat deze branden als je code een UART-parity error of framing error detecteert.
 	* Flow Control LED: Indien je gebruikmaakt van de DE (Driver Enable) voor RS485 half-duplex, kun je een LED koppelen aan deze pin om te zien wanneer de zender actief de bus "overneemt".
